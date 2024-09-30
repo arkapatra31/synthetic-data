@@ -1,0 +1,101 @@
+customerNumber,customerName,contactLastName,contactFirstName,phone,addressLine1,addressLine2,city,state,postalCode,country,salesRepEmployeeNumber,creditLimit,LTV
+8212,Soto Inc,Thornton,Joanna,001-983-849-8083,145 Lindsey Ville Apt. 210,Suite 804,Larsonburgh,North Carolina,97399,Togo,7237,9086.29,3370.8
+4092,"Lee, Morrow and Miller",Shea,Karen,(243)418-7973,9257 Adams Rapid,Apt. 928,South Trevortown,Washington,20887,Saint Martin,9689,8058.95,8078.28
+6332,Matthews PLC,Schultz,Patricia,452.549.0750x63718,499 Benitez Creek,Suite 664,Lake Rachelmouth,West Virginia,85151,Uruguay,4888,6837.42,5077.24
+3692,Duran-Nixon,Savage,Kimberly,978.342.7959,4979 Sanchez Overpass Apt. 001,Suite 988,South Michaelview,Montana,36170,Equatorial Guinea,8103,5068.59,9116.63
+5684,"Sanchez, Coleman and Davis",Johnson,Michael,+1-437-398-6967x7142,07051 Jeremiah Green,Suite 381,Sarahberg,Missouri,73605,Canada,3967,4881.15,2637.86
+5070,"Forbes, Morrison and Vega",Benton,Kaitlyn,3677710120,459 Davidson Plain,Apt. 942,Andrewport,Wyoming,04179,Seychelles,8124,9126.23,1776.13
+2013,"Hoover, Turner and Thomas",Williams,Leslie,001-796-473-0267x7922,80147 Perkins Estates Suite 446,Suite 877,East Julieport,North Dakota,36956,Isle of Man,3351,3933.09,3132.26
+9321,"Salazar, Miller and Morgan",Moore,Adam,(907)765-4520x99730,898 Gray Expressway,Apt. 643,Dunlapborough,Louisiana,47704,North Macedonia,6482,1512.17,8965.78
+2879,"Delgado, Stone and Mueller",Nelson,Jacqueline,001-350-321-3907x9257,0190 Berry Road Suite 251,Suite 388,Port Virginialand,Maine,57551,Trinidad and Tobago,4662,7672.33,4085.01
+1333,"Warren, Roberts and Kim",Stark,Douglas,+1-599-454-3812x07310,98024 Patel Pine,Suite 755,Lake Ryanport,Massachusetts,14812,Albania,8484,2800.63,4977.87
+3791,"Williams, Price and Alexander",Williams,Timothy,290.235.3677x958,55053 James Summit Suite 789,Suite 481,Schneiderville,Pennsylvania,55826,Croatia,8038,6004.86,3634.82
+1986,"Cox, Campbell and Sanders",Holmes,Erin,(584)376-5226x08725,400 Owens Springs Apt. 944,Apt. 198,Sandrachester,Maryland,70634,Moldova,5688,2148.32,1694.96
+2164,Stevens Ltd,Lopez,Benjamin,2762468190,0652 Suzanne Rapids,Suite 795,South Brett,Oklahoma,86496,Cameroon,6821,4636.22,5920.33
+2357,Mcclain-Chen,Chase,Luis,(843)971-7167,6772 Gibson Island,Apt. 092,Berryfurt,New York,96635,North Macedonia,1526,9744.34,6997.3
+4934,Smith-Bentley,Padilla,Angela,001-718-297-7178x6134,1271 Fuentes Trace Apt. 083,Apt. 218,Port Christophershire,Kentucky,49781,Turkey,2208,3954.64,7151.03
+3242,Gonzalez Inc,Johnson,Dawn,429-527-1021x0452,17774 Katherine Hollow,Suite 103,Perezside,Missouri,21215,Yemen,1515,8282.35,7935.02
+7697,"Washington, Woodard and Higgins",Carr,Christopher,799.812.7713x19135,9730 Darrell Forges Suite 434,Apt. 020,Bryantfurt,West Virginia,49444,Svalbard & Jan Mayen Islands,4212,2770.16,1668.44
+4149,Porter Ltd,Duncan,Katelyn,001-752-586-7834x5621,5237 Baird Points Apt. 199,Apt. 279,Peterland,Oklahoma,39580,Bangladesh,5593,9406.95,8530.93
+6275,"James, Brown and Turner",Murray,Jose,594.733.9995x41043,28397 Marquez Locks Suite 128,Suite 528,Port Ellenhaven,Maryland,77156,Kyrgyz Republic,6585,4937.17,3877.2
+7470,Stewart-Reyes,Potter,Tonya,(961)612-1474x9620,96510 Stewart Curve Suite 182,Apt. 929,East Andreabury,Vermont,41783,Netherlands Antilles,6589,3938.62,7683.47
+7676,"Acosta, Bridges and Murray",Pruitt,Patricia,633.774.8163x51369,8972 Ashley Mission,Apt. 275,New Sarah,Georgia,68447,Jersey,2090,5558.34,6691.01
+8027,Patel-Lewis,Duncan,Tim,5709842041,23022 Jordan Burgs,Apt. 126,New Crystalmouth,Michigan,88934,Brazil,2977,1326.0,1599.12
+2973,White Ltd,Hayes,Michael,(475)978-4480x403,87991 Robert Harbors Suite 128,Apt. 008,North Michaelfurt,Ohio,09674,Paraguay,2878,5714.67,4852.47
+4316,Rivera LLC,Gordon,Adam,889-363-7895,33158 Osborne Lodge Suite 189,Apt. 979,North Annamouth,Alaska,53849,Jordan,7504,4341.79,1312.71
+1425,"Flores, Lopez and Pacheco",Harris,April,+1-670-789-3043x1344,04499 Mccall Drive,Suite 929,Lake Taylor,Wyoming,66238,Qatar,2553,9832.11,4074.12
+5440,Mason Group,Singh,Brooke,+1-783-946-6843x670,1704 Lowery Courts,Apt. 499,East Davidburgh,Oklahoma,80496,Niue,5422,6063.84,2608.89
+4910,Esparza-Nguyen,Murphy,Robert,463.537.5161x821,39822 Lisa Extension Suite 315,Apt. 702,Shermanmouth,New Mexico,30681,Lao People's Democratic Republic,5623,6149.37,7440.56
+7402,"Taylor, Sanchez and Harris",Shelton,Julia,783-964-1563x33626,344 Melissa Flat,Suite 082,Lake Adrianbury,Wisconsin,44726,Belgium,9285,3250.89,8410.79
+6831,"Lee, Smith and Ingram",Green,Virginia,788-221-2964,308 Silva Mission Suite 338,Suite 184,Aprilville,Illinois,96510,Northern Mariana Islands,8769,9456.96,9042.58
+7500,Mcdonald LLC,Kaiser,Mary,+1-523-618-0380x34787,18767 John Bypass Suite 330,Apt. 546,Tarafurt,Tennessee,61348,Somalia,9098,4987.1,2576.34
+8053,Johnson Group,Jennings,David,001-247-579-0930,469 Mcbride Park,Apt. 488,Jeffreyland,Illinois,41701,Cuba,8520,7530.11,6939.8
+5379,Peterson-Archer,Thomas,Jake,+1-299-807-6063x4677,146 Paul Mills,Suite 731,Brianside,Florida,42513,Belarus,3850,5805.51,8863.5
+4047,Bennett-Barnes,Brown,Matthew,(774)472-2096x98330,646 James Turnpike,Apt. 351,Davisbury,Indiana,86231,Honduras,9479,2812.93,5464.74
+9887,Horton Inc,White,Matthew,(713)943-4015,091 Neal Meadows Suite 391,Apt. 079,South Elizabeth,Pennsylvania,51072,Reunion,7624,4056.37,2509.63
+3584,"Gay, Williams and Graves",Henry,Kara,+1-364-664-1706,82507 Kenneth Road,Apt. 173,Morrisonmouth,Illinois,37103,Saint Barthelemy,3918,4315.11,1088.06
+3170,"Townsend, Wolf and Johnson",Young,Kyle,(423)864-1670x0994,0159 Brandy Gateway,Suite 657,Mistyberg,Oklahoma,72532,Solomon Islands,2546,4458.45,8113.74
+2517,Zimmerman Group,Wilson,Antonio,(853)995-8950,217 Perez Crossing,Apt. 849,Jeremytown,California,11949,Samoa,9019,5165.48,7937.99
+3543,Sanchez and Sons,Vasquez,Charles,001-777-830-4779,081 James Streets Suite 212,Apt. 348,Rileyview,Illinois,04010,Monaco,3455,3822.97,8779.0
+7789,Lee-Morrison,Banks,Jason,474-869-0699,7013 Timothy Islands,Suite 133,Smithview,Georgia,06181,United States of America,7510,1234.75,2563.69
+5900,Adams-Lawrence,Newman,Joshua,+1-861-718-4222,3736 Walker Run,Suite 015,Michaelfort,Texas,32303,Morocco,4893,2162.48,2581.87
+8576,"Cooley, Johnson and Anderson",Casey,Erica,951-286-5145x96029,752 Dawson Garden,Apt. 301,Port Adamville,Alabama,61613,Saint Lucia,6989,8531.97,1313.61
+2453,Davis and Sons,Foley,Audrey,(508)472-4505,0679 Cooper Highway,Suite 964,Port Kendra,Montana,09062,Dominica,3216,8582.45,7030.17
+8644,"Valdez, Fitzgerald and Evans",Gonzales,Dylan,(836)922-8632x301,523 Adam Creek Suite 559,Apt. 638,Lake Kimberly,South Dakota,31926,Marshall Islands,4865,1874.06,2200.37
+5733,"Meyer, Perry and Brock",Chase,Anna,510-996-7791x780,3182 John Overpass,Apt. 387,Hollandton,Delaware,06865,Argentina,3353,2305.35,8765.81
+2969,"Mitchell, Robinson and Berg",Hughes,Mark,(729)360-9575x539,802 Nancy Springs,Apt. 080,West Allenbury,Maryland,69182,Mauritania,2217,8417.39,9889.87
+1219,"Watson, Stein and Harding",Blevins,Suzanne,001-303-709-2975x835,0951 Virginia Street Apt. 024,Suite 029,West Kenneth,Georgia,45887,Cuba,4169,3658.82,7626.0
+3386,White LLC,Gutierrez,Caitlin,(472)429-9332,8288 Wright Villages,Suite 282,Moorestad,Maine,93292,Portugal,8568,1282.98,2431.71
+9675,Hernandez-Dorsey,Larsen,Brittany,(200)986-3558x863,610 Catherine Streets Suite 311,Suite 310,Maryhaven,Minnesota,26676,Pitcairn Islands,3904,1748.51,2182.01
+7603,Richard-Mccarty,Underwood,Melanie,525.481.2558x1355,55810 Ramirez Highway,Suite 366,South Joanshire,Wyoming,60643,Ethiopia,6682,4888.15,1994.31
+3602,"Mitchell, Whitehead and Smith",Hoffman,Richard,001-520-832-6873x9069,216 Rogers Mission Suite 613,Suite 934,Lynnstad,Connecticut,80662,New Zealand,1951,3109.23,9992.88
+2337,Bailey-Bryant,Smith,Jeremiah,+1-876-447-7513x8694,1196 Anthony Brooks Apt. 665,Suite 271,East Mitchell,Virginia,58884,Kazakhstan,2175,3095.64,5638.11
+4312,"Green, Perkins and Forbes",Welch,Brian,953.674.3880x82859,98062 Baldwin Alley,Suite 269,Sarahport,Oregon,17984,Bulgaria,7287,4061.28,5452.67
+1685,"Davis, Hebert and Garrison",Evans,Meghan,777-529-8196x624,80150 April Key Apt. 921,Apt. 036,Rodriguezview,Montana,44958,Fiji,9937,5075.06,5966.94
+6410,Scott-Roman,Coleman,Sara,676.949.6543x386,22732 Ross Station Suite 903,Suite 034,Lynnfort,New Hampshire,09261,Saudi Arabia,4484,5878.75,6269.24
+3783,"Herrera, Flores and Duran",Wallace,James,001-404-826-2708x549,459 Jordan Center,Apt. 888,South Patricialand,Virginia,81389,Lao People's Democratic Republic,5566,9837.49,1892.28
+4481,Hayes-Park,Finley,Christopher,+1-926-853-9201x43562,7708 Wise Flats,Suite 302,Trevinoborough,Vermont,82080,Iceland,1690,7678.44,3589.0
+5204,King PLC,Adams,Danielle,215-308-9763,27482 Oneal Unions,Suite 410,New Katrinatown,Iowa,74606,Mauritius,8671,3313.16,6699.78
+2545,Davis Ltd,Nelson,Jason,396.880.9703x0362,12420 Michele Mountain Apt. 180,Apt. 136,East Jessica,Nebraska,18136,Serbia,7417,5686.81,3851.15
+6826,Scott Ltd,Thompson,Mark,+1-553-496-1445x1543,5777 Shannon Shore,Suite 464,Harringtonville,Alabama,72279,Qatar,4830,6206.76,6554.23
+4418,"Herman, Jackson and Cook",Washington,Douglas,528-571-6733x5741,76803 Foster Station,Suite 193,South Markfort,Missouri,33194,Bulgaria,8914,4599.85,9426.28
+6302,"Carpenter, Garcia and Norris",Daniels,Donald,325-381-8176,620 Moore Square Suite 324,Apt. 361,Myersfurt,Arizona,14798,Tunisia,8072,9558.5,8726.74
+3826,Holder-Sanchez,Lee,Kylie,001-306-747-7706,1051 Frances Junction Suite 480,Apt. 242,Lake Michael,Michigan,14984,Central African Republic,9286,9732.27,3800.49
+5264,"Roberts, Farrell and Roberts",Scott,Gloria,(509)459-3139,77217 Jones Lakes,Apt. 673,Janiceberg,Nevada,09471,Liberia,7753,2171.0,3407.48
+8708,Thomas-Holland,White,Emma,310.888.6219x51081,960 Gould Causeway Apt. 660,Suite 987,Jasminberg,Nevada,86579,Portugal,7086,8161.91,1332.18
+5102,Craig-Turner,Allen,Gregory,001-438-222-4228x5309,2121 Young Stream Apt. 147,Suite 384,Kimberlyview,Alaska,54400,Syrian Arab Republic,2388,3405.53,6468.7
+3181,"Garcia, Hobbs and Guerrero",Woods,Melissa,(418)897-8655x657,886 Payne Pine Suite 294,Apt. 799,Stacyland,Oklahoma,96056,Cameroon,5846,5396.9,1570.68
+5956,Walton-Herring,Turner,Sara,(845)342-1801x156,7120 Ray Squares Apt. 845,Apt. 688,South Brandon,Maryland,77833,Saint Kitts and Nevis,5121,8269.0,5219.14
+4056,"Lee, Price and Wu",Johnson,Jackson,001-746-584-2574x799,312 Samantha Mews,Suite 488,Villanuevaton,Oregon,95774,Cayman Islands,1495,1179.19,4480.54
+6428,"Perez, Fields and Hardy",Cooper,Andrea,831.834.2685x79745,032 Heather Circles Suite 868,Suite 466,North Bobby,Montana,93323,Bahamas,9754,3924.84,2534.0
+3119,Howard Inc,Thornton,Catherine,+1-888-964-1106,454 Brad Drive Apt. 934,Suite 805,Brittanyville,Alabama,52429,Sweden,5763,7104.86,3356.22
+6501,Ryan and Sons,Lee,Brent,357.949.3416x072,033 Smith Wells Apt. 044,Apt. 735,West Sierra,North Dakota,49635,Saint Barthelemy,3776,4339.55,1466.9
+5193,Davidson Ltd,Smith,Stacy,275-241-6404x615,0560 Rhonda Mill Apt. 482,Apt. 800,New Amandaborough,Idaho,91859,Croatia,1213,3137.86,5900.18
+2632,West-Eaton,Perez,Robin,7783309741,3832 Allison Ridge Apt. 596,Apt. 883,Clarkbury,Montana,93114,French Guiana,1876,7384.51,8742.67
+4554,Newman PLC,Hardin,Alan,+1-473-358-1794x7395,08178 Stanley Freeway,Suite 544,Villaburgh,Wisconsin,79936,French Guiana,5784,1505.96,1256.35
+8204,Duffy LLC,Sosa,Darin,+1-652-411-0987,099 Wright Harbor,Apt. 425,Lake Justinborough,North Dakota,21867,Mozambique,3173,8317.11,5337.55
+1288,Pacheco-Yates,Yang,Clifford,001-783-829-5743,66938 Jessica Via Apt. 358,Apt. 509,West Jeremyborough,Arkansas,47939,Tajikistan,8174,8302.22,9095.24
+4164,"Barr, Cummings and Murphy",Perez,Chad,627-705-5515x425,01433 Barber Well Suite 167,Suite 925,Wardbury,Tennessee,80736,Saudi Arabia,9869,9217.11,4197.92
+2056,"Horn, Avery and Moore",Marsh,Meghan,(527)828-2132x158,889 Brown Fork Suite 024,Apt. 958,Lake Erica,Pennsylvania,39834,Mali,9437,6873.08,6681.05
+1336,Barker LLC,Barnes,Alexander,(305)536-5002,274 Daniel Trace Apt. 886,Apt. 411,East Jenniferborough,Texas,65442,Russian Federation,6135,5028.06,9227.91
+7418,Drake-Grant,Bailey,Kathryn,982-386-7324x265,633 Marshall Heights,Suite 520,South Sherylchester,Virginia,78019,Central African Republic,3896,3175.9,8082.34
+2812,"Blackwell, Brown and Rogers",Bailey,Jeffrey,001-828-603-7679x609,59457 Smith Knolls Suite 071,Suite 568,Harrisfort,Minnesota,90511,Jordan,6316,2501.65,6352.68
+8998,"Leonard, Blake and Collins",Smith,Tracey,980.834.6029x03169,08119 Brittany Cliffs,Suite 383,Port Javiermouth,Washington,55610,Georgia,1743,6104.95,7239.82
+3314,Pitts-Kaufman,Zhang,David,974-733-9066,444 Frederick Tunnel Suite 018,Suite 089,North Jennifermouth,Mississippi,96964,French Polynesia,3767,6032.79,6342.54
+5768,Ewing Ltd,Griffin,Kristen,(898)246-5084x26900,050 Eric Branch,Suite 094,South Wayne,New Hampshire,03749,North Macedonia,7705,5149.64,1603.98
+1736,Mullins Group,Watkins,Andrew,618.682.5714x41787,2168 Webster Station Apt. 267,Apt. 903,Josephchester,West Virginia,20045,Turkey,1156,6403.84,8610.16
+3363,Cooper-Robinson,Carlson,Taylor,801.532.3282x78407,468 Rowland Viaduct,Suite 360,West Billyland,Arkansas,19699,Guadeloupe,3246,6453.71,3998.58
+9742,Klein-Silva,Owens,Jeremiah,288.892.8643x889,35223 Coleman Ridges Suite 417,Apt. 251,Gallagherhaven,Indiana,25618,Netherlands,9136,9717.53,4527.19
+7638,Oconnor-West,Morton,David,378-688-8990x4858,54393 Brown Loaf Apt. 036,Apt. 423,Joshuaburgh,Kentucky,76171,Argentina,3103,6238.81,3024.33
+1643,Leblanc Ltd,Pollard,Michele,638.873.3743x69109,093 Edward Mount,Suite 118,West Theresa,New Hampshire,32904,Croatia,1034,1885.28,4527.41
+9590,"Turner, Frank and Acevedo",Hernandez,Jamie,2745337871,92551 Peterson Unions,Apt. 614,Meganmouth,Nevada,90145,Kyrgyz Republic,9157,8894.41,6555.27
+5579,Robles Group,Jacobson,Michael,401-773-6526x022,0678 Tammy Fork Apt. 036,Suite 186,East Billy,Delaware,63443,Kiribati,4847,4341.35,2451.04
+6009,Gardner-Carter,Edwards,George,(820)391-3498x887,543 Hayes Crossroad Apt. 754,Apt. 347,Port Breannastad,Missouri,32845,North Macedonia,2834,2334.71,6174.16
+6370,Nguyen-Smith,Mendoza,James,+1-968-983-0360x208,140 Hodges Burg,Suite 625,North Kelseyport,Kentucky,80448,United States of America,5937,9316.85,8451.75
+7251,Matthews PLC,Brown,Jeanette,001-908-404-3413,0537 Ralph Cliff Apt. 999,Suite 494,Port Alexandraport,Alabama,89490,Algeria,8256,1053.3,3089.4
+4478,"Gonzalez, Ponce and Sampson",Webb,Amy,+1-330-393-5409x52561,270 Peter Branch Suite 611,Apt. 083,West Sharonberg,South Dakota,13464,Nepal,6593,6460.2,5398.07
+6146,Caldwell-Andrews,Lambert,Jose,+1-699-414-8529,3899 Jonathan Islands Apt. 518,Suite 438,Williamsfort,Kansas,42319,Luxembourg,5708,3557.33,1188.23
+9094,Griffin and Sons,Morris,Theresa,596-664-8536x83123,820 Colton Centers,Apt. 582,South Bradley,Vermont,90735,Brazil,1326,7698.12,2140.39
+5383,"Olson, Simmons and Gonzales",Thompson,Adam,+1-827-688-1455x257,630 Denise Shores,Apt. 943,Marietown,New York,27978,El Salvador,2439,9576.23,3143.65
+3103,Mckee Group,Garcia,Douglas,(441)498-6560x63952,98627 Michelle Fall,Suite 623,Erikamouth,West Virginia,56545,Gabon,5172,2843.64,6853.42
+4326,Peterson Group,Brooks,Daniel,774.773.7780x66117,273 Paul River Suite 313,Apt. 888,Barnesland,South Carolina,22352,Korea,7489,7713.46,5340.27
