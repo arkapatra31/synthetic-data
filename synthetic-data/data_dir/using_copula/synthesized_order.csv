@@ -1,0 +1,51 @@
+orderID,orderDate,productCode,products,customerID,customerName,orderValue
+7086,2024-01-05,7911,Godrej-No-1-Bathing-Soap-Lime,5,Bob,52
+1902,2024-01-03,9677,Manearth-Percent-Natural-Berry-Toothpaste,3,Jane Doe,84
+2025,2024-01-03,9688,Manearth-Percent-Natural-Berry-Toothpaste,2,Jane Doe,101
+6088,2024-01-04,9672,Godrej-Protek-Master-Blaster-Handwash,4,Jane Doe,51
+3921,2024-01-03,8287,Godrej-Protek-Master-Blaster-Handwash,4,Bob,103
+5344,2024-01-03,9691,Manearth-Percent-Natural-Berry-Toothpaste,2,Jane Doe,99
+9778,2024-01-03,9685,Manearth-Natural-Turmeric-Saffron-brightning,3,Jane Doe,61
+3339,2024-01-04,9409,Manearth-Natural-Turmeric-Saffron-brightning,3,Alice,95
+6363,2024-01-02,9649,Manearth-Percent-Natural-Berry-Toothpaste,2,Jane Doe,107
+3968,2024-01-05,6358,Godrej-No-1-Bathing-Soap-Lime,5,Charlie,44
+2603,2024-01-02,9690,Manearth-Percent-Natural-Berry-Toothpaste,2,Jane Doe,109
+1913,2024-01-04,8397,Godrej-Protek-Master-Blaster-Handwash,4,Bob,86
+4672,2024-01-02,9691,Manearth-Percent-Natural-Berry-Toothpaste,1,John Doe,108
+3554,2024-01-03,9690,Manearth-Percent-Natural-Berry-Toothpaste,2,Jane Doe,104
+5845,2024-01-02,9687,Manearth-Percent-Natural-Berry-Toothpaste,2,Jane Doe,103
+6624,2024-01-02,9691,Manearth-Percent-Natural-Berry-Toothpaste,2,Jane Doe,109
+1614,2024-01-05,6386,Godrej-No-1-Bathing-Soap-Lime,5,Charlie,51
+4944,2024-01-05,6148,Godrej-No-1-Bathing-Soap-Lime,5,Charlie,69
+9778,2024-01-04,7340,Godrej-Protek-Master-Blaster-Handwash,4,Bob,98
+2949,2024-01-02,9680,Manearth-Percent-Natural-Berry-Toothpaste,2,Jane Doe,87
+1378,2024-01-05,5996,Godrej-No-1-Bathing-Soap-Lime,5,Charlie,97
+9384,2024-01-03,9690,Manearth-Percent-Natural-Berry-Toothpaste,2,Jane Doe,108
+1366,2024-01-02,9691,Manearth-Percent-Natural-Berry-Toothpaste,2,John Doe,95
+1156,2024-01-05,8060,Godrej-No-1-Bathing-Soap-Lime,5,Bob,50
+9121,2024-01-04,9624,Godrej-Protek-Master-Blaster-Handwash,4,Alice,72
+7299,2024-01-05,6784,Godrej-No-1-Bathing-Soap-Lime,5,Bob,53
+9509,2024-01-05,6873,Godrej-No-1-Bathing-Soap-Lime,5,Bob,53
+9348,2024-01-05,9077,Manearth-Natural-Turmeric-Saffron-brightning,3,Alice,103
+3865,2024-01-02,9289,Manearth-Natural-Turmeric-Saffron-brightning,3,Alice,108
+6936,2024-01-04,6200,Godrej-No-1-Bathing-Soap-Lime,5,Charlie,91
+4410,2024-01-02,9691,Manearth-Onion-Growth-Control-Redensyl,1,John Doe,109
+7218,2024-01-04,9676,Manearth-Percent-Natural-Berry-Toothpaste,3,Jane Doe,80
+3407,2024-01-02,8887,Godrej-Protek-Master-Blaster-Handwash,4,Alice,65
+8769,2024-01-03,7406,Godrej-Protek-Master-Blaster-Handwash,4,Bob,88
+7887,2024-01-02,9654,Manearth-Percent-Natural-Berry-Toothpaste,2,Jane Doe,110
+4947,2024-01-04,9691,Manearth-Onion-Growth-Control-Redensyl,1,Jane Doe,109
+4774,2024-01-05,7360,Godrej-No-1-Bathing-Soap-Lime,4,Bob,66
+9998,2024-01-02,9691,Manearth-Onion-Growth-Control-Redensyl,1,Jane Doe,110
+7422,2024-01-05,9275,Godrej-Protek-Master-Blaster-Handwash,4,Bob,58
+7256,2024-01-03,7047,Godrej-Protek-Master-Blaster-Handwash,4,Bob,102
+5437,2024-01-02,9617,Manearth-Percent-Natural-Berry-Toothpaste,2,Jane Doe,110
+1910,2024-01-05,6076,Godrej-No-1-Bathing-Soap-Lime,5,Charlie,72
+5674,2024-01-03,9194,Godrej-Protek-Master-Blaster-Handwash,4,Alice,91
+7644,2024-01-05,9482,Godrej-Protek-Master-Blaster-Handwash,4,Alice,54
+4728,2024-01-04,9460,Manearth-Natural-Turmeric-Saffron-brightning,3,Alice,86
+2973,2024-01-05,7372,Godrej-No-1-Bathing-Soap-Lime,4,Bob,59
+7750,2024-01-03,7087,Godrej-No-1-Bathing-Soap-Lime,5,Bob,94
+6487,2024-01-02,9645,Manearth-Percent-Natural-Berry-Toothpaste,2,Jane Doe,105
+5316,2024-01-03,9691,Manearth-Percent-Natural-Berry-Toothpaste,2,John Doe,91
+4260,2024-01-02,9690,Manearth-Percent-Natural-Berry-Toothpaste,2,Jane Doe,98
