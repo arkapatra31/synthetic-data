@@ -1,0 +1,1001 @@
+customerNumber,customerName,contactLastName,contactFirstName,phone,addressLine1,addressLine2,city,state,postalCode,country,salesRepEmployeeNumber,creditLimit,LTV
+2834,Thompson PLC,Chandler,Jeff,(214)518-6952,110 Oak St,Apt 6,Marseille,Île-de-France,75000,France,2407,8899.08,8426.87
+8059,"Barnes, Esparza and Poole",Ponce,John,975-914-7354x5880,339 Oak St,Apt 40,Utrecht,Limburg,3511,Netherlands,8467,9681.37,4914.47
+7136,"Smith, Jensen and Johnson",Miller,Christopher,+1-687-304-8547x62422,822 Park Ave,Apt 17,Utrecht,Limburg,6211,Netherlands,3323,2744.25,5251.07
+2785,Miller-Good,Moore,Elizabeth,+1-421-807-6417x81060,543 Beech Dr,Unit 6A,Charlotte,NC,28201,United States,7156,9467.44,3821.57
+1988,"King, Hawkins and Phillips",Burton,Michael,(724)647-4466,49 Oak St,Apt 1,Amsterdam,North Holland,3011,Netherlands,9870,7126.03,2243.07
+9917,"Scott, Martinez and Harmon",Murphy,Courtney,(476)805-7206x74392,296 Maple Ave,Apt 6,Seville,Catalonia,41001,Spain,2648,1724.6,6330.06
+2115,"Rivera, Stephens and Lee",Blanchard,Susan,253.445.6373,134 Redwood Dr,,Jacksonville,FL,32201,United States,3875,2283.34,6146.93
+8502,Livingston PLC,Serrano,Eric,526-885-5292x9966,907 Walnut St,,Fort Worth,TX,76101,United States,4734,1040.59,8266.23
+3842,"Drake, Delgado and Braun",Freeman,Michelle,+1-275-211-3694x19565,747 Main St,Apt 13,Barcelona,Andalusia,15001,Spain,6392,1311.02,7790.73
+4124,Nolan-Simmons,Floyd,Joanna,271-227-9956,19 High St,Apt 21,Leipzig,Berlin,10115,Germany,9854,1408.88,4523.66
+7857,Alvarez-Carroll,Morris,Ronald,(927)210-4425,19 High St,Apt 21,Leipzig,Berlin,10115,Germany,1880,2084.46,7232.8
+2853,Lopez Group,Smith,Edward,8538782815,237 Main St,Apt 35,Madrid,Valencia,15001,Spain,7449,1916.32,8241.94
+2590,Thompson and Sons,Grant,James,805-952-5337x6820,596 Park Ave,Apt 41,Madrid,Catalonia,28001,Spain,1727,7820.95,6640.19
+6304,Carson-Collins,Doyle,Ryan,791-662-6466,753 Chestnut Cir,,New Orleans,LA,70112,United States,7925,2067.17,9835.42
+3850,Shields Inc,Gross,Jenna,989.872.9347x1023,248 Maple Ct,,Baltimore,MD,21201,United States,7883,1023.51,7651.13
+7643,"Morrow, Johnson and Hansen",Brown,Janet,+1-849-434-7813x240,467 Cedar St,,Anaheim,CA,92801,United States,3236,2019.1,5720.59
+1321,Berger-Hammond,Rowe,Molly,001-245-445-2968x65686,951 Oak St,Apt 7A,Tampa,FL,33601,United States,4454,6724.36,9529.08
+8914,Walker-Manning,Banks,Austin,980.360.2906x953,110 Oak St,Apt 6,Marseille,Île-de-France,75000,France,6221,5745.98,5428.5
+6658,"Mclaughlin, Willis and Weaver",Lyons,Natalie,+1-835-316-2923x31912,907 Walnut St,,Fort Worth,TX,76101,United States,3120,9906.64,6578.41
+9203,Smith-Brown,Cooper,Ana,+1-877-439-3976x92416,456 Alder Ave,,Seattle,WA,98101,United States,8021,3170.64,9072.98
+9608,"Hayes, Johnson and Durham",Jones,Mary,+1-528-532-9447,358 Main St,Apt 25,Hamburg,Hamburg,60311,Germany,9936,6789.95,6748.85
+1225,Thomas-Rodriguez,Lopez,Richard,5229358662,747 Main St,Apt 13,Barcelona,Andalusia,15001,Spain,5676,5916.89,7019.48
+6387,"Smith, Harris and Jones",Freeman,Adam,001-741-794-5785x8927,343 Maple Ave,Apt 9,Berlin,Saxony,20095,Germany,6148,3674.92,4665.93
+3782,Evans-Allison,Holden,Stephen,001-541-882-7395x25520,793 Oak St,Apt 22,A Coruña,Madrid,08001,Spain,3996,8055.33,1477.03
+3301,Dawson-Rogers,Wang,Carrie,4156835566,321 Cypress Cir,,El Paso,TX,79901,United States,2460,5700.4,1415.22
+4973,"Cruz, Parker and Mitchell",Kemp,Michael,001-236-222-7059x424,987 Dogwood Rd,,Minneapolis,MN,55401,United States,9919,4356.58,6654.95
+2917,"Brown, Robinson and Jenkins",Brown,Sharon,+1-225-233-0771x76116,467 Cedar St,,Anaheim,CA,92801,United States,5487,4992.19,3661.17
+4074,White-Martin,Haynes,Mark,5954115790,543 Alder Dr,Suite 15,Kansas City,MO,64101,United States,6634,3102.3,5156.09
+4337,Hill PLC,Flores,Derrick,+1-423-443-1539x77282,203 Oak St,Apt 28,Munich,Hamburg,10115,Germany,4362,7957.37,2092.82
+7750,"Ewing, Collins and Barker",Chen,Cindy,(901)461-0855x17292,456 Oak Ave,Suite 300,Los Angeles,CA,90001,United States,6152,7915.52,3097.7
+9560,"Reid, Phillips and Khan",Davis,Matthew,9363451324,321 Spruce Dr,,Omaha,NE,68101,United States,8477,8788.98,3497.81
+2766,Cox-Taylor,Pugh,Donald,(803)342-0040,339 Oak St,Apt 40,Utrecht,Limburg,3511,Netherlands,8243,7046.99,9435.93
+2183,"Andrews, Lee and Ortiz",Richards,Travis,(295)810-3675x44709,761 Maple Ave,Apt 19,Milan,Lombardy,00100,Italy,9563,9343.01,2097.71
+7650,Warren and Sons,Martin,Cindy,+1-341-978-2218x78653,890 Chestnut Ave,,Fresno,CA,93701,United States,9835,1740.01,1385.21
+6474,Davidson Inc,House,Crystal,001-535-342-6898x1959,893 Oak St,Apt 47,Naples,Lombardy,20100,Italy,7093,2374.9,3467.48
+3090,"Harper, Short and Morales",Ellis,Michael,(481)365-0467x1600,753 Birch Cir,Suite 4,Portland,OR,97201,United States,6076,1438.39,8026.26
+3834,Bowers-Nichols,Brady,Amber,709-465-2860,930 Main St,Apt 32,Utrecht,Utrecht,1012,Netherlands,5201,2647.29,5344.99
+6359,Trevino-Fitzpatrick,Jackson,Natalie,+1-227-468-3047,987 Cedar Rd,,Philadelphia,PA,19101,United States,1860,1435.08,8082.06
+3094,"Torres, Blanchard and Clark",Deleon,Joseph,364-358-0097,543 Alder Dr,Suite 15,Kansas City,MO,64101,United States,6737,4119.79,9559.77
+3200,King and Sons,Hernandez,Pamela,249.887.5525x23409,19 High St,Apt 21,Leipzig,Berlin,10115,Germany,4198,8477.7,7306.6
+1441,Rodgers-Christensen,Christensen,Kyle,563.425.7307x0035,679 Redwood Ln,Unit 2C,Tucson,AZ,85701,United States,5113,4499.18,8868.85
+1700,"Ramirez, Vega and Barnes",Garcia,Diana,300-951-8295x52212,14 Oak St,Apt 35,Venice,Piedmont,00100,Italy,8874,1215.01,3802.13
+3909,Mccarthy-Wilkinson,Daugherty,Justin,001-894-829-5145,407 Park Ave,Apt 15,Venice,Lombardy,80100,Italy,1985,5069.13,9953.12
+9584,Nelson Inc,Fisher,Justin,8677413079,852 Palm Ave,,Dallas,TX,75201,United States,6185,4418.74,2098.1
+6133,Thomas LLC,Young,Andrew,678.332.4830x467,987 Cedar Rd,,Philadelphia,PA,19101,United States,6161,1027.69,8989.05
+5601,"Jones, Buckley and Brown",Douglas,Sarah,+1-392-752-7472,134 Pine Dr,,Milwaukee,WI,53201,United States,3165,7064.7,1492.02
+6212,"Andrews, Harris and Stevens",Douglas,Angela,794-269-1759,134 Redwood Dr,,Jacksonville,FL,32201,United States,2967,7263.61,6540.88
+4507,"Bennett, Thomas and Hall",Park,April,438.925.2791,49 Oak St,Apt 1,Amsterdam,North Holland,3011,Netherlands,3907,8340.44,1553.49
+5897,"Morales, Medina and Wilson",Diaz,Christopher,001-865-447-1653x27356,439 Maple Ave,Apt 17,Turin,Lazio,20100,Italy,1578,6199.97,8465.82
+8290,"Goodwin, Norris and Lopez",Patel,Keith,4704380969,296 Maple Ave,Apt 6,Seville,Catalonia,41001,Spain,2346,1585.76,4338.59
+1204,Roberts-Molina,Edwards,Laura,(940)881-6889x14219,920 Oak St,Apt 11,Milan,Campania,30100,Italy,5704,9604.46,4760.79
+1800,Whitaker-Martinez,Scott,Amber,(694)712-4776x565,460 Oak St,Apt 36,Milan,Piedmont,80100,Italy,5627,2961.84,6370.16
+4664,Dalton-Johnson,Yang,David,472.389.0034x671,159 Willow Ln,,Memphis,TN,38101,United States,5540,5342.88,4689.48
+6791,Ramirez Ltd,Kerr,Andrew,001-935-894-6744x3778,19 High St,Apt 21,Leipzig,Berlin,10115,Germany,7629,4145.02,3681.44
+4500,Stevens-Gibson,Harmon,Christina,001-923-484-5584,439 Maple Ave,Apt 17,Turin,Lazio,20100,Italy,2770,4678.38,1108.73
+3222,"Parks, Bowman and Compton",Moody,James,001-280-583-2934x6902,134 Pine Dr,,Milwaukee,WI,53201,United States,9854,7921.3,8888.17
+9969,Mccall-Myers,Smith,Richard,(545)922-4253x1406,123 Maple St,Apt 2,New York,NY,10001,United States,7780,6006.37,1276.33
+8652,Fritz-Lopez,Casey,Angela,+1-739-235-9065x407,826 Oak St,Apt 49,Toulouse,Île-de-France,13000,France,2664,4002.24,9411.36
+8189,"Erickson, Burke and Garcia",Hopkins,Courtney,230-265-9065,321 Birch Blvd,,Houston,TX,77001,United States,4094,3614.0,8176.17
+5545,Jones Group,Arroyo,Destiny,(894)399-9345x23556,98 Park Ave,Apt 35,Amsterdam,Gelderland,1012,Netherlands,6025,4826.06,4641.46
+9444,Phillips LLC,Sullivan,Edwin,543.960.9883x0252,72 Main St,Apt 24,Utrecht,North Holland,3011,Netherlands,1609,3246.12,2012.1
+2199,"Mccullough, Lowery and Franco",Brown,Christina,502-503-7230,951 Oak St,,Louisville,KY,40201,United States,5102,7021.02,8154.06
+9446,Graham-Smith,Baker,Alan,(562)303-9869,134 Redwood Dr,,Jacksonville,FL,32201,United States,9740,9605.94,4793.43
+1084,"Hudson, Hopkins and Sanders",Chambers,Amanda,(904)476-8817,439 Maple Ave,Apt 17,Turin,Lazio,20100,Italy,8965,9927.5,5774.14
+1692,Rosales-Johnson,Finley,Craig,(840)911-9667,790 Maple Ave,Apt 34,Seville,Catalonia,41001,Spain,5798,2764.27,9419.17
+3993,Chan-Roberts,Boone,Mark,+1-230-572-7404x33256,187 Park Ave,Apt 42,Munich,Saxony,80331,Germany,9657,5122.92,3482.77
+9573,Randolph Ltd,Martinez,Angela,(694)924-2524x7898,72 Main St,Apt 24,Utrecht,North Holland,3011,Netherlands,5014,5738.03,5184.21
+3741,George-Ryan,Miller,James,701-921-0385x51354,852 Maple Ave,,Cleveland,OH,44101,United States,2014,7791.68,8530.01
+1767,"Arias, Edwards and Mitchell",Krueger,James,001-458-620-6392,654 Fir St,,Nashville,TN,37201,United States,6828,8654.78,4389.16
+4569,"Love, Freeman and Branch",Lozano,Barbara,+1-687-433-4777x128,339 Oak St,Apt 40,Utrecht,Limburg,3511,Netherlands,8045,8746.49,4602.38
+9195,Arroyo Ltd,Marshall,Derek,+1-984-505-3787x13437,826 Oak St,Apt 49,Toulouse,Île-de-France,13000,France,9654,1472.96,5037.91
+7793,Wright-Campbell,Fitzgerald,John,938.581.5066,790 Maple Ave,Apt 34,Seville,Catalonia,41001,Spain,8639,9080.99,8938.2
+2954,"Murphy, Olson and Jefferson",Burns,Adam,+1-394-648-3479x65039,321 Cypress Cir,,El Paso,TX,79901,United States,3153,5014.67,9250.99
+9727,"Parker, Lane and Anderson",Bailey,Hannah,849-301-5737,793 Oak St,Apt 22,A Coruña,Madrid,08001,Spain,7412,9611.36,6412.16
+8406,"Schaefer, Woods and Garcia",Gutierrez,Pamela,2948599419,456 Maple Ave,Apt 9B,Miami,FL,33101,United States,4933,9416.8,9756.47
+1570,"Wagner, Black and Valdez",Nguyen,Jerry,(298)423-7943x13950,226 Main St,Apt 1,Leipzig,Bavaria,10115,Germany,7833,3952.79,7277.13
+7682,"Davenport, Gutierrez and Jones",Fry,Evan,001-317-747-1346,456 Alder Ave,,Seattle,WA,98101,United States,6305,5218.89,2469.04
+6398,Carter-Wilson,Jones,Carmen,307-604-3831,543 Beech Dr,Unit 6A,Charlotte,NC,28201,United States,2031,8730.02,1652.78
+8399,Fisher Inc,Smith,Shawn,379-442-6543x443,907 Walnut St,,Fort Worth,TX,76101,United States,4357,2981.41,7108.83
+5258,"Moreno, Roman and Vazquez",Evans,Courtney,(203)490-6064x478,296 Maple Ave,Apt 6,Seville,Catalonia,41001,Spain,1798,9680.16,6134.67
+4646,Anderson-Diaz,Henderson,Henry,+1-546-663-5335,134 Pine Dr,,Milwaukee,WI,53201,United States,1954,8464.98,7405.04
+6998,Martin Ltd,Hahn,Harry,837.690.7843x69241,460 Oak St,Apt 36,Milan,Piedmont,80100,Italy,2056,2777.23,6134.23
+5337,"Osborne, Hill and Mclaughlin",Cohen,Jason,569-540-0260,456 Oak Ave,Suite 300,Los Angeles,CA,90001,United States,3079,9962.75,1617.68
+7013,Mills-Sullivan,Walker,Brittany,3016605480,617 Park Ave,Apt 34,Leipzig,Hesse,04103,Germany,1027,2508.77,3693.16
+5242,Wilson-Garcia,Owens,Kelly,(931)901-9212x0494,456 Alder Ave,,Seattle,WA,98101,United States,8082,7599.2,3651.97
+5605,Brown-King,Wiley,Michelle,(213)519-8533x293,890 Chestnut Ave,,Fresno,CA,93701,United States,9955,9485.16,8468.43
+7167,"Herman, Jackson and Wallace",Lang,Cole,903.314.2127x491,456 Alder Ave,,Seattle,WA,98101,United States,7405,2413.85,3243.73
+7103,Williams-Underwood,Price,Kevin,+1-356-216-9524x847,596 Park Ave,Apt 41,Madrid,Catalonia,28001,Spain,5179,1846.56,7076.42
+6541,Dickerson-Whitaker,Kennedy,Jennifer,307-313-7719x8651,679 Spruce Ln,,Santa Ana,CA,92701,United States,1522,9179.96,1743.88
+4981,Watkins-Flowers,Love,David,560-777-1712,49 Oak St,Apt 1,Amsterdam,North Holland,3011,Netherlands,8894,1488.55,3002.11
+5507,"Ross, Byrd and Boyd",Williamson,Matthew,001-643-475-9459x24691,789 Maple Dr,Apt 3B,Denver,CO,80201,United States,2472,7539.42,5376.98
+8503,"Warren, Castaneda and Baxter",Norris,Sara,+1-843-276-2295x17189,456 Alder Ave,,Seattle,WA,98101,United States,8903,8885.82,7901.45
+6892,Scott-Gutierrez,Ramirez,Christopher,9868854648,203 Oak St,Apt 28,Munich,Hamburg,10115,Germany,5457,9379.61,5636.29
+4600,Bell and Sons,Vazquez,Johnny,2292478793,907 Oak St,,Sacramento,CA,94203,United States,2659,4171.7,9757.24
+1887,Smith LLC,Sanchez,Monica,+1-603-372-8821,852 Cedar Ave,,Las Vegas,NV,89101,United States,2106,4989.33,7593.28
+8756,"Walker, Smith and Oliver",Harrington,Gary,+1-919-607-4725x2925,456 Maple Ave,Apt 9B,Miami,FL,33101,United States,2258,2360.93,1440.37
+1723,Garza and Sons,Williams,Daniel,942.308.8471,269 Maple Ave,Apt 21,Turin,Campania,80100,Italy,8426,3505.95,4408.11
+9493,Shaffer-Tucker,Schmidt,Kristina,936-588-1551,966 Park Ave,Apt 32,Naples,Campania,30100,Italy,8846,8351.09,1792.13
+9891,Weaver-Huber,Morrison,Samantha,(549)861-3727,608 Park Ave,Apt 2,Venice,Lombardy,00100,Italy,8316,4987.3,7731.91
+2411,Cruz-Conway,Davis,Sophia,(363)401-7611,826 Oak St,Apt 49,Toulouse,Île-de-France,13000,France,1190,5899.4,7059.0
+2357,"Riley, Daniel and Willis",Rose,Tammy,+1-765-812-4794,679 Spruce Ln,,Santa Ana,CA,92701,United States,5443,2274.06,5918.51
+3524,Farrell LLC,Carter,Sandra,247-493-8851x1480,47 Main St,Apt 17,Frankfurt,Hamburg,10115,Germany,4818,9141.37,6572.85
+5874,Crane-Le,Morgan,Bryan,+1-790-353-1665x8302,321 Cypress Cir,,El Paso,TX,79901,United States,7915,1668.81,8790.85
+5525,"Carroll, Elliott and Juarez",Levy,Erin,001-923-734-5443,951 Hickory St,Apt 7,San Jose,CA,95101,United States,2819,5772.55,8095.83
+3058,Thompson-Ponce,Alvarez,Troy,8168948950,543 Beech Dr,Unit 6A,Charlotte,NC,28201,United States,9665,5515.98,9030.61
+1758,"Garcia, Gomez and Brooks",Stewart,Cindy,+1-659-487-0007x116,789 Pine Dr,Unit 5B,Chicago,IL,60601,United States,2056,5980.12,1510.49
+5116,Simmons PLC,Kelley,David,(289)366-1078,826 Oak St,Apt 49,Toulouse,Île-de-France,13000,France,2437,9323.75,1835.71
+7206,"Hall, Hutchinson and Key",Jones,Eric,343.270.8005,237 Main St,Apt 35,Madrid,Valencia,15001,Spain,3695,7146.28,1605.0
+4742,West-Green,Wright,Anthony,(384)772-3415x15326,14 Oak St,Apt 35,Venice,Piedmont,00100,Italy,2640,5015.08,7814.99
+7621,Hood-Grant,Sanchez,Jimmy,508.959.6926x725,49 Oak St,Apt 1,Amsterdam,North Holland,3011,Netherlands,8673,6843.22,5076.74
+2152,Camacho Inc,Moore,Scott,318-962-7730x92331,159 Spruce Ln,,San Antonio,TX,78201,United States,5630,5519.21,6056.49
+2641,Richardson and Sons,Gordon,Brandon,964-371-1685x59133,596 Park Ave,Apt 41,Madrid,Catalonia,28001,Spain,8969,5041.21,5429.45
+9978,King-Ramos,Jones,Lisa,(222)239-1760x87909,460 Oak St,Apt 36,Milan,Piedmont,80100,Italy,2698,7548.08,1045.45
+3111,Choi-Bright,Kennedy,Christine,853-528-9463x765,617 Park Ave,Apt 34,Leipzig,Hesse,04103,Germany,3044,8324.57,7529.77
+1157,Novak Inc,Jenkins,Nicole,(967)993-9461x570,951 Hickory St,Apt 7,San Jose,CA,95101,United States,9981,3911.59,8403.07
+9410,"Williams, Orozco and Wilson",Miller,Virginia,398-873-0594x6336,753 Willow Cir,Suite 10,San Diego,CA,92101,United States,3352,6923.15,1720.45
+9503,Scott-Carter,Nguyen,Michael,3093978597,890 Poplar Ave,Suite 20,Columbus,OH,43085,United States,4240,5890.02,5824.56
+6507,"Fischer, Dunn and Curtis",Jackson,Charles,394-468-8953x5536,951 Oak St,,Louisville,KY,40201,United States,3054,3491.15,6938.49
+5294,"Walker, Lee and Bradshaw",Peterson,Michael,870-966-1257x4858,237 Main St,Apt 35,Madrid,Valencia,15001,Spain,8887,9699.65,2411.1
+9783,Cook-Cook,Oconnor,Sherri,001-508-461-3685x60382,679 Redwood Ln,Unit 2C,Tucson,AZ,85701,United States,7059,4662.17,1383.03
+2975,"Reeves, Wood and Johnson",Evans,Taylor,978.791.5993x3198,159 Willow Ln,,Memphis,TN,38101,United States,8204,2451.48,5089.69
+5765,"Harris, Marquez and Harvey",Johnson,Brandon,(395)304-0022,951 Oak St,Apt 7A,Tampa,FL,33601,United States,3866,1053.63,3953.55
+8300,Wilson and Sons,Hicks,Melanie,+1-947-552-5678x3818,652 High St,Apt 34,Bordeaux,Île-de-France,31000,France,9492,3753.53,7561.7
+5799,Singleton-Taylor,Osborn,Kimberly,+1-856-648-8601x0565,679 Spruce Ln,,Santa Ana,CA,92701,United States,5602,1655.31,3729.04
+4746,Young LLC,Hughes,Michael,001-860-872-7544x201,49 Maple Ave,Apt 31,Milan,Piedmont,10100,Italy,8441,2899.74,4512.28
+7626,Hurley-Leon,Collins,John,001-243-356-2108x788,826 Oak St,Apt 49,Toulouse,Île-de-France,13000,France,8346,4712.63,2815.34
+2605,Stout Inc,Shaw,Michelle,686.830.9234x7843,56 Maple Ave,Apt 27,Frankfurt,Hamburg,80331,Germany,8380,7953.88,5264.63
+3477,Maldonado-Dalton,Johnson,Tiffany,+1-956-280-1507,123 Chestnut St,,Detroit,MI,48201,United States,3602,4561.73,1476.9
+5261,Adams-Thompson,Fleming,Eric,001-337-543-3160x5724,753 Willow Cir,Suite 10,San Diego,CA,92101,United States,2002,2079.34,2780.3
+8890,Curtis-Dickerson,Morton,Brian,001-302-710-8008,822 Park Ave,Apt 17,Utrecht,Limburg,6211,Netherlands,6619,8904.28,4060.2
+1311,Hall-Freeman,Jones,Maria,+1-708-584-3867x811,679 Dogwood Ln,,Indianapolis,IN,46201,United States,2821,4486.08,7135.32
+2775,"Aguilar, Shelton and Reid",Potts,Sharon,001-687-323-8516x8124,793 Oak St,Apt 22,A Coruña,Madrid,08001,Spain,1001,6494.36,5011.23
+4058,Harris-Turner,Marshall,Thomas,001-893-336-1988,890 Poplar Ave,Suite 20,Columbus,OH,43085,United States,1254,2025.05,5062.16
+2214,"Bentley, Lynch and Williams",Le,Erica,+1-989-912-3800,687 High St,Apt 38,Munich,Saxony,60311,Germany,8104,3233.16,1387.54
+1429,Hamilton-Hernandez,Carlson,Wayne,2118566043,134 Redwood Dr,,Jacksonville,FL,32201,United States,6083,9809.08,4776.79
+5162,Roth and Sons,Smith,Andrew,001-995-615-3449x0342,159 Sycamore Ln,,Wichita,KS,67201,United States,7086,7433.98,9351.07
+3895,Mckinney-Miller,Diaz,Amy,847.658.0125x23850,addressLine1,addressLine2,city,state,postalCode,country,2848,1768.81,5865.83
+2273,Hines-Carpenter,Jarvis,Monica,(397)379-5573x4450,134 Pine Ave,Suite 12,Bakersfield,CA,93301,United States,3011,5632.64,2396.06
+7135,Garcia Group,Nelson,Alisha,677-538-0636x20144,987 Dogwood Rd,,Minneapolis,MN,55401,United States,4177,5188.55,6760.47
+1525,"Clements, Miranda and Smith",Roberts,Rhonda,608-745-6605x149,543 Beech Dr,Unit 6A,Charlotte,NC,28201,United States,4736,5767.56,9568.8
+3131,Garcia PLC,Phillips,Tiffany,290-783-3277,907 Oak St,,Sacramento,CA,94203,United States,9785,7069.79,3423.83
+2663,Ward-Ball,Ortiz,Jessica,806.533.8542x2387,456 Alder Ave,,Seattle,WA,98101,United States,7765,1785.51,4588.01
+1627,"Park, Rodriguez and Andrews",Gilmore,Nicole,(384)845-4188,753 Birch Cir,Suite 4,Portland,OR,97201,United States,4121,9829.13,7785.02
+7808,Bullock-Wilson,Walsh,Greg,+1-361-450-4321,248 Birch Blvd,,Arlington,TX,76001,United States,9030,4184.02,4128.6
+5649,"Rogers, Cook and Fletcher",Jacobs,Linda,413.902.1744x22687,511 Main St,Apt 50,Marseille,Provence-Alpes-Côte d'Azur,31000,France,7117,7125.8,7920.3
+5357,"Thomas, Sandoval and Gordon",Munoz,Brian,+1-212-883-8694x0303,789 Maple Dr,Apt 3B,Denver,CO,80201,United States,5750,7070.53,9029.13
+1512,Hall Ltd,Cox,Brenda,581-497-9911,467 Spruce St,Apt 5,Albuquerque,NM,87101,United States,7684,9514.74,7658.3
+2375,"Johnson, Williams and Hansen",Webb,Ethan,001-955-954-7233x526,920 Oak St,Apt 11,Milan,Campania,30100,Italy,8754,9580.1,7143.67
+2935,Cain PLC,Herman,Sheri,(287)491-0221x18289,456 Alder Ave,,Seattle,WA,98101,United States,4834,6562.62,3309.5
+5457,"Holder, Sims and Wilson",Dunn,Susan,001-454-262-7396x881,687 High St,Apt 38,Munich,Saxony,60311,Germany,8299,9732.0,2649.4
+3886,Crawford PLC,Kim,David,(543)364-4099,262 Oak St,Apt 12,Marseille,Occitanie,31000,France,7812,2242.58,4395.68
+3811,Anderson-Reese,Morgan,Manuel,887.755.5783x7847,679 Redwood Ln,Unit 2C,Tucson,AZ,85701,United States,6395,8865.87,5368.23
+2078,"Mccarthy, Bass and Palmer",Gomez,Nicholas,249.300.1530x587,654 Redwood St,Unit 8,Colorado Springs,CO,80901,United States,4861,1075.67,9406.8
+8042,Clark-Floyd,Carter,Luke,526.411.6574x49693,654 Elm St,Apt 4C,Phoenix,AZ,85001,United States,4554,8909.16,9715.17
+8351,Quinn-Jackson,Archer,Linda,001-733-971-5160,654 Redwood St,Unit 8,Colorado Springs,CO,80901,United States,2035,8117.81,8939.85
+2126,Wade-Walton,Howell,Christina,643.661.3361,717 Oak St,Apt 11,Hamburg,Hesse,10115,Germany,6721,9548.58,9271.62
+8330,Villanueva-Robles,Taylor,Vanessa,(441)235-6422x306,123 Chestnut St,,Detroit,MI,48201,United States,9082,5917.76,5177.33
+5555,"Silva, Guerra and Brooks",Peters,Kevin,299.382.2884x672,203 Oak St,Apt 28,Munich,Hamburg,10115,Germany,9532,2023.91,7020.27
+8641,Berry-Sharp,Burton,Kimberly,+1-476-568-7656,110 Oak St,Apt 6,Marseille,Île-de-France,75000,France,5517,2264.86,3865.46
+7040,"Mccoy, Ford and Owens",Wang,John,+1-826-692-4591x54060,237 Main St,Apt 35,Madrid,Valencia,15001,Spain,5215,2592.03,1747.2
+9851,Carter LLC,Hernandez,Kevin,693.531.4961x774,852 Maple Ave,,Cleveland,OH,44101,United States,2269,1919.97,3564.8
+7231,Rowe-Logan,Kelley,Allison,3515244365,652 High St,Apt 34,Bordeaux,Île-de-France,31000,France,4904,4167.66,7586.73
+9388,"Castaneda, Mccoy and Lin",Navarro,Haley,(895)731-4407x952,110 Oak St,Apt 6,Marseille,Île-de-France,75000,France,7130,9153.94,4952.01
+2494,Diaz-Davis,Ray,Terrance,546-488-9791x9340,456 Maple Ave,Apt 9B,Miami,FL,33101,United States,1030,1373.6,7077.63
+8737,Martin-Bradley,Adams,Johnathan,7023366224,226 Main St,Apt 1,Leipzig,Bavaria,10115,Germany,4843,9541.12,5412.38
+4447,Stanton PLC,Bowen,Nathan,+1-798-858-6982x4821,951 Oak St,Apt 7A,Tampa,FL,33601,United States,7860,3369.25,7611.44
+6036,Buchanan-Wagner,Jones,Russell,971-776-1305,134 Pine Dr,,Milwaukee,WI,53201,United States,9306,1728.56,4053.77
+7765,Vazquez-Harvey,Peterson,Jill,+1-756-920-1874x97851,123 Chestnut St,,Detroit,MI,48201,United States,4143,3443.16,8405.73
+9915,"Hamilton, Harper and Gardner",Dunn,Steven,+1-557-399-3295,600 Park Ave,Apt 2,Rotterdam,North Holland,3011,Netherlands,5867,4708.64,7523.19
+2163,Ramirez Inc,Hernandez,Jason,397-686-8418x0555,395 Park Ave,Apt 43,Rome,Veneto,00100,Italy,1974,4090.84,5033.46
+2793,Morris LLC,Howell,Molly,249-461-7589x851,49 Oak St,Apt 1,Amsterdam,North Holland,3011,Netherlands,9286,5710.32,3302.28
+6436,Watson PLC,Harrington,James,+1-572-376-5995x96788,687 High St,Apt 38,Munich,Saxony,60311,Germany,6784,2736.14,4707.2
+6155,Snyder LLC,Wright,Patricia,001-569-651-0251x2367,753 Birch Cir,Suite 4,Portland,OR,97201,United States,1705,1238.44,4477.08
+5182,"Mccullough, Edwards and Rodriguez",Burgess,Dennis,779.697.6501x933,826 Oak St,Apt 49,Toulouse,Île-de-France,13000,France,7647,4853.19,5556.17
+1217,"George, Richard and Carroll",Singh,Benjamin,871.377.8356,56 Maple Ave,Apt 27,Frankfurt,Hamburg,80331,Germany,2054,7562.14,5090.2
+9692,Bryant-Sanders,Wilson,Lisa,593-408-9921x59821,822 Park Ave,Apt 17,Utrecht,Limburg,6211,Netherlands,5870,2939.44,2328.85
+4270,Johnson-Ortiz,Dean,Mason,548.268.9448x353,407 Park Ave,Apt 15,Venice,Lombardy,80100,Italy,4641,2667.78,3016.36
+8495,Contreras Group,Morales,Timothy,251-216-1301,990 Maple Ave,Apt 7,Milan,Veneto,20100,Italy,2545,7272.34,8661.19
+7505,Schmidt-Howell,Wilson,Richard,445-397-9539x116,852 Cedar Ave,,Las Vegas,NV,89101,United States,3797,5509.18,6119.91
+6481,Wilson-Brewer,Thomas,Rebecca,(893)206-7290x28433,321 Spruce Dr,,Omaha,NE,68101,United States,4823,7179.82,8117.03
+1933,Patterson Inc,Lutz,Danielle,7316282070,907 Walnut St,,Fort Worth,TX,76101,United States,6294,1391.37,2257.23
+6619,Hampton Ltd,Gonzales,Beth,736-748-6239x36697,789 Pine Cir,,Raleigh,NC,27601,United States,9521,9723.49,8642.09
+8807,Wood PLC,Harvey,Daniel,999.615.4120,456 Oak Ave,Suite 300,Los Angeles,CA,90001,United States,2083,4223.32,9103.73
+9894,Perez LLC,Fisher,Michelle,+1-456-906-2417x7951,822 Park Ave,Apt 17,Utrecht,Limburg,6211,Netherlands,9609,2071.9,9770.86
+1032,Gilbert Ltd,Lee,Joseph,247.282.6504,717 Oak St,Apt 11,Hamburg,Hesse,10115,Germany,9298,8493.64,1750.2
+3656,"Howell, Kent and Cook",Price,Donna,+1-219-802-4512x3366,159 Spruce Ln,,San Antonio,TX,78201,United States,3573,4400.81,9874.6
+2400,Grant and Sons,Miller,Shawn,7104294830,789 Pine Cir,,Raleigh,NC,27601,United States,6119,5433.44,4768.04
+5529,"Donaldson, Hart and Bell",Whitaker,Teresa,708.772.8442x03832,187 Oak St,Apt 39,Utrecht,Gelderland,6811,Netherlands,7018,5185.14,9761.33
+3065,"Wood, Woods and Cunningham",Weber,Jesse,001-630-603-7660x71762,790 Maple Ave,Apt 34,Seville,Catalonia,41001,Spain,4312,2064.96,6180.26
+6322,"Wilson, Rogers and Lee",Jones,Catherine,469.267.7697,793 Oak St,Apt 22,A Coruña,Madrid,08001,Spain,8873,4548.54,6334.55
+4011,Johnson and Sons,Hernandez,Brittany,716.569.7638x0083,852 Maple Ave,,Cleveland,OH,44101,United States,4735,1174.08,4806.87
+1955,"Acevedo, Oconnell and Shannon",Nichols,Lucas,673.578.3517x8369,852 Cedar Ave,,Las Vegas,NV,89101,United States,8390,5588.24,6182.63
+5474,"Davis, Stokes and Lester",Wolfe,James,335.539.9108,717 Oak St,Apt 11,Hamburg,Hesse,10115,Germany,6364,9623.16,7873.76
+8023,Hendricks-Wright,Gonzalez,Angelica,649.782.6798x409,269 Maple Ave,Apt 21,Turin,Campania,80100,Italy,3896,7783.82,4286.26
+3590,"Horn, Gregory and Brady",Zhang,David,(237)844-5979,687 High St,Apt 38,Munich,Saxony,60311,Germany,2493,6605.77,7018.54
+9299,"Oconnor, Lopez and Brown",Andrews,Stacy,713.418.4266,addressLine1,addressLine2,city,state,postalCode,country,6243,3692.1,8922.24
+9014,Bradley Group,Osborne,Terri,001-568-678-0948x061,14 Oak St,Apt 35,Venice,Piedmont,00100,Italy,8148,4210.09,7630.09
+3440,"Watson, Edwards and Mendoza",Clark,Angela,509-259-9590x24188,789 Pine Cir,,Raleigh,NC,27601,United States,7649,6392.92,5763.9
+6628,Ward-Lopez,Taylor,Amanda,(964)402-0077x495,321 Birch Blvd,,Houston,TX,77001,United States,3180,9429.12,7875.84
+8326,Freeman Inc,Hurley,Andrea,788.592.7618x407,951 Oak St,,Louisville,KY,40201,United States,9723,3998.36,9044.3
+6370,Coleman LLC,Lambert,Victoria,8886639174,951 Oak St,,Louisville,KY,40201,United States,9537,2268.35,6072.26
+3225,Rogers Inc,Burgess,Jacob,821-847-4607x7900,753 Birch Cir,Suite 4,Portland,OR,97201,United States,6153,4532.58,2695.93
+6221,"Wright, Short and Trevino",Valdez,Crystal,640-822-2247,789 Pine Dr,Unit 5B,Chicago,IL,60601,United States,6592,5446.58,7478.31
+7223,"Berger, Adams and Carpenter",Reynolds,Sarah,369.806.6080,133 Oak St,Apt 16,Venice,Campania,20100,Italy,1035,9755.74,7010.07
+7898,Ferguson Inc,Conner,Michelle,7373536731,133 Oak St,Apt 16,Venice,Campania,20100,Italy,5929,2977.52,3171.34
+2918,Payne Group,Gilbert,Jennifer,9814626093,679 Redwood Ln,Unit 2C,Tucson,AZ,85701,United States,3844,7688.17,6762.73
+9965,"Wheeler, Parks and Young",Curry,Amy,001-508-935-6695x36612,789 Maple Dr,Apt 3B,Denver,CO,80201,United States,5618,1121.16,6595.48
+4812,"Harris, Ward and Watson",Bowman,Diane,+1-253-612-8332x1377,19 High St,Apt 21,Leipzig,Berlin,10115,Germany,9857,1990.79,5515.41
+4001,Evans Group,Peck,Wesley,(732)506-4835,343 Maple Ave,Apt 9,Berlin,Saxony,20095,Germany,1689,9459.07,5651.02
+6060,Jones-Sampson,Martinez,Chad,234.849.1937x3998,134 Redwood Dr,,Jacksonville,FL,32201,United States,8675,4449.59,1346.34
+4639,"Santos, Parker and Caldwell",Davis,Ronnie,577.439.5027,134 Pine Dr,,Milwaukee,WI,53201,United States,3106,9399.67,7507.28
+3560,Lambert Group,Daugherty,Melvin,967-226-6617x66437,14 Oak St,Apt 35,Venice,Piedmont,00100,Italy,6314,1999.7,9842.44
+9723,Turner LLC,Jackson,Jennifer,6887529903,14 Oak St,Apt 35,Venice,Piedmont,00100,Italy,3140,9781.42,1584.65
+1110,Thompson-Williams,Carter,Jody,(880)289-4648x7336,907 Oak St,,Sacramento,CA,94203,United States,6620,8066.87,7153.44
+7078,Anderson-Kirby,Fitzgerald,Stephanie,559.866.3633,907 Walnut St,,Fort Worth,TX,76101,United States,3563,9674.74,5203.15
+9047,Johnson-Lara,Wood,Pam,(450)440-6744x12749,407 Park Ave,Apt 15,Venice,Lombardy,80100,Italy,8684,7978.61,3595.63
+5423,Clay-Walker,Lopez,Steven,791-846-3373,951 Hickory St,Apt 7,San Jose,CA,95101,United States,5063,9088.13,1386.6
+1045,"Jones, Johnson and Robinson",Robertson,Amber,(479)537-1909x9543,321 Birch Blvd,,Houston,TX,77001,United States,2916,9264.86,5837.6
+9603,"Harvey, Mcdonald and Salinas",Mitchell,Kimberly,001-801-455-3087x128,134 Pine Dr,,Milwaukee,WI,53201,United States,3787,2501.24,7705.72
+8611,Beard and Sons,Rios,Nicole,+1-560-521-5825x9431,248 Birch Blvd,,Arlington,TX,76001,United States,3447,3116.97,2484.41
+3924,Petersen-Collins,Jones,Melanie,282.346.4918,203 Oak St,Apt 28,Munich,Hamburg,10115,Germany,5637,9919.83,2399.02
+6234,"Barber, Gonzales and Ferguson",Moses,Audrey,370.671.1645x84946,742 High St,Apt 30,Marseille,Occitanie,69000,France,1998,4975.19,8906.89
+7462,Chen LLC,Hoover,Timothy,907-738-2596x54822,49 Oak St,Apt 1,Amsterdam,North Holland,3011,Netherlands,2388,7924.89,1748.75
+9186,Odonnell-Donaldson,Wright,Elizabeth,950-706-6421,930 Main St,Apt 32,Utrecht,Utrecht,1012,Netherlands,7714,6187.11,4179.42
+5695,Miller-Fisher,Werner,Lisa,453-845-7039x77026,747 Main St,Apt 13,Barcelona,Andalusia,15001,Spain,5741,4170.16,6414.5
+9459,"Herrera, Huff and Brown",Thomas,Carlos,+1-414-584-1675x300,321 Spruce Dr,,Omaha,NE,68101,United States,4953,1944.74,2699.17
+6184,Gonzalez-Roberts,Jones,Matthew,403-490-4076x5036,339 Oak St,Apt 40,Utrecht,Limburg,3511,Netherlands,6108,6472.09,3346.47
+2221,Schultz Group,Long,Madison,634.210.8578x449,467 Cedar St,,Anaheim,CA,92801,United States,6000,5648.45,7435.47
+6376,Simon-Lewis,Acosta,Amanda,2246196152,654 Fir St,,Nashville,TN,37201,United States,9542,5701.95,5874.81
+3743,Mccoy-Rivera,Diaz,Paul,623-405-2721x0816,920 Oak St,Apt 11,Milan,Campania,30100,Italy,8023,6503.79,9859.78
+2596,Walker-Williams,Blake,Jennifer,338.360.2694x501,98 Park Ave,Apt 35,Amsterdam,Gelderland,1012,Netherlands,9295,1000.64,4548.11
+4718,Reyes-Page,Ortega,Jason,567-745-8905x23591,508 Maple Ave,Apt 35,Munich,Hamburg,04103,Germany,2441,8839.46,1551.61
+9998,Jackson PLC,Rodriguez,Alejandro,001-388-906-0454,123 Cedar St,,Atlanta,GA,30301,United States,9036,8470.23,9412.2
+3775,Wilson-White,Christensen,Brandon,(519)273-8038x479,19 High St,Apt 21,Leipzig,Berlin,10115,Germany,3344,4265.45,2500.12
+4024,Fletcher-Bowen,Johnson,Lauren,605-268-8700x0000,742 High St,Apt 30,Marseille,Occitanie,69000,France,9153,8558.21,9219.1
+3244,Vargas PLC,Fuller,Nichole,001-947-284-1729x192,248 Maple Ct,,Baltimore,MD,21201,United States,7166,8751.46,7705.58
+4265,Wilson LLC,Wood,Maria,933-380-6942x3082,789 Maple Dr,Apt 3B,Denver,CO,80201,United States,9026,9696.88,3303.4
+2096,Rose Ltd,Hernandez,Chase,6547910065,49 Oak St,Apt 1,Amsterdam,North Holland,3011,Netherlands,1149,3544.71,7967.23
+5426,Hanson and Sons,Freeman,Grace,878-283-9225x4960,134 Redwood Dr,,Jacksonville,FL,32201,United States,1659,4335.32,9783.93
+9575,"Nichols, Day and Roberts",Johnson,Ryan,(901)468-9660,237 Main St,Apt 35,Madrid,Valencia,15001,Spain,7723,4263.66,8255.97
+2578,Fernandez Inc,Green,Barbara,(866)801-1011,248 Birch Blvd,,Arlington,TX,76001,United States,5751,1028.04,9884.93
+9026,"Whitehead, Kelly and Chavez",Vargas,Fred,966-484-4273x513,987 Juniper Rd,,Boston,MA,02101,United States,5805,4507.02,2853.59
+7437,Barnes-Mathews,Salazar,Mary,687.401.6353,753 Chestnut Cir,,New Orleans,LA,70112,United States,8807,2128.63,6148.71
+4541,Miller-James,Ruiz,Aaron,910-388-6635,987 Juniper Rd,,Boston,MA,02101,United States,8728,8707.92,2657.06
+5198,Burton-Smith,Carr,Jennifer,476-400-2239x08292,262 Oak St,Apt 12,Marseille,Occitanie,31000,France,3418,1536.12,6271.8
+2668,Jones-Landry,Wright,Debra,846.367.7762x5491,203 Oak St,Apt 28,Munich,Hamburg,10115,Germany,1807,2109.88,7058.21
+8604,Marshall Group,Thomas,Cynthia,239-793-0407,789 Pine Dr,Unit 5B,Chicago,IL,60601,United States,6582,2647.59,7174.64
+4908,"King, Delacruz and Thomas",Campbell,Madison,2338296008,596 Park Ave,Apt 41,Madrid,Catalonia,28001,Spain,6190,2919.93,6838.68
+6879,Wheeler Group,Eaton,John,001-399-825-5251,654 Redwood St,Unit 8,Colorado Springs,CO,80901,United States,4295,8010.4,4001.91
+5928,"Thomas, Wall and Grant",Morris,David,552-503-7547x79593,674 Park Ave,Apt 6,Leipzig,Hamburg,20095,Germany,7437,4344.71,2457.02
+7993,Adams-Munoz,Yoder,Melanie,9936223553,456 Alder Ave,,Seattle,WA,98101,United States,6259,7712.69,4629.45
+3151,Drake Inc,Ashley,Brittany,395.837.1068x34708,753 Birch Cir,Suite 4,Portland,OR,97201,United States,5404,2605.15,5026.33
+4128,Thompson-Mccoy,White,Connie,971.450.7679,456 Maple Ave,Apt 9B,Miami,FL,33101,United States,6137,7442.9,9356.98
+8075,"Roberson, Case and Johnson",Rojas,Brenda,706.879.4121,893 Oak St,Apt 47,Naples,Lombardy,20100,Italy,2440,1595.06,7745.21
+8973,"Navarro, Carter and Reed",Cherry,Holly,+1-225-230-4529x7119,467 Spruce St,Apt 5,Albuquerque,NM,87101,United States,5350,8975.64,3415.4
+9923,Schmidt PLC,Hampton,Travis,(594)581-5584x5301,543 Beech Dr,Unit 6A,Charlotte,NC,28201,United States,6514,1776.62,3622.73
+1695,Beard-Short,Jimenez,Monica,317-845-8210,237 Main St,Apt 35,Madrid,Valencia,15001,Spain,1898,4524.93,7253.01
+4194,Wiggins Ltd,Hamilton,Kevin,001-712-792-1662x3332,987 Cedar Rd,,Philadelphia,PA,19101,United States,7876,4462.31,7620.62
+6793,Fields Group,Powers,Alexander,715.298.6203,133 Oak St,Apt 16,Venice,Campania,20100,Italy,7037,2493.05,5304.25
+6294,"Hobbs, Vargas and Johnson",Ortiz,Kelly,200-981-4489x7249,890 Poplar Ave,Suite 20,Columbus,OH,43085,United States,5105,6443.23,6291.57
+1531,Hess-Donaldson,Brown,Kyle,+1-563-282-0378,674 Park Ave,Apt 6,Leipzig,Hamburg,20095,Germany,6561,3665.4,6611.36
+9170,Gay-Lawrence,Jackson,Amy,(288)618-7132,753 Willow Cir,Suite 10,San Diego,CA,92101,United States,6669,6961.27,3966.14
+8801,"Glover, Knight and Lowe",Warner,Elizabeth,(690)918-6715,930 Main St,Apt 32,Utrecht,Utrecht,1012,Netherlands,9654,1778.08,7326.4
+7812,Gibbs-Anderson,Olsen,Diane,(837)650-2250x2117,248 Birch Blvd,,Arlington,TX,76001,United States,2551,4642.49,3186.96
+3462,Rose Group,Johnson,Antonio,(779)245-1818x9930,600 Park Ave,Apt 2,Rotterdam,North Holland,3011,Netherlands,2293,8463.35,9783.89
+7583,Mcneil-Phillips,Collins,Kathleen,+1-933-598-1470x244,248 Birch Blvd,,Arlington,TX,76001,United States,1638,8058.64,3419.77
+9786,Harmon-Vasquez,Osborn,Cody,001-209-448-2206,439 Maple Ave,Apt 17,Turin,Lazio,20100,Italy,7088,7250.96,9864.74
+3403,"Chaney, Williams and Moore",Schwartz,James,(588)327-8047,652 High St,Apt 34,Bordeaux,Île-de-France,31000,France,2966,5312.35,8651.87
+6354,"Boyd, Martinez and Carey",Jenkins,Kelly,+1-735-899-6140x3710,893 Oak St,Apt 47,Naples,Lombardy,20100,Italy,7223,2331.59,2116.05
+6764,Sullivan LLC,Rush,Jonathan,+1-290-378-4994,addressLine1,addressLine2,city,state,postalCode,country,4079,4692.57,6783.47
+3840,Moreno-Austin,Ramos,John,677-762-7880,907 Walnut St,,Fort Worth,TX,76101,United States,7556,7424.68,5121.59
+7054,"Bond, Parker and Morgan",Jones,Denise,363.929.7194x864,679 Dogwood Ln,,Indianapolis,IN,46201,United States,4124,5286.9,6029.63
+9939,"Ryan, Wilson and Conner",Jordan,Tanya,301-331-8203,159 Spruce Ln,,San Antonio,TX,78201,United States,2926,4704.74,5506.75
+1118,Acosta and Sons,Dalton,David,3309390041,951 Hickory St,Apt 7,San Jose,CA,95101,United States,3575,6287.63,9121.82
+6472,"Shea, Patterson and Powell",Lucas,Laura,+1-733-888-4528x81349,395 Park Ave,Apt 43,Rome,Veneto,00100,Italy,3471,5291.77,9645.51
+7086,"Giles, Edwards and Montoya",Taylor,Cheyenne,+1-428-571-3627,924 Main St,Apt 44,Frankfurt,Hamburg,20095,Germany,8033,6809.37,6728.51
+3355,Jackson-Juarez,Elliott,Joseph,001-370-422-2516x088,687 High St,Apt 38,Munich,Saxony,60311,Germany,1476,6375.28,4920.39
+6785,Bell-Williams,Stone,Kathleen,206.381.5000x927,674 Park Ave,Apt 6,Leipzig,Hamburg,20095,Germany,5970,2241.67,5763.85
+9387,Armstrong Inc,Torres,Anthony,+1-403-951-9814,395 Park Ave,Apt 43,Rome,Veneto,00100,Italy,2385,1569.1,2688.43
+9827,"Carson, Lawson and Adams",Miller,Crystal,(543)233-9952,134 Redwood Dr,,Jacksonville,FL,32201,United States,5572,8164.53,5555.2
+1830,Porter Ltd,Thomas,Stanley,+1-520-416-9492,890 Chestnut Ave,,Fresno,CA,93701,United States,3409,8452.15,9407.06
+5014,Powell-White,Meyer,James,9782324513,747 Main St,Apt 13,Barcelona,Andalusia,15001,Spain,9455,1992.95,9548.25
+4666,"Grimes, Ford and Thomas",Kelly,Kimberly,713-659-6360x38071,159 Willow Ln,,Memphis,TN,38101,United States,6666,7349.96,5901.78
+1899,"Hunter, Clark and Richard",Wright,Darren,6189041926,407 Park Ave,Apt 15,Venice,Lombardy,80100,Italy,6690,7748.71,2731.09
+4268,"Roman, King and Harris",Mcbride,Todd,+1-384-450-1451x3165,793 Oak St,Apt 22,A Coruña,Madrid,08001,Spain,5508,7350.12,3389.69
+1658,"Berry, Carson and Morales",Randolph,Tamara,287.851.5110x64882,654 Fir St,,Nashville,TN,37201,United States,1908,1464.92,7720.42
+7186,Young-Lyons,Snyder,Crystal,(483)500-8212x5667,753 Birch Cir,Suite 4,Portland,OR,97201,United States,6763,4007.21,1160.61
+4237,Sanders-Roberts,Novak,Robert,001-869-294-6475x66799,852 Maple Ave,,Cleveland,OH,44101,United States,9145,1942.38,5726.45
+8712,Melendez-Santos,Johnston,Ronald,001-962-747-5839x59457,789 Maple Dr,Apt 3B,Denver,CO,80201,United States,7454,7648.42,5353.71
+1870,"Salas, Walsh and Boyd",Martin,Laura,266-453-8554,508 Maple Ave,Apt 35,Munich,Hamburg,04103,Germany,3498,9883.81,8738.27
+1862,"Morgan, Dunn and Moreno",Bradley,Matthew,(876)953-3213,123 Maple St,Apt 2,New York,NY,10001,United States,7344,8997.98,1956.61
+5509,"Kane, Alexander and Brown",Perry,Heidi,+1-675-612-7417x6278,890 Poplar Ave,Suite 20,Columbus,OH,43085,United States,4753,1812.48,6212.03
+7188,Frederick Ltd,Phelps,Daniel,204-566-5839,679 Dogwood Ln,,Indianapolis,IN,46201,United States,9724,5897.6,5530.51
+9232,Spencer Ltd,Eaton,Lori,345.975.8900x9368,133 Oak St,Apt 16,Venice,Campania,20100,Italy,6058,5323.83,3746.42
+4846,Jimenez LLC,Mueller,Lonnie,+1-569-504-4938x20926,187 Park Ave,Apt 42,Munich,Saxony,80331,Germany,5371,3698.01,9599.74
+9454,"Spears, Lloyd and Ford",Johnson,Laura,(936)863-6808,72 Main St,Apt 24,Utrecht,North Holland,3011,Netherlands,3844,9378.8,8688.43
+5828,Li-White,Bryant,Michelle,989-570-1946x6066,321 Birch Blvd,,Houston,TX,77001,United States,5542,6100.92,9031.85
+6174,Marshall-Tapia,Ray,Alicia,234-366-7513x97189,508 Maple Ave,Apt 35,Munich,Hamburg,04103,Germany,7049,3816.13,2261.44
+6116,Barton-White,Welch,Scott,(790)781-9242x9812,123 Cedar St,,Atlanta,GA,30301,United States,6981,1845.77,3709.37
+9650,"Chambers, Day and Craig",Cooper,Max,975-506-8414x52504,543 Alder Dr,Suite 15,Kansas City,MO,64101,United States,7985,8118.95,4507.48
+7607,"Fitzgerald, Hudson and Williams",Tucker,Erika,825.649.7916x837,358 Main St,Apt 25,Hamburg,Hamburg,60311,Germany,4656,6499.94,3141.66
+8569,Lane PLC,Monroe,Deborah,001-237-227-8452x672,951 Oak St,,Louisville,KY,40201,United States,2903,8923.01,5772.58
+4708,Hall Group,Gonzales,Stephanie,001-468-520-6971x519,237 Main St,Apt 35,Madrid,Valencia,15001,Spain,2392,5884.31,9348.36
+6821,"Mueller, Palmer and Russell",Taylor,Amy,(885)759-4617x128,826 Oak St,Apt 49,Toulouse,Île-de-France,13000,France,1755,2604.47,1400.3
+6255,Thomas PLC,Vazquez,Matthew,+1-502-703-7276,49 Maple Ave,Apt 31,Milan,Piedmont,10100,Italy,6931,5797.78,9670.15
+1350,Dickerson and Sons,Walsh,Michael,001-792-506-1749x6373,262 Oak St,Apt 12,Marseille,Occitanie,31000,France,2199,8261.64,2054.21
+1556,Stevenson-Manning,Clark,Jessica,704.679.2998x86369,790 Maple Ave,Apt 34,Seville,Catalonia,41001,Spain,7714,8881.54,9281.45
+1113,"Ortiz, Morrison and Curtis",Hernandez,Janet,3352872173,134 Pine Dr,,Milwaukee,WI,53201,United States,8599,4091.19,8027.01
+3034,"Alvarez, Webb and Kennedy",Black,Daniel,(289)736-5923,951 Hickory St,Apt 7,San Jose,CA,95101,United States,8432,1242.62,7800.79
+5213,"Chambers, Cardenas and Hammond",Harper,Stephanie,8916837706,243 Maple Ave,Apt 13,Valencia,Valencia,28001,Spain,6834,6041.96,1518.12
+2052,"Luna, Hoffman and Morris",Arroyo,Alexander,(724)429-0365,460 Oak St,Apt 36,Milan,Piedmont,80100,Italy,3172,4604.34,2220.04
+9521,Martin PLC,Smith,Erik,215-700-9400x52870,717 Oak St,Apt 11,Hamburg,Hesse,10115,Germany,7789,3386.75,5318.8
+7049,Johnson Ltd,Wood,Melinda,(520)458-8917,596 Park Ave,Apt 41,Madrid,Catalonia,28001,Spain,8701,7060.73,2438.85
+5040,Yoder LLC,Mason,Collin,001-632-746-9488x51485,920 Oak St,Apt 11,Milan,Campania,30100,Italy,5384,3173.43,4055.64
+2555,Perkins-Powers,Singh,Lisa,8046018881,654 Elm St,Apt 4C,Phoenix,AZ,85001,United States,6623,6236.58,7740.18
+7084,Turner Ltd,Cook,Vicki,001-384-955-6850x377,890 Chestnut Ave,,Fresno,CA,93701,United States,4138,4488.84,6930.1
+9794,Jones-Bautista,Sanchez,Nicholas,639.812.2188x8862,248 Birch Blvd,,Arlington,TX,76001,United States,1859,9186.87,4200.38
+6380,Johnson Ltd,Daniels,Jenny,571.609.6068x296,789 Maple Dr,Apt 3B,Denver,CO,80201,United States,8245,9358.12,2698.91
+9594,Hanson-Ryan,Smith,Nicole,(417)372-1008x9052,930 Main St,Apt 32,Utrecht,Utrecht,1012,Netherlands,7244,2707.52,9052.94
+5417,Huynh-Mejia,Mercer,Lindsey,334-835-5997x099,226 Main St,Apt 1,Leipzig,Bavaria,10115,Germany,6213,2994.99,1516.34
+6594,Brown-Jones,Smith,Ian,378-636-7235x909,460 Oak St,Apt 36,Milan,Piedmont,80100,Italy,4240,9742.3,4261.36
+8591,Ortiz-Brown,Barton,Adam,+1-636-800-4440x933,243 Maple Ave,Apt 13,Valencia,Valencia,28001,Spain,7523,9894.2,8992.61
+6638,Grimes-Cook,Baldwin,Alyssa,596.617.9436,966 Park Ave,Apt 32,Naples,Campania,30100,Italy,6937,7016.4,5753.29
+2598,"Haley, Guzman and Miller",Elliott,Sean,+1-808-825-2567x72614,19 High St,Apt 21,Leipzig,Berlin,10115,Germany,6195,9305.19,5325.18
+2293,"Thompson, Stevens and Vasquez",Collins,Amber,215.949.1325,248 Magnolia Ct,,Austin,TX,73301,United States,4894,4827.64,5151.14
+1037,Blake Ltd,Martinez,Diane,796-691-5801,790 Maple Ave,Apt 34,Seville,Catalonia,41001,Spain,5683,1018.77,5700.58
+2811,Wall Group,Simmons,Kayla,001-259-712-3811x9405,134 Pine Ave,Suite 12,Bakersfield,CA,93301,United States,3524,5342.35,6053.76
+3417,Scott Inc,Ross,Holly,001-634-766-8063x4105,321 Birch Blvd,,Houston,TX,77001,United States,7793,2406.65,6842.04
+8552,Turner Inc,Anderson,Victoria,732.287.0425x6244,789 Pine Cir,,Raleigh,NC,27601,United States,5476,1994.92,7442.9
+8816,Henderson LLC,Tucker,Mark,428.648.1859x998,358 Main St,Apt 25,Hamburg,Hamburg,60311,Germany,7155,3220.75,4890.0
+2950,Shields-Gutierrez,Luna,Robert,+1-434-284-4119x4393,951 Oak St,,Louisville,KY,40201,United States,8522,4037.0,9371.9
+7942,"English, Little and White",Huber,Richard,+1-366-560-8258x1771,269 Maple Ave,Apt 21,Turin,Campania,80100,Italy,6973,5108.21,2778.16
+9352,Johnson-Taylor,Taylor,Ronnie,437-376-9775x343,930 Main St,Apt 32,Utrecht,Utrecht,1012,Netherlands,7284,9733.24,1041.57
+7813,Rios LLC,Ross,Bradley,7014250481,addressLine1,addressLine2,city,state,postalCode,country,6640,5631.38,6130.06
+3818,Sanders-Perry,Roberts,Kathy,7509459003,789 Pine Cir,,Raleigh,NC,27601,United States,3628,5565.82,7209.18
+5774,Jones and Sons,Dickerson,Denise,2676141621,98 Park Ave,Apt 35,Amsterdam,Gelderland,1012,Netherlands,7913,6593.52,3834.12
+2071,Miller Ltd,White,Anna,242.931.1175,822 Park Ave,Apt 17,Utrecht,Limburg,6211,Netherlands,6546,4068.56,8601.85
+3636,Howard PLC,Young,James,438.459.4827,460 Oak St,Apt 36,Milan,Piedmont,80100,Italy,1341,3757.72,4364.94
+9620,West-Hawkins,Barton,Karen,704.840.4947,456 Alder Ave,,Seattle,WA,98101,United States,2647,9342.01,1527.56
+6580,Henderson Ltd,Snyder,Sarah,+1-662-279-6467x0236,56 Maple Ave,Apt 27,Frankfurt,Hamburg,80331,Germany,8245,4883.37,5412.38
+3849,Moran Inc,Frank,Michele,001-489-655-3881x30746,617 Park Ave,Apt 34,Leipzig,Hesse,04103,Germany,6190,9054.37,4832.21
+7614,Miller-Gardner,Chang,Leah,+1-755-724-5488,890 Chestnut Ave,,Fresno,CA,93701,United States,2962,6964.52,1471.05
+7572,Richmond PLC,Oconnor,Brian,510.521.1466,679 Dogwood Ln,,Indianapolis,IN,46201,United States,8086,6228.87,2975.75
+3105,"West, Romero and Small",Jones,Carrie,9059158900,652 High St,Apt 34,Bordeaux,Île-de-France,31000,France,2009,7293.35,4130.49
+3626,Johnson-Smith,Vega,Gail,+1-924-444-2463x7597,951 Oak St,,Louisville,KY,40201,United States,4474,6935.39,3605.29
+4311,Robinson and Sons,Carter,Amanda,8716011511,907 Oak St,,Sacramento,CA,94203,United States,4048,2454.13,1080.38
+7755,Johnston-Garrett,Alvarez,Elizabeth,7737476499,654 Fir St,,Nashville,TN,37201,United States,4861,8400.08,7628.84
+4115,Cook-Perkins,Mann,Mary,958.425.5940x26566,123 Chestnut St,,Detroit,MI,48201,United States,4166,9807.4,9522.81
+2000,"Dickson, Sharp and Ford",Alvarado,Carl,(744)374-5266x2613,269 Maple Ave,Apt 21,Turin,Campania,80100,Italy,3484,6350.6,8954.15
+2254,"Hudson, Smith and Esparza",Chavez,Luis,840-616-3608,110 Oak St,Apt 6,Marseille,Île-de-France,75000,France,6934,8198.23,9256.57
+9478,Smith-Caldwell,Jones,Danielle,995.835.2285x531,907 Walnut St,,Fort Worth,TX,76101,United States,2446,2512.99,4222.11
+9389,Hill-Mathews,Dunn,Michael,+1-390-337-9477x3235,467 Sycamore St,Apt 12,San Francisco,CA,94101,United States,7374,7925.54,8473.03
+5481,Cox-Pierce,Jenkins,Dylan,897-449-6163,248 Birch Blvd,,Arlington,TX,76001,United States,6737,8445.83,2506.28
+6104,Gonzalez Ltd,Wall,Lisa,756.717.9290x1428,addressLine1,addressLine2,city,state,postalCode,country,1021,6162.82,5041.41
+4466,Clark-White,King,Melissa,(232)711-3807x138,826 Oak St,Apt 49,Toulouse,Île-de-France,13000,France,5755,9488.92,8743.92
+3367,Stein-Chen,Blackwell,Joshua,473.224.1285x301,226 Main St,Apt 1,Leipzig,Bavaria,10115,Germany,7137,6380.35,5941.4
+3742,Soto PLC,Martin,Brenda,(547)786-8613x85308,47 Main St,Apt 17,Frankfurt,Hamburg,10115,Germany,5855,9552.25,4948.87
+9358,Kaiser-Chandler,Roberts,Ashley,414-480-1552x86881,596 Park Ave,Apt 41,Madrid,Catalonia,28001,Spain,1289,5298.32,1714.21
+4197,Curtis-Downs,Moss,Laurie,925.589.3033x2736,543 Beech Dr,Unit 6A,Charlotte,NC,28201,United States,4613,6645.78,5083.55
+2734,Goodman-Holmes,Carr,Timothy,(907)303-8942,679 Dogwood Ln,,Indianapolis,IN,46201,United States,5536,5288.03,1031.49
+4566,Perry LLC,King,Anthony,745.974.4488,679 Spruce Ln,,Santa Ana,CA,92701,United States,8653,8363.98,9695.65
+2673,Cole Inc,Mills,Taylor,7596104837,343 Maple Ave,Apt 9,Berlin,Saxony,20095,Germany,3092,2469.78,5050.0
+3160,Carter PLC,Gross,Caleb,001-783-739-1294,775 Main St,Apt 48,Berlin,Hamburg,20095,Germany,3987,2946.57,1534.46
+3853,Gardner-Poole,Martin,Kaitlin,+1-383-471-6282x456,49 Oak St,Apt 1,Amsterdam,North Holland,3011,Netherlands,5792,8371.79,7991.59
+1330,Gonzalez and Sons,Lucas,Joseph,585-211-3004x700,775 Main St,Apt 48,Berlin,Hamburg,20095,Germany,1108,5362.85,6559.39
+3655,Wheeler Ltd,Espinoza,Sharon,(536)239-6607x43452,98 Park Ave,Apt 35,Amsterdam,Gelderland,1012,Netherlands,2578,7795.33,3048.42
+7481,Davis Ltd,Holmes,Derek,001-919-258-4584x817,852 Maple Ave,,Cleveland,OH,44101,United States,4799,1712.67,7709.52
+1705,"Garcia, Haynes and White",Miller,Sarah,296-903-8721,753 Chestnut Cir,,New Orleans,LA,70112,United States,4156,3691.64,3602.07
+5838,"Richardson, Bailey and Jones",Johns,Shelley,566.403.6276x3431,456 Maple Ave,Apt 9B,Miami,FL,33101,United States,1997,7475.21,6135.97
+3543,May Group,Carlson,Timothy,310.991.3925,262 Oak St,Apt 12,Marseille,Occitanie,31000,France,9545,6907.47,2323.45
+2369,Patterson Ltd,Thornton,Scott,001-747-241-7841,822 Park Ave,Apt 17,Utrecht,Limburg,6211,Netherlands,2440,8020.41,2244.04
+6554,Smith-Hale,Dickerson,John,(317)677-3248,159 Sycamore Ln,,Wichita,KS,67201,United States,6562,4934.12,1375.15
+1309,Johnson-Yates,Walsh,Matthew,(284)225-6708x97037,321 Cypress Cir,,El Paso,TX,79901,United States,7423,3877.72,6366.02
+1303,Jackson-Baker,Torres,Shannon,982-965-2313x07402,467 Cedar St,,Anaheim,CA,92801,United States,9661,4995.09,4954.4
+6028,"Bell, Horton and Miller",Key,Donna,(788)595-7242x0312,775 Main St,Apt 48,Berlin,Hamburg,20095,Germany,2512,8071.63,5719.13
+1820,"Dawson, Morales and Ward",Hall,Timothy,395.555.4499x00071,890 Chestnut Ave,,Fresno,CA,93701,United States,8488,3611.54,5743.93
+4562,Simon Ltd,Moore,Zachary,(657)989-9683x967,134 Pine Dr,,Milwaukee,WI,53201,United States,4433,3553.04,7572.67
+1241,Gomez-Wilkinson,Greer,David,001-750-479-4527x660,822 Park Ave,Apt 17,Utrecht,Limburg,6211,Netherlands,6548,7664.8,4821.54
+7455,Garcia PLC,Hart,Stephanie,411.911.1003,123 Cedar St,,Atlanta,GA,30301,United States,1943,3777.42,9762.95
+5700,"Smith, Miller and Campbell",Baker,Brandon,(307)715-8571x79345,467 Spruce St,Apt 5,Albuquerque,NM,87101,United States,5593,3000.24,3290.71
+8214,Castro Group,Harvey,Derek,357.554.9576x659,543 Beech Dr,Unit 6A,Charlotte,NC,28201,United States,7202,7931.57,5054.52
+5403,Ramirez and Sons,Cunningham,Virginia,(648)525-2855x569,110 Oak St,Apt 6,Marseille,Île-de-France,75000,France,3514,1289.89,9516.66
+3999,Patterson Inc,Santana,Anna,(364)878-1406x07881,543 Beech Dr,Unit 6A,Charlotte,NC,28201,United States,4482,3256.84,1412.38
+9780,Kelley-Roy,Steele,Melinda,+1-965-251-2501x5436,248 Maple Ct,,Baltimore,MD,21201,United States,1469,1043.0,4285.26
+2804,Perkins-Griffith,Jones,Kathleen,(251)868-9083x3753,775 Main St,Apt 48,Berlin,Hamburg,20095,Germany,3155,4343.22,6875.17
+2919,"Graham, Roach and Thomas",Fuentes,Nicole,983-930-6250x406,951 Oak St,,Louisville,KY,40201,United States,3334,5903.3,1704.57
+2813,"Quinn, Wilson and Robertson",Fowler,Carolyn,888-998-2007x1044,717 Oak St,Apt 11,Hamburg,Hesse,10115,Germany,1296,6914.18,8427.74
+1821,Chen-Smith,Carson,Robert,001-677-292-5341x08906,123 Chestnut St,,Detroit,MI,48201,United States,7839,3083.39,8831.18
+7918,"Booth, Nelson and Velasquez",Johnson,Bryan,+1-311-608-7887x058,98 Park Ave,Apt 35,Amsterdam,Gelderland,1012,Netherlands,1388,8269.14,9316.49
+5968,Phillips-Gonzalez,Taylor,Samantha,368-388-7811x316,98 Park Ave,Apt 35,Amsterdam,Gelderland,1012,Netherlands,1148,7938.82,6016.57
+6386,"Torres, Howell and Werner",Fuentes,Nicole,+1-724-974-9048x3657,679 Redwood Ln,Unit 2C,Tucson,AZ,85701,United States,9853,1868.73,5322.15
+8281,Pruitt-Butler,Spence,James,(561)508-1668x50608,123 Maple St,Apt 2,New York,NY,10001,United States,9893,1177.91,2277.17
+5809,Price-Rodriguez,Chambers,Anthony,(677)497-6425,775 Main St,Apt 48,Berlin,Hamburg,20095,Germany,1047,5055.48,9859.3
+4399,Savage-Stone,Griffin,Samantha,+1-856-398-2773,753 Willow Cir,Suite 10,San Diego,CA,92101,United States,7341,2081.3,3303.82
+2396,Mccall Inc,Johnson,Robin,001-423-543-6859,296 Maple Ave,Apt 6,Seville,Catalonia,41001,Spain,5890,1688.99,6559.96
+3175,"Jackson, Frazier and Gordon",Thompson,David,(935)940-1219x28924,890 Chestnut Ave,,Fresno,CA,93701,United States,4536,6992.04,6819.72
+6846,"Bentley, Lopez and Nelson",White,Daniel,306.579.7390x5243,19 High St,Apt 21,Leipzig,Berlin,10115,Germany,9868,4174.99,1854.38
+6076,Gomez-Huber,Smith,Allison,001-583-920-7048x00836,248 Magnolia Ct,,Austin,TX,73301,United States,8964,9044.85,7101.45
+5381,Wong Group,Wilkins,Angela,576.681.8289x74785,262 Oak St,Apt 12,Marseille,Occitanie,31000,France,6899,5318.4,7918.31
+9789,Johnson LLC,Franco,Joel,001-949-732-9014,159 Willow Ln,,Memphis,TN,38101,United States,6720,9212.71,8090.31
+4672,"Davies, Miller and Williams",Hoffman,Rodney,433.762.5494,460 Oak St,Apt 36,Milan,Piedmont,80100,Italy,9292,7583.06,9389.42
+8979,"Palmer, Ochoa and Logan",Thomas,Mary,451-263-3594x1416,248 Maple Ct,,Baltimore,MD,21201,United States,1037,3726.9,7300.96
+1668,Cummings LLC,Gaines,Heather,+1-221-738-1455x07397,262 Oak St,Apt 12,Marseille,Occitanie,31000,France,5117,8416.88,5730.89
+5380,Garza LLC,Taylor,Ricardo,(950)478-3456x62111,243 Maple Ave,Apt 13,Valencia,Valencia,28001,Spain,1635,9131.87,9305.32
+2313,"Scott, Heath and Bass",Molina,Jennifer,336.299.7774,600 Park Ave,Apt 2,Rotterdam,North Holland,3011,Netherlands,7964,3817.84,7203.71
+7410,Howe-Kirby,Norman,James,855.236.8416,467 Spruce St,Apt 5,Albuquerque,NM,87101,United States,4901,2848.72,6828.33
+2088,"May, Sims and Sampson",Harris,Jacqueline,322-790-3478,990 Maple Ave,Apt 7,Milan,Veneto,20100,Italy,6622,7578.21,3765.02
+1448,Kirby-Klein,Castro,Danielle,488-705-0618,775 Main St,Apt 48,Berlin,Hamburg,20095,Germany,1907,9813.51,8302.79
+1317,"Marshall, Hunt and Chambers",Owen,Arthur,885-669-7330,761 Maple Ave,Apt 19,Milan,Lombardy,00100,Italy,5336,7777.26,7617.88
+4040,Smith PLC,Branch,Tammy,(646)465-4485x56815,339 Oak St,Apt 40,Utrecht,Limburg,3511,Netherlands,1739,2833.32,2390.58
+9157,"Smith, Tran and Middleton",Jones,Holly,001-619-447-4902x150,679 Spruce Ln,,Santa Ana,CA,92701,United States,9537,6213.55,5940.95
+2374,Rivera-Rojas,Johnson,Heidi,+1-252-621-7038x8319,924 Main St,Apt 44,Frankfurt,Hamburg,20095,Germany,8267,3141.83,9436.16
+5358,"Neal, Thompson and Smith",Murray,Jacqueline,908-554-5561,990 Maple Ave,Apt 7,Milan,Veneto,20100,Italy,1517,6793.76,9992.67
+6556,Kelly and Sons,Graham,Linda,(251)655-0178,543 Beech Dr,Unit 6A,Charlotte,NC,28201,United States,3816,7961.73,9809.5
+5891,"Holmes, Lawson and Stewart",Shepard,Stephanie,(345)894-2788,753 Chestnut Cir,,New Orleans,LA,70112,United States,6317,7742.91,2424.5
+6524,Sweeney LLC,Castro,Shelly,001-640-800-5830x71960,687 High St,Apt 38,Munich,Saxony,60311,Germany,4428,1238.71,1262.8
+6090,"Duncan, Crawford and Davis",Owens,Ashley,315.326.2707x67722,852 Cedar Ave,,Las Vegas,NV,89101,United States,3779,4341.02,3633.04
+1681,"Boyd, Williams and Pennington",Hanson,Meredith,9629326686,930 Main St,Apt 32,Utrecht,Utrecht,1012,Netherlands,3310,3965.86,5861.48
+1527,"Randall, Morales and Davidson",Edwards,James,(204)999-4512,203 Oak St,Apt 28,Munich,Hamburg,10115,Germany,5626,8120.23,9436.03
+6910,"Hayes, Mcdaniel and Harrison",Chan,Lisa,(207)679-7318x9167,747 Main St,Apt 13,Barcelona,Andalusia,15001,Spain,3760,3869.68,2619.08
+9893,"Brown, Ortiz and Duncan",Sparks,Charles,(249)439-6667,248 Maple Ct,,Baltimore,MD,21201,United States,8234,5102.6,5304.28
+7970,Peterson-Simpson,Garcia,Eric,(383)977-4951x0802,793 Oak St,Apt 22,A Coruña,Madrid,08001,Spain,5711,2500.57,5176.97
+1545,"Wilkinson, Spencer and Phelps",Lawrence,Jason,+1-860-451-0054x4211,747 Main St,Apt 13,Barcelona,Andalusia,15001,Spain,7397,6118.92,6318.88
+8267,Baldwin PLC,Gallagher,Joshua,(636)583-4667x515,890 Poplar Ave,Suite 20,Columbus,OH,43085,United States,3219,6166.55,1330.36
+1930,Franco-Powell,Mejia,Zachary,+1-472-703-1644x18887,321 Cypress Cir,,El Paso,TX,79901,United States,6829,3859.01,9826.9
+2055,Jensen and Sons,Mcintosh,Debra,302.889.2824,987 Juniper Rd,,Boston,MA,02101,United States,7902,8722.12,4283.46
+9664,"Medina, Price and Lawson",Williams,Amy,(454)766-3107,890 Chestnut Ave,,Fresno,CA,93701,United States,5775,9723.72,6480.89
+3277,Kelley Group,Taylor,Charles,549.352.5852x5683,133 Oak St,Apt 16,Venice,Campania,20100,Italy,5897,9875.53,9298.49
+1127,Bentley PLC,Kelly,James,+1-410-563-4653x185,508 Maple Ave,Apt 35,Munich,Hamburg,04103,Germany,4309,3989.88,8987.1
+3155,Wilson Inc,Molina,Tracy,260.464.7926x633,951 Oak St,,Louisville,KY,40201,United States,7212,2697.25,1972.79
+5076,"Brooks, Walker and Alexander",Preston,Raymond,582-821-4880,296 Maple Ave,Apt 6,Seville,Catalonia,41001,Spain,1761,2440.03,9650.76
+9402,Washington Ltd,Steele,Misty,915.950.5939x10325,753 Birch Cir,Suite 4,Portland,OR,97201,United States,2619,7371.0,7701.03
+2054,Blackburn-Briggs,Harris,Carrie,829.561.7351,addressLine1,addressLine2,city,state,postalCode,country,5216,1004.31,6639.29
+4280,"Fletcher, Harris and Walker",Wu,Wendy,001-324-478-6698x9189,987 Cedar Rd,,Philadelphia,PA,19101,United States,3543,6121.84,2357.04
+8480,"Thompson, Carter and Sanders",Porter,Andrew,(809)274-3311x87072,679 Spruce Ln,,Santa Ana,CA,92701,United States,9312,3476.2,9949.6
+4174,"Garcia, Bautista and Young",Kim,Bobby,6085363189,852 Palm Ave,,Dallas,TX,75201,United States,9834,1509.88,5610.01
+8464,Carter-Smith,Morgan,Patricia,(850)698-5386,395 Park Ave,Apt 43,Rome,Veneto,00100,Italy,1229,6072.09,5290.92
+2633,"Williams, Castillo and Wheeler",Smith,Nicholas,555.289.9438,951 Hickory St,Apt 7,San Jose,CA,95101,United States,7668,4818.08,2025.49
+8710,Garcia-Torres,Palmer,Regina,001-252-599-9478x90426,47 Main St,Apt 17,Frankfurt,Hamburg,10115,Germany,6632,3042.73,1955.33
+2510,Maldonado-Cain,Marks,Thomas,001-445-569-0339,456 Alder Ave,,Seattle,WA,98101,United States,1058,5254.09,4949.74
+9976,Vaughn-Taylor,Ferrell,Steven,588.267.8689x1434,987 Juniper Rd,,Boston,MA,02101,United States,1047,5189.98,9800.37
+9997,Chavez Group,Hogan,Carla,001-796-386-8853x4261,243 Maple Ave,Apt 13,Valencia,Valencia,28001,Spain,6170,9901.45,6163.79
+5063,Stanley Group,Nelson,Melody,652.996.4007x3296,243 Maple Ave,Apt 13,Valencia,Valencia,28001,Spain,3374,8181.86,8076.37
+6872,Good Inc,Mata,Laura,926-455-8759x11922,679 Redwood Ln,Unit 2C,Tucson,AZ,85701,United States,1459,6644.51,4307.07
+9342,Morales-Beck,Obrien,Cheryl,+1-414-899-9334,72 Main St,Apt 24,Utrecht,North Holland,3011,Netherlands,1879,9190.57,3505.92
+7421,Johnson-Crane,Jackson,Roy,001-861-718-1969x18843,56 Maple Ave,Apt 27,Frankfurt,Hamburg,80331,Germany,6857,2011.48,9805.21
+7967,"Martin, Holt and Hopkins",Stevens,Christopher,+1-490-886-3056x42683,924 Main St,Apt 44,Frankfurt,Hamburg,20095,Germany,3807,5042.39,3235.37
+3202,"Baxter, George and White",Wagner,Joshua,666.728.9240x9110,134 Pine Dr,,Milwaukee,WI,53201,United States,9439,4798.95,4036.44
+7945,Lewis Ltd,Dean,Leslie,+1-446-361-3232x9681,679 Redwood Ln,Unit 2C,Tucson,AZ,85701,United States,3713,2150.44,3706.21
+9906,"Campbell, Noble and Johnson",Frye,Ann,001-355-880-5228x2245,679 Dogwood Ln,,Indianapolis,IN,46201,United States,2817,3579.01,6075.64
+4070,Hull-Lewis,Schmidt,Clayton,611-333-0923,761 Maple Ave,Apt 19,Milan,Lombardy,00100,Italy,1323,7225.01,1386.32
+7806,Bowers-Arias,Craig,Mary,269.966.1841,753 Willow Cir,Suite 10,San Diego,CA,92101,United States,8494,5011.34,4468.55
+3104,Daugherty Group,Keller,Meghan,001-483-374-5237,358 Main St,Apt 25,Hamburg,Hamburg,60311,Germany,2605,4094.66,3378.53
+2851,"Ross, Wise and Jimenez",Garcia,Brittany,(389)786-3728x43485,439 Maple Ave,Apt 17,Turin,Lazio,20100,Italy,6300,7856.99,5664.11
+8390,Ayers-Jacobson,Johnson,Karen,001-415-539-1601,793 Oak St,Apt 22,A Coruña,Madrid,08001,Spain,4383,4601.99,8930.35
+7290,Young-Carroll,Montoya,Megan,2335741051,687 High St,Apt 38,Munich,Saxony,60311,Germany,7380,2041.87,3147.44
+4483,Johnson Ltd,Barker,Alyssa,+1-420-821-7333x254,951 Oak St,Apt 7A,Tampa,FL,33601,United States,8925,8086.51,3921.84
+5216,"Perkins, Grant and Rodriguez",Parker,Brian,780-854-5327x28122,789 Maple Dr,Apt 3B,Denver,CO,80201,United States,4607,4407.14,7012.65
+7433,Lambert-Jones,Martinez,Michael,406.594.4485x7853,159 Sycamore Ln,,Wichita,KS,67201,United States,7011,8075.38,7079.51
+2099,Green-Williams,Mccoy,Gregory,001-569-867-0195x871,679 Redwood Ln,Unit 2C,Tucson,AZ,85701,United States,6143,2149.99,1843.3
+3088,Smith Inc,Rodriguez,Edward,660.775.9972x179,930 Main St,Apt 32,Utrecht,Utrecht,1012,Netherlands,9232,2743.33,6697.0
+6991,Porter-Anderson,Jensen,Lance,+1-530-791-0668x96066,321 Spruce Dr,,Omaha,NE,68101,United States,1653,2382.9,5781.92
+2666,"Mathis, Mendez and Robinson",Holt,Kimberly,4688061751,511 Main St,Apt 50,Marseille,Provence-Alpes-Côte d'Azur,31000,France,8567,2150.22,6992.36
+8043,Thomas-Oneal,Vega,Michelle,971-214-2217x820,600 Park Ave,Apt 2,Rotterdam,North Holland,3011,Netherlands,3212,9746.61,4837.5
+1073,"Price, King and Clark",Sharp,Janice,+1-217-631-7224x561,761 Maple Ave,Apt 19,Milan,Lombardy,00100,Italy,1849,7164.71,1225.53
+5704,Thomas Inc,Gilmore,Thomas,6582575169,47 Main St,Apt 17,Frankfurt,Hamburg,10115,Germany,4044,1490.22,2619.97
+4233,Smith Inc,Lynn,Sarah,429.714.5760x8296,159 Willow Ln,,Memphis,TN,38101,United States,5056,6429.23,6204.39
+5083,Lam Inc,Owens,Gabriela,225-453-3191x464,930 Main St,Apt 32,Utrecht,Utrecht,1012,Netherlands,9433,5973.11,6419.47
+7337,"Stevens, Webb and Jones",Moore,Karen,285-584-7823x1553,753 Chestnut Cir,,New Orleans,LA,70112,United States,1995,7777.92,9934.21
+6849,Crane Group,Rice,Anthony,+1-991-914-2061x6242,296 Maple Ave,Apt 6,Seville,Catalonia,41001,Spain,5895,8237.45,3669.64
+3561,"Khan, Banks and Brock",Young,Kim,001-461-469-8377x4212,98 Park Ave,Apt 35,Amsterdam,Gelderland,1012,Netherlands,1758,6078.47,4616.98
+8548,"Gallagher, Romero and Fuller",Ball,Jenny,605-605-4395x933,951 Hickory St,Apt 7,San Jose,CA,95101,United States,6267,5213.79,1134.26
+4733,Foster Group,Fowler,Brandi,9768549352,742 High St,Apt 30,Marseille,Occitanie,69000,France,5267,4490.97,2501.58
+4852,"Tucker, Gray and Garner",Fernandez,Lucas,001-750-995-7613x2640,134 Pine Dr,,Milwaukee,WI,53201,United States,2816,2614.0,3205.84
+8229,"Garcia, Jackson and Gardner",King,Vincent,001-493-419-3350x80633,203 Oak St,Apt 28,Munich,Hamburg,10115,Germany,2004,3736.15,6835.53
+8887,Fowler and Sons,Mcgee,Tonya,+1-234-595-6731x5914,134 Pine Dr,,Milwaukee,WI,53201,United States,1496,9286.51,2183.53
+5807,Blanchard-Wright,Bryan,Alison,678-918-0102x3572,654 Redwood St,Unit 8,Colorado Springs,CO,80901,United States,2654,5186.98,3595.64
+8994,Bruce-Walker,Hughes,Mary,3388419284,920 Oak St,Apt 11,Milan,Campania,30100,Italy,9881,9130.8,1208.51
+8280,Martinez-Andrews,Williams,Warren,993.411.4841,248 Birch Blvd,,Arlington,TX,76001,United States,3663,8351.54,8781.5
+4584,"Blair, Herrera and Bennett",Watson,Chelsea,(249)562-0900x3519,822 Park Ave,Apt 17,Utrecht,Limburg,6211,Netherlands,5961,8923.16,1772.2
+4158,Morris-Conrad,Warren,Christine,344.727.6363x8049,775 Main St,Apt 48,Berlin,Hamburg,20095,Germany,2929,3027.4,3562.12
+7886,Medina LLC,Reed,Sierra,243-527-8972x7857,543 Alder Dr,Suite 15,Kansas City,MO,64101,United States,4598,1367.85,6069.8
+9636,Galvan-Buck,Powell,Colin,(738)484-8551,262 Oak St,Apt 12,Marseille,Occitanie,31000,France,8260,7096.67,1872.57
+8339,Reed and Sons,Paul,Faith,001-271-700-3189,123 Chestnut St,,Detroit,MI,48201,United States,9032,8514.61,4500.99
+6838,"Sanchez, Gill and Casey",Smith,Miguel,9106990515,753 Willow Cir,Suite 10,San Diego,CA,92101,United States,6725,3607.24,2595.14
+9953,Henderson-Davis,Gentry,Elizabeth,001-340-281-9338x29895,248 Magnolia Ct,,Austin,TX,73301,United States,6097,6096.68,2253.19
+9756,Scott-Ferguson,Park,Adrian,+1-253-490-2154x6788,321 Birch Blvd,,Houston,TX,77001,United States,8402,7800.3,9594.95
+2764,Hernandez Group,Sanders,Tammy,336.947.0246x089,852 Maple Ave,,Cleveland,OH,44101,United States,6568,8326.61,3413.0
+9524,Mckee-Rice,Miller,David,5778812710,789 Pine Cir,,Raleigh,NC,27601,United States,9887,7731.43,9465.71
+4261,"Williams, Reed and Soto",Wang,Jessica,(805)271-6623x4837,852 Cedar Ave,,Las Vegas,NV,89101,United States,1751,7606.24,2532.87
+8919,Gonzalez PLC,Miller,Nathaniel,5825545344,543 Beech Dr,Unit 6A,Charlotte,NC,28201,United States,7721,4477.6,6786.03
+8174,Brown-Martinez,Zimmerman,Danny,774-677-2141,56 Maple Ave,Apt 27,Frankfurt,Hamburg,80331,Germany,2638,4056.35,6170.69
+1797,Burch Ltd,Hawkins,Anthony,946.237.8000x5880,679 Spruce Ln,,Santa Ana,CA,92701,United States,3032,6295.58,9371.13
+4218,Flores PLC,Diaz,Kelly,375-853-8446x98548,987 Juniper Rd,,Boston,MA,02101,United States,9276,2729.17,8664.02
+9514,Brooks PLC,Pierce,Christopher,406-478-4687x5111,187 Oak St,Apt 39,Utrecht,Gelderland,6811,Netherlands,4596,5243.53,4861.57
+3096,Williams Group,Boyer,Lisa,001-647-970-2184,679 Redwood Ln,Unit 2C,Tucson,AZ,85701,United States,7369,3577.26,2090.93
+7853,Chavez Group,Webb,John,732.974.8710x461,134 Redwood Dr,,Jacksonville,FL,32201,United States,6667,1203.92,1548.1
+2131,"Fowler, Hall and Gomez",Robles,Jorge,+1-255-481-7198x47237,49 Maple Ave,Apt 31,Milan,Piedmont,10100,Italy,1396,6560.91,5918.91
+7715,Hoffman PLC,Carlson,Brittney,+1-662-585-3837x4848,439 Maple Ave,Apt 17,Turin,Lazio,20100,Italy,9038,8488.31,2725.31
+6761,"Russell, Nguyen and Wilkinson",Bush,Johnathan,(993)617-1794x16319,addressLine1,addressLine2,city,state,postalCode,country,2618,7091.63,8555.46
+2845,"Mcbride, Salas and Vargas",Garcia,Ronald,+1-896-280-8439x9102,343 Maple Ave,Apt 9,Berlin,Saxony,20095,Germany,6287,4486.64,1616.59
+9795,Jones Inc,Salinas,Travis,745-372-5966x601,49 Oak St,Apt 1,Amsterdam,North Holland,3011,Netherlands,2684,6179.9,9263.8
+4372,Martinez Ltd,Rodriguez,Mary,323-659-5861x24355,822 Park Ave,Apt 17,Utrecht,Limburg,6211,Netherlands,2413,5473.16,4954.62
+4100,Woods PLC,Hunter,Tammy,001-712-516-6565x151,56 Maple Ave,Apt 27,Frankfurt,Hamburg,80331,Germany,4674,4289.94,4363.82
+7823,Burton-Palmer,Hutchinson,Christopher,001-517-406-7279x471,907 Oak St,,Sacramento,CA,94203,United States,5727,2638.84,6606.66
+8644,"Owen, Brown and Anderson",Graham,Caroline,807-445-2906x498,753 Birch Cir,Suite 4,Portland,OR,97201,United States,5492,6685.72,1454.73
+4675,"Allen, Mcguire and Terry",Watkins,Thomas,+1-359-849-9267,159 Sycamore Ln,,Wichita,KS,67201,United States,9643,7308.83,5246.12
+3296,Ferguson-Allen,Gill,Kimberly,(335)765-2261x2267,187 Park Ave,Apt 42,Munich,Saxony,80331,Germany,2835,8841.14,1628.06
+8852,Hayes PLC,Maynard,Michael,(774)436-0711,269 Maple Ave,Apt 21,Turin,Campania,80100,Italy,1202,1292.98,2689.4
+9837,"Williams, Hall and Jones",Evans,Samuel,314.341.3655x0615,395 Park Ave,Apt 43,Rome,Veneto,00100,Italy,7606,5894.8,2009.49
+5282,"Ferguson, Gutierrez and Jacobson",Baker,Johnny,432-501-9926x40453,717 Oak St,Apt 11,Hamburg,Hesse,10115,Germany,8532,7352.65,2242.64
+3273,"Chambers, Richardson and Chambers",Lane,Mark,(752)684-8769x7825,321 Spruce Dr,,Omaha,NE,68101,United States,2954,8563.99,4497.41
+8549,Walter and Sons,Sanchez,Michael,615.436.5355x619,679 Spruce Ln,,Santa Ana,CA,92701,United States,8524,1876.84,4953.73
+2782,Estes Ltd,Melton,Jennifer,+1-880-644-9807x7820,123 Cedar St,,Atlanta,GA,30301,United States,9916,3452.21,7696.2
+9621,"Montgomery, James and Gregory",White,Allen,(245)719-8436,852 Cedar Ave,,Las Vegas,NV,89101,United States,6452,9208.85,1626.93
+1024,Knight-Young,Hart,Vincent,432-282-3891x44258,789 Pine Cir,,Raleigh,NC,27601,United States,4538,2890.53,6886.36
+9363,Mejia Inc,Callahan,Sandra,+1-745-507-6808x56404,269 Maple Ave,Apt 21,Turin,Campania,80100,Italy,1285,7829.73,6280.8
+3549,"Gomez, Hansen and Tucker",Ortiz,Melissa,001-776-385-3265x485,753 Willow Cir,Suite 10,San Diego,CA,92101,United States,3189,6206.31,1456.11
+4828,"Rivera, Wheeler and Martinez",Becker,Dillon,(202)931-0049,742 High St,Apt 30,Marseille,Occitanie,69000,France,3508,4344.81,1422.75
+1195,Steele PLC,Terry,Ashley,638-526-0134x8553,134 Pine Ave,Suite 12,Bakersfield,CA,93301,United States,9976,5449.47,1431.2
+6479,"Dean, Charles and Lloyd",Armstrong,Christopher,8863348065,248 Maple Ct,,Baltimore,MD,21201,United States,7072,3730.49,8084.03
+5366,Newman PLC,Macias,Joseph,400.227.2530x77150,187 Park Ave,Apt 42,Munich,Saxony,80331,Germany,8538,4473.5,7065.14
+8126,"Mccoy, Hammond and Bennett",Byrd,Anthony,+1-540-255-4334x2584,134 Pine Ave,Suite 12,Bakersfield,CA,93301,United States,8289,7344.86,7264.11
+9542,"Douglas, Gonzalez and Hamilton",Lewis,Steven,(308)628-3805x8757,826 Oak St,Apt 49,Toulouse,Île-de-France,13000,France,7059,1853.77,5569.86
+4602,Gray and Sons,Cole,Travis,4496020188,203 Oak St,Apt 28,Munich,Hamburg,10115,Germany,3259,2239.01,5844.73
+8533,Gallegos Inc,Walsh,Vincent,750.544.3509x3292,893 Oak St,Apt 47,Naples,Lombardy,20100,Italy,2466,6145.87,7509.21
+8478,Jordan-Swanson,Hammond,Tyler,+1-295-295-4162x3969,924 Main St,Apt 44,Frankfurt,Hamburg,20095,Germany,2518,9901.44,3649.25
+1192,Ford-Sanchez,Sanders,Amy,233-681-4635x0810,159 Spruce Ln,,San Antonio,TX,78201,United States,2584,5588.19,7036.55
+6263,Lopez-Garcia,Perez,Jack,469.774.4754,248 Maple Ct,,Baltimore,MD,21201,United States,9326,2792.83,1587.33
+4506,Flynn-Matthews,Cole,Jessica,3034560812,467 Cedar St,,Anaheim,CA,92801,United States,6066,8328.38,1415.31
+9792,"Miller, Daugherty and Hanson",Woods,Erica,+1-824-286-4323x3519,596 Park Ave,Apt 41,Madrid,Catalonia,28001,Spain,7809,7764.28,4626.0
+7872,Li Ltd,Murphy,Linda,001-735-384-1129x47501,456 Alder Ave,,Seattle,WA,98101,United States,5384,5783.6,8869.74
+5185,Reid PLC,Reid,Catherine,001-696-549-7106,407 Park Ave,Apt 15,Venice,Lombardy,80100,Italy,2789,5582.2,3061.96
+6529,"Garcia, Coleman and Moss",Chen,Javier,526.597.1059x581,14 Oak St,Apt 35,Venice,Piedmont,00100,Italy,7372,5497.84,2699.51
+1670,Mclaughlin-Ortega,Hayes,Kim,505.486.5075x2171,951 Hickory St,Apt 7,San Jose,CA,95101,United States,8984,2617.82,1335.89
+6480,"Barnett, Reed and Berg",Wolfe,Roger,658.782.5209x834,358 Main St,Apt 25,Hamburg,Hamburg,60311,Germany,7646,1408.51,1640.08
+2982,"Rice, Leach and Monroe",Beard,John,987.764.3483x335,951 Oak St,Apt 7A,Tampa,FL,33601,United States,2487,1217.51,8593.75
+4179,"Hood, Diaz and Blair",Mcmillan,Deborah,700-466-9003x52351,652 High St,Apt 34,Bordeaux,Île-de-France,31000,France,7271,5091.59,2212.35
+4201,Martin PLC,Wiggins,Laura,+1-480-756-8545,49 Maple Ave,Apt 31,Milan,Piedmont,10100,Italy,3612,7595.96,1705.42
+4732,Horton Group,Nichols,Marissa,+1-611-489-7709x04258,654 Redwood St,Unit 8,Colorado Springs,CO,80901,United States,4342,5243.07,3454.71
+8150,Lopez-Pena,Chandler,Joseph,001-969-638-0967,187 Park Ave,Apt 42,Munich,Saxony,80331,Germany,7977,5303.51,3565.49
+7328,Schroeder Inc,Williamson,Kristin,+1-332-208-5817x6977,608 Park Ave,Apt 2,Venice,Lombardy,00100,Italy,7979,5296.86,7125.35
+4368,Gomez-Parker,Walker,Amanda,472.606.7405,123 Cedar St,,Atlanta,GA,30301,United States,3860,5375.87,5287.27
+8286,Rogers-Peterson,Johnson,Phillip,(731)256-5936x89886,47 Main St,Apt 17,Frankfurt,Hamburg,10115,Germany,9429,3367.93,9003.83
+7711,Larsen LLC,Carter,Kenneth,(463)577-1826x462,852 Palm Ave,,Dallas,TX,75201,United States,5319,4162.92,3464.92
+7771,Crawford and Sons,Scott,Marco,5505371043,789 Pine Cir,,Raleigh,NC,27601,United States,3440,9593.86,2526.66
+9200,Bass Ltd,Hall,Sara,(224)597-6553x74729,123 Maple St,Apt 2,New York,NY,10001,United States,5858,9356.2,8426.59
+7039,"Tucker, Smith and Craig",Williams,Sandra,434.290.2415x96654,407 Park Ave,Apt 15,Venice,Lombardy,80100,Italy,4491,4049.99,5714.55
+3533,Elliott Group,Graves,William,+1-494-679-8519x5235,907 Oak St,,Sacramento,CA,94203,United States,1892,4595.13,4187.45
+3314,Gregory-Costa,Simmons,Ashley,344.277.5118x221,930 Main St,Apt 32,Utrecht,Utrecht,1012,Netherlands,1649,1553.31,6797.29
+1518,"Stokes, Ortega and Davis",Wilkerson,Joseph,603-251-6947x44930,753 Chestnut Cir,,New Orleans,LA,70112,United States,9436,5860.26,7425.4
+9768,Harris-Knight,Harris,Christian,+1-750-473-2207,775 Main St,Apt 48,Berlin,Hamburg,20095,Germany,8587,4949.88,9495.74
+2310,Taylor-Elliott,Munoz,Jeffrey,(984)489-6782x1583,654 Elm St,Apt 4C,Phoenix,AZ,85001,United States,4027,3300.48,6815.65
+8525,Murphy Ltd,Burns,Erica,+1-784-679-8364x7272,467 Spruce St,Apt 5,Albuquerque,NM,87101,United States,7648,6517.85,9992.4
+1687,Miller-Jacobs,Singh,Tracy,919.797.2344x2175,679 Redwood Ln,Unit 2C,Tucson,AZ,85701,United States,7354,8907.29,8189.08
+3591,Hoover-Mccarthy,Johns,Michael,9819811053,822 Park Ave,Apt 17,Utrecht,Limburg,6211,Netherlands,3179,3934.41,8593.86
+3348,Dean-Carr,Hill,Matthew,(355)261-7387x5414,110 Oak St,Apt 6,Marseille,Île-de-France,75000,France,9814,9155.71,4267.75
+7620,Smith Ltd,Skinner,Luis,001-708-366-0608x42980,753 Willow Cir,Suite 10,San Diego,CA,92101,United States,4851,3605.98,1902.12
+4252,Perez-Tran,Woodward,Michelle,+1-523-853-1805x041,203 Oak St,Apt 28,Munich,Hamburg,10115,Germany,3503,6223.26,8906.03
+9606,"Franco, Miller and Kim",Tran,Kristen,(438)840-4211x7659,343 Maple Ave,Apt 9,Berlin,Saxony,20095,Germany,3389,7000.03,5027.8
+9488,Martinez-Ruiz,Graham,Monique,001-454-466-5660x47258,123 Cedar St,,Atlanta,GA,30301,United States,1877,3573.61,5090.58
+8802,Bennett-Taylor,Perry,Evan,+1-921-692-5603x981,134 Pine Dr,,Milwaukee,WI,53201,United States,2718,6744.67,4552.3
+9648,"Roberts, Williams and Richards",Wilson,Scott,+1-982-897-4910x080,826 Oak St,Apt 49,Toulouse,Île-de-France,13000,France,1447,7818.71,4779.38
+2495,Sanchez-Gross,Hart,Tyler,400-326-4833x8822,775 Main St,Apt 48,Berlin,Hamburg,20095,Germany,6823,3483.17,1310.41
+7043,Williams-Hill,Smith,Ronnie,+1-424-271-7797,966 Park Ave,Apt 32,Naples,Campania,30100,Italy,7896,8342.62,1280.04
+3165,"Hill, Berger and Ingram",Roman,Alexander,+1-917-329-5695x0263,890 Poplar Ave,Suite 20,Columbus,OH,43085,United States,8059,8425.09,5594.3
+7006,Garcia and Sons,Johnson,Erik,+1-674-430-6890x88066,543 Alder Dr,Suite 15,Kansas City,MO,64101,United States,4575,1186.52,3338.43
+3234,"Martinez, Miller and Rocha",Hernandez,Melanie,+1-670-924-2775x273,990 Maple Ave,Apt 7,Milan,Veneto,20100,Italy,3406,7133.85,2345.95
+6284,Sanchez and Sons,Gutierrez,Colton,964-281-1720x264,543 Alder Dr,Suite 15,Kansas City,MO,64101,United States,8217,1260.99,1028.13
+9832,Coleman PLC,Chang,Tara,(554)539-9939x6454,343 Maple Ave,Apt 9,Berlin,Saxony,20095,Germany,1683,2773.35,8850.46
+5613,"Martin, Johnson and Ho",Simmons,Emily,476.335.0119x47673,987 Cedar Rd,,Philadelphia,PA,19101,United States,5795,9556.21,9552.13
+2309,Dominguez-Mcgee,Russell,John,(824)545-6243x737,617 Park Ave,Apt 34,Leipzig,Hesse,04103,Germany,6944,1674.78,3242.46
+6802,"Johnson, Garcia and Hawkins",Nelson,Tammy,(673)297-7413,920 Oak St,Apt 11,Milan,Campania,30100,Italy,3516,6733.69,9548.69
+3447,Martinez PLC,Shannon,Angela,001-727-345-8392,717 Oak St,Apt 11,Hamburg,Hesse,10115,Germany,1950,1715.73,7385.2
+2101,"Stephens, Davies and Hunt",Mason,Wesley,001-368-208-3106x409,110 Oak St,Apt 6,Marseille,Île-de-France,75000,France,6663,6083.49,7952.44
+7411,Gentry Group,Griffin,Lisa,(815)864-0933x2687,920 Oak St,Apt 11,Milan,Campania,30100,Italy,9290,5438.09,2704.05
+2929,"Howard, Turner and Torres",Lyons,Tiffany,7569515380,addressLine1,addressLine2,city,state,postalCode,country,1409,5780.63,9621.36
+3985,Campbell Inc,Avery,Gina,001-351-621-4319,790 Maple Ave,Apt 34,Seville,Catalonia,41001,Spain,5510,4222.23,4431.94
+6997,Henderson-Aguirre,Huerta,Laura,962-317-1162,134 Redwood Dr,,Jacksonville,FL,32201,United States,7012,5822.68,8160.36
+8878,Mcfarland-Beard,Cole,Paul,001-797-679-8620x03265,654 Elm St,Apt 4C,Phoenix,AZ,85001,United States,8812,2510.03,2470.79
+4770,"Moore, Barber and Travis",Stout,Rebecca,381.580.5856,753 Birch Cir,Suite 4,Portland,OR,97201,United States,4382,7219.26,1300.16
+5064,"Roberts, Golden and Shelton",Mcconnell,Henry,+1-501-887-9639x447,460 Oak St,Apt 36,Milan,Piedmont,80100,Italy,2003,6666.58,3079.27
+5534,"Mcgee, Rogers and Sullivan",Collins,Miranda,(360)792-9065,920 Oak St,Apt 11,Milan,Campania,30100,Italy,1696,9911.24,6042.34
+7201,"Riley, Johnson and Patel",Bowman,Zachary,628.269.7843,608 Park Ave,Apt 2,Venice,Lombardy,00100,Italy,7024,7720.05,6749.32
+3798,Williams-Graham,Alvarado,Elizabeth,+1-264-474-2662,793 Oak St,Apt 22,A Coruña,Madrid,08001,Spain,9934,9004.29,1853.23
+6942,Taylor-Copeland,Patterson,Christopher,872-960-0864x4660,508 Maple Ave,Apt 35,Munich,Hamburg,04103,Germany,9926,3884.14,8040.71
+6268,Moody-Evans,Rosales,Susan,(552)800-8725x432,456 Alder Ave,,Seattle,WA,98101,United States,5320,4612.28,1221.84
+8683,Hernandez Inc,Jones,Christine,679.979.8091x9972,187 Oak St,Apt 39,Utrecht,Gelderland,6811,Netherlands,9366,1727.43,5752.65
+8962,Brown-Flores,Garrett,Zachary,962-622-9650,134 Redwood Dr,,Jacksonville,FL,32201,United States,2378,2380.97,3540.23
+4984,"Humphrey, Fields and Price",Mccall,Justin,229-293-5226x579,508 Maple Ave,Apt 35,Munich,Hamburg,04103,Germany,8448,8576.74,5511.68
+9861,"Smith, Stokes and Sheppard",Marshall,Kimberly,5565238404,852 Maple Ave,,Cleveland,OH,44101,United States,2014,4400.28,2331.69
+2415,"Payne, Kim and Williams",Castro,Heather,930-564-7357,47 Main St,Apt 17,Frankfurt,Hamburg,10115,Germany,6738,6726.57,3146.49
+4086,"Miller, Moran and Combs",Carter,Matthew,(622)811-9235x662,893 Oak St,Apt 47,Naples,Lombardy,20100,Italy,1576,7650.53,6835.92
+9376,"Parks, Smith and Smith",Romero,Matthew,432.348.6872x4191,321 Cypress Cir,,El Paso,TX,79901,United States,5743,7833.88,4964.59
+4281,Rhodes-Clark,Burke,Nathan,001-682-225-3511x26249,890 Chestnut Ave,,Fresno,CA,93701,United States,2652,9892.04,2517.85
+2528,Lee Group,Henderson,Jerry,(562)326-0350,262 Oak St,Apt 12,Marseille,Occitanie,31000,France,5715,6989.53,6523.7
+1587,"Wolfe, Sanchez and Ponce",Wright,Spencer,482-629-1559,203 Oak St,Apt 28,Munich,Hamburg,10115,Germany,8914,2355.13,3301.06
+1081,Marquez Group,Hill,Richard,245.512.4544,358 Main St,Apt 25,Hamburg,Hamburg,60311,Germany,8113,3958.04,2671.29
+2351,Smith-Espinoza,Hunt,Linda,422.472.9234x4880,987 Dogwood Rd,,Minneapolis,MN,55401,United States,7050,4029.04,2605.5
+3943,"Ramirez, Figueroa and Dawson",Thompson,Jaime,647.747.6051,49 Maple Ave,Apt 31,Milan,Piedmont,10100,Italy,4775,8100.59,1494.35
+3384,Ortiz and Sons,Fuller,Jodi,(953)754-8072,608 Park Ave,Apt 2,Venice,Lombardy,00100,Italy,5395,2860.52,7048.29
+1783,Sanchez-Sherman,Butler,Brandy,(248)375-5176x4864,456 Oak Ave,Suite 300,Los Angeles,CA,90001,United States,2509,8113.07,4439.28
+5287,Davis-Dickson,Archer,Jennifer,(663)595-3409x618,761 Maple Ave,Apt 19,Milan,Lombardy,00100,Italy,5795,6098.76,4714.22
+6920,Martinez Ltd,Harrison,Yesenia,+1-624-954-7638x46347,467 Cedar St,,Anaheim,CA,92801,United States,2741,8888.5,2701.85
+3848,Chapman-Lang,Carter,Brenda,2528070316,407 Park Ave,Apt 15,Venice,Lombardy,80100,Italy,9645,1458.98,9411.38
+6779,"Hernandez, Johnson and Andrews",Walker,Krystal,+1-815-241-8911x4026,775 Main St,Apt 48,Berlin,Hamburg,20095,Germany,7065,9523.93,1367.97
+7820,Jordan LLC,Lee,Michael,534.228.8850,49 Oak St,Apt 1,Amsterdam,North Holland,3011,Netherlands,3022,7154.33,8913.06
+9216,Rice-Brown,Parker,Cody,001-890-368-0891x120,262 Oak St,Apt 12,Marseille,Occitanie,31000,France,4002,4978.16,9351.83
+9290,Howard Group,Garcia,Katherine,2358844242,852 Cedar Ave,,Las Vegas,NV,89101,United States,6204,1679.81,8904.65
+7826,Phillips PLC,Dorsey,Brittney,900.650.8549,343 Maple Ave,Apt 9,Berlin,Saxony,20095,Germany,3410,9748.47,7895.53
+4759,"Henderson, Gutierrez and Peterson",White,Ashley,784-564-7268x279,951 Oak St,Apt 7A,Tampa,FL,33601,United States,1769,1155.04,5492.15
+2239,"Perez, Fletcher and Garza",Anderson,Robert,001-668-506-9469x04393,56 Maple Ave,Apt 27,Frankfurt,Hamburg,80331,Germany,5955,3251.46,8644.96
+7461,"Mata, Huber and Stewart",Martin,Michael,001-258-360-7294x769,789 Pine Cir,,Raleigh,NC,27601,United States,9922,1217.02,8312.93
+3702,Ruiz PLC,Merritt,Susan,+1-318-441-6484x52973,467 Sycamore St,Apt 12,San Francisco,CA,94101,United States,9713,1611.17,2393.67
+9840,Evans LLC,Brown,Wendy,897.546.7951x6009,269 Maple Ave,Apt 21,Turin,Campania,80100,Italy,7837,2043.57,9810.52
+7109,Jackson-Miller,Edwards,Linda,(807)592-0261,790 Maple Ave,Apt 34,Seville,Catalonia,41001,Spain,8821,3838.26,8311.98
+1041,"Burke, Hicks and Marshall",Banks,Donna,642-478-9401x198,753 Birch Cir,Suite 4,Portland,OR,97201,United States,4764,7267.13,1373.35
+8681,"Travis, Arnold and Robinson",Davis,Danny,7729878527,990 Maple Ave,Apt 7,Milan,Veneto,20100,Italy,9029,9602.78,8081.78
+6627,Allison-Baker,Robinson,David,001-521-487-0221x3241,187 Oak St,Apt 39,Utrecht,Gelderland,6811,Netherlands,8134,7349.86,2281.58
+8763,Williams-Estes,Morrow,Chad,861-352-1539x6699,907 Oak St,,Sacramento,CA,94203,United States,2917,6450.44,3615.65
+3410,"Murphy, Wilson and Jacobs",Ferguson,Adam,(280)708-1116,159 Spruce Ln,,San Antonio,TX,78201,United States,8715,2929.16,7496.52
+3772,"Lane, Mcmahon and Russell",Newton,Brooke,2353632690,123 Cedar St,,Atlanta,GA,30301,United States,4716,3185.1,5426.55
+3220,Nelson-Oliver,Robinson,Christopher,+1-810-612-1468x149,243 Maple Ave,Apt 13,Valencia,Valencia,28001,Spain,2370,7166.65,2359.84
+4109,Sandoval-Hurst,White,Joseph,(248)253-3994,747 Main St,Apt 13,Barcelona,Andalusia,15001,Spain,9258,8886.74,4339.57
+3015,Jimenez Inc,Webb,Rachel,665-412-4815x5476,47 Main St,Apt 17,Frankfurt,Hamburg,10115,Germany,9911,4875.79,7052.69
+4550,"Whitney, Bullock and Howe",Phillips,Tanya,(417)833-5886,674 Park Ave,Apt 6,Leipzig,Hamburg,20095,Germany,2775,4692.25,4415.05
+4905,"Stephens, Cole and Olsen",Ayers,Judith,+1-426-337-5024x74065,907 Oak St,,Sacramento,CA,94203,United States,7138,6581.04,2395.85
+7340,Rodriguez-Martin,Baird,Cynthia,293-914-4449x3603,987 Dogwood Rd,,Minneapolis,MN,55401,United States,5553,8604.52,2334.47
+8051,"Bryant, Foster and Stewart",Walker,Gabrielle,552-388-1287,187 Park Ave,Apt 42,Munich,Saxony,80331,Germany,4165,4872.98,8930.27
+7329,"Woodward, Lee and Hughes",Smith,Michael,423-900-9561,134 Redwood Dr,,Jacksonville,FL,32201,United States,7411,2263.55,8407.8
+4827,"Medina, Warren and Dunn",Perry,Betty,+1-338-929-5985x76695,907 Oak St,,Sacramento,CA,94203,United States,3028,9408.95,9840.34
+4383,Gomez-Kennedy,Gonzalez,Catherine,(585)920-7420x41419,134 Pine Ave,Suite 12,Bakersfield,CA,93301,United States,8845,9082.02,1145.5
+7351,"Martin, Gay and Brandt",Gentry,Samantha,544.671.0928x039,339 Oak St,Apt 40,Utrecht,Limburg,3511,Netherlands,1828,2504.52,7213.82
+1884,Harrington-Molina,Gilmore,Jennifer,001-565-339-3171,123 Maple St,Apt 2,New York,NY,10001,United States,3855,6691.72,9140.24
+9632,"Luna, Thompson and Gould",Delacruz,Matthew,510.461.4337x446,543 Alder Dr,Suite 15,Kansas City,MO,64101,United States,4652,3646.81,1011.5
+5092,"Lewis, Powell and Chang",Miller,Kimberly,582-778-8552x218,826 Oak St,Apt 49,Toulouse,Île-de-France,13000,France,6862,4914.9,1691.92
+9483,"White, Anderson and Robinson",Wood,Amber,(233)973-1139,951 Oak St,,Louisville,KY,40201,United States,2472,1223.54,6684.77
+7788,"Walker, Wood and Donovan",Dominguez,Steven,945-462-8555,753 Chestnut Cir,,New Orleans,LA,70112,United States,9296,3106.24,1190.37
+2433,"Rhodes, James and Carlson",Leon,Sara,904-270-8494x846,600 Park Ave,Apt 2,Rotterdam,North Holland,3011,Netherlands,3081,6595.63,3564.63
+1902,Clark Group,Malone,Jacob,001-456-866-8283x46119,343 Maple Ave,Apt 9,Berlin,Saxony,20095,Germany,1119,5039.1,8056.89
+8562,Lopez Group,Gonzales,Kevin,8932080045,248 Birch Blvd,,Arlington,TX,76001,United States,2694,2412.41,2991.66
+6800,Smith-Swanson,West,Matthew,315-304-9699x7236,654 Fir St,,Nashville,TN,37201,United States,9670,9786.33,4120.53
+5848,"Brown, Wright and Gonzalez",Harris,Kathryn,001-606-681-0772x593,753 Chestnut Cir,,New Orleans,LA,70112,United States,2753,2755.04,2701.66
+3101,"Riley, Gonzalez and Small",Mclean,Devin,(313)820-9580x27027,951 Oak St,,Louisville,KY,40201,United States,3729,9137.55,1812.31
+1273,Gutierrez PLC,Williams,Nicole,(433)676-1213,248 Birch Blvd,,Arlington,TX,76001,United States,2547,5991.98,6505.26
+4750,Barrera-Alexander,Macias,Francis,871-585-9976x1550,987 Dogwood Rd,,Minneapolis,MN,55401,United States,5706,2806.17,2565.23
+6430,"Foster, Montoya and Davis",Anderson,Rachael,(461)517-6783x42536,49 Maple Ave,Apt 31,Milan,Piedmont,10100,Italy,2855,9207.65,6282.98
+7899,Watson and Sons,Maldonado,Tammy,611.645.2093x216,243 Maple Ave,Apt 13,Valencia,Valencia,28001,Spain,5027,7479.43,8032.69
+9776,"Martin, Curry and Beck",Willis,Tyler,924-366-9913x55139,822 Park Ave,Apt 17,Utrecht,Limburg,6211,Netherlands,2599,4554.98,7494.47
+3530,"Snyder, Smith and Edwards",Wolf,Patrick,+1-288-889-4122x2188,237 Main St,Apt 35,Madrid,Valencia,15001,Spain,9345,3983.35,3159.49
+1750,Stephens and Sons,Johnson,Bradley,712.708.3943x306,930 Main St,Apt 32,Utrecht,Utrecht,1012,Netherlands,1168,1092.17,8372.62
+2511,Hooper Ltd,Brown,Nathan,001-713-559-4669,248 Maple Ct,,Baltimore,MD,21201,United States,8705,8449.42,8613.19
+5619,Turner Group,Porter,Stephanie,001-687-604-6574x0639,987 Dogwood Rd,,Minneapolis,MN,55401,United States,7543,1451.71,2420.74
+3609,Bell-Stewart,Wilcox,Luis,(446)782-0374x3912,852 Maple Ave,,Cleveland,OH,44101,United States,4801,4570.85,6985.98
+3184,Lambert PLC,Wilson,Allison,272-325-4026,753 Willow Cir,Suite 10,San Diego,CA,92101,United States,4053,6450.36,9385.77
+1379,"White, Wilkerson and Dougherty",Ramirez,Julian,408-630-3775x93987,358 Main St,Apt 25,Hamburg,Hamburg,60311,Germany,2719,6408.86,4467.16
+2925,"Nichols, Holt and Walker",Byrd,Brent,295.593.6365x93952,187 Park Ave,Apt 42,Munich,Saxony,80331,Germany,9434,3134.02,6172.88
+3878,Smith Inc,Patrick,Christopher,802-708-3694x0080,893 Oak St,Apt 47,Naples,Lombardy,20100,Italy,2358,4883.06,7498.58
+7107,Harris-Esparza,Hernandez,Randy,505-983-1839,753 Willow Cir,Suite 10,San Diego,CA,92101,United States,7102,1163.31,5903.44
+3078,Murphy and Sons,Conner,Aaron,+1-307-807-2623x77845,679 Spruce Ln,,Santa Ana,CA,92701,United States,6204,9841.23,4377.85
+4882,"Harrison, Dean and Meadows",Lewis,Charles,001-849-724-4177x509,110 Oak St,Apt 6,Marseille,Île-de-France,75000,France,7246,8631.39,4932.17
+3207,Juarez-Wade,Wheeler,Elizabeth,(647)290-7817x4217,248 Magnolia Ct,,Austin,TX,73301,United States,1947,4441.1,2087.19
+1193,Jones-Graves,Jones,Rodney,874.566.6841x9250,159 Willow Ln,,Memphis,TN,38101,United States,2171,6193.92,8511.38
+5895,"Howard, Hoffman and Miller",Smith,Christian,387.657.1942x81556,924 Main St,Apt 44,Frankfurt,Hamburg,20095,Germany,8061,8893.8,9026.01
+8617,"Anderson, Johnson and Bond",Reynolds,Dawn,+1-479-420-1475,753 Willow Cir,Suite 10,San Diego,CA,92101,United States,8896,9834.4,1848.98
+7686,Williams LLC,Smith,Mark,(752)912-5104x9888,358 Main St,Apt 25,Hamburg,Hamburg,60311,Germany,5788,6655.24,5507.58
+2349,Young-Thompson,Preston,Robert,001-217-277-7443,456 Alder Ave,,Seattle,WA,98101,United States,8491,3259.98,9112.6
+9111,Jacobs-Sharp,Frederick,Karen,+1-409-673-9160x7566,761 Maple Ave,Apt 19,Milan,Lombardy,00100,Italy,8350,3049.27,2061.24
+8910,Gonzalez-Walker,Jones,Stephanie,001-258-827-0745x4539,600 Park Ave,Apt 2,Rotterdam,North Holland,3011,Netherlands,3947,5103.82,8446.31
+4686,Burton LLC,Weiss,Sara,703.402.5047x190,467 Sycamore St,Apt 12,San Francisco,CA,94101,United States,3806,3149.89,3058.89
+2424,"Durham, Vargas and Turner",Marquez,Daniel,9608542830,679 Redwood Ln,Unit 2C,Tucson,AZ,85701,United States,4023,2866.83,8760.1
+2144,Gould-Liu,Williams,Haley,+1-725-737-3128,775 Main St,Apt 48,Berlin,Hamburg,20095,Germany,6496,7449.72,4440.16
+9736,Grant Inc,Moore,Bryan,899.440.1484,98 Park Ave,Apt 35,Amsterdam,Gelderland,1012,Netherlands,6357,2521.4,9206.99
+3968,"Fletcher, Black and Morales",Hodge,Denise,+1-358-704-1919x948,608 Park Ave,Apt 2,Venice,Lombardy,00100,Italy,9375,2728.43,6725.85
+8754,Rodriguez-Le,Arnold,Chad,932-571-7838,753 Birch Cir,Suite 4,Portland,OR,97201,United States,7660,6834.07,7360.96
+1743,Brown-Martinez,Smith,Jill,(454)251-7706,159 Willow Ln,,Memphis,TN,38101,United States,5354,7490.68,3050.28
+6446,Jimenez Inc,Singh,Tina,(883)595-3645x47227,951 Oak St,,Louisville,KY,40201,United States,5584,6415.47,2217.48
+9882,Moreno PLC,Dawson,Laura,352.417.8003,600 Park Ave,Apt 2,Rotterdam,North Holland,3011,Netherlands,8567,2618.64,1753.97
+6749,Wang Group,Kramer,Justin,(553)263-5262,248 Magnolia Ct,,Austin,TX,73301,United States,4089,4936.46,1021.26
+7862,Harmon LLC,Ryan,Alexander,262.707.7583,203 Oak St,Apt 28,Munich,Hamburg,10115,Germany,6230,4185.65,1334.6
+2146,"Williams, Hernandez and Haynes",Nelson,Ryan,+1-683-429-3920x262,654 Redwood St,Unit 8,Colorado Springs,CO,80901,United States,6181,9950.89,9900.44
+6004,"Wright, Hawkins and Cardenas",Wise,Michael,733-666-1980,358 Main St,Apt 25,Hamburg,Hamburg,60311,Germany,8557,9412.0,5877.33
+3884,"Johnson, Chang and Le",Henderson,Sean,+1-916-268-9171x704,456 Oak Ave,Suite 300,Los Angeles,CA,90001,United States,7164,5138.65,8420.02
+8869,Simmons-Melton,Patel,Kevin,001-515-649-5509x731,543 Beech Dr,Unit 6A,Charlotte,NC,28201,United States,9551,3575.9,1146.14
+3994,"Morris, Charles and Snyder",Glenn,Molly,753.891.7944,617 Park Ave,Apt 34,Leipzig,Hesse,04103,Germany,9183,6723.53,4054.97
+4767,Roberts and Sons,Butler,John,649.904.7509,951 Oak St,Apt 7A,Tampa,FL,33601,United States,8605,7214.61,6799.85
+3006,Smith-Lee,Rodriguez,Zachary,589.338.7776,652 High St,Apt 34,Bordeaux,Île-de-France,31000,France,7508,3103.97,2810.51
+1768,"Blackwell, Levine and Sanders",Hall,Carlos,001-728-453-3950x978,339 Oak St,Apt 40,Utrecht,Limburg,3511,Netherlands,7401,3106.96,2919.22
+3965,Sullivan-Rollins,Garcia,Michael,(911)730-1006x8300,789 Pine Dr,Unit 5B,Chicago,IL,60601,United States,3548,6174.87,2308.07
+1389,Perez and Sons,Johnson,Mark,(394)994-4850,296 Maple Ave,Apt 6,Seville,Catalonia,41001,Spain,2887,9906.67,6730.14
+5130,Blair Inc,Johnson,Tracy,(331)952-6037x866,617 Park Ave,Apt 34,Leipzig,Hesse,04103,Germany,6549,9543.95,1634.89
+1842,"George, Madden and Hopkins",Adams,Vanessa,(545)556-7137,47 Main St,Apt 17,Frankfurt,Hamburg,10115,Germany,3694,6330.51,2447.74
+1213,Cooper Ltd,Brown,Samantha,7096899014,893 Oak St,Apt 47,Naples,Lombardy,20100,Italy,9339,5845.58,1075.53
+1805,"Scott, Lewis and Williams",Keller,Hannah,+1-756-308-1246x03695,852 Palm Ave,,Dallas,TX,75201,United States,2075,3748.09,2418.03
+6960,Kelly-Davis,Brown,Alex,335.877.3854x4370,159 Sycamore Ln,,Wichita,KS,67201,United States,1250,5312.94,1612.96
+8711,Moore-Wilson,Patrick,Jason,620.899.0933x6055,617 Park Ave,Apt 34,Leipzig,Hesse,04103,Germany,9571,3005.9,8597.81
+5395,"Cruz, Maldonado and Hayes",Hall,Dominique,001-469-915-3334x1786,987 Dogwood Rd,,Minneapolis,MN,55401,United States,1786,6527.4,1025.67
+7468,Martin-Brewer,Barnes,Terri,729.781.9826,822 Park Ave,Apt 17,Utrecht,Limburg,6211,Netherlands,1980,7538.86,3777.55
+6862,Decker-Clark,Long,Louis,001-945-591-6392,890 Chestnut Ave,,Fresno,CA,93701,United States,3207,9134.19,4004.97
+4833,"Gutierrez, Barker and Mcmillan",Davis,Brian,(663)227-5031x82690,789 Maple Dr,Apt 3B,Denver,CO,80201,United States,8319,3017.66,3261.68
+6518,Warren-Estrada,Davis,Sarah,001-663-683-1920,775 Main St,Apt 48,Berlin,Hamburg,20095,Germany,8237,9940.36,7473.16
+8691,Lane-Glenn,Pitts,Crystal,(350)538-1611x49502,467 Spruce St,Apt 5,Albuquerque,NM,87101,United States,5855,1490.47,3143.34
+8643,"Torres, Powell and Fletcher",Clark,Kelly,+1-991-738-7405x8071,248 Maple Ct,,Baltimore,MD,21201,United States,8138,1320.46,4114.12
+8193,"Garcia, Smith and Davis",Elliott,Jesus,(372)683-5867x500,790 Maple Ave,Apt 34,Seville,Catalonia,41001,Spain,4020,8312.41,2423.11
+3340,Rodriguez LLC,Lopez,Amanda,907-946-6003x43663,123 Maple St,Apt 2,New York,NY,10001,United States,2144,8712.88,2837.12
+4359,"Calderon, Dyer and Thompson",Jennings,Seth,(915)458-4994x1831,679 Redwood Ln,Unit 2C,Tucson,AZ,85701,United States,7224,2190.71,3257.54
+7454,"Flores, Foster and Torres",Smith,Bonnie,001-847-509-4995x99598,822 Park Ave,Apt 17,Utrecht,Limburg,6211,Netherlands,6706,3052.35,3695.33
+8838,Barnett-Barry,Davis,Karen,2939803361,852 Palm Ave,,Dallas,TX,75201,United States,5346,7994.59,4493.45
+8153,Molina-Williams,Wilkerson,Katherine,456-657-1238,543 Alder Dr,Suite 15,Kansas City,MO,64101,United States,4616,8888.09,3859.36
+7382,"Jackson, Mcdaniel and Mitchell",Crawford,Charles,(303)467-3848,339 Oak St,Apt 40,Utrecht,Limburg,3511,Netherlands,5516,6493.24,4483.16
+9152,"Shelton, King and Rodriguez",Richards,Lisa,(228)286-9410x69677,395 Park Ave,Apt 43,Rome,Veneto,00100,Italy,8855,9151.48,8092.9
+1646,Smith PLC,Rodriguez,Garrett,001-903-564-6816x9617,852 Cedar Ave,,Las Vegas,NV,89101,United States,8759,5404.51,1828.49
+6348,"Williams, Sanchez and Clark",Sanchez,Andrew,(610)762-2814,987 Cedar Rd,,Philadelphia,PA,19101,United States,7966,2027.38,5755.68
+5993,Ross-Ortega,Lee,Timothy,870.384.1820x1792,852 Palm Ave,,Dallas,TX,75201,United States,4194,7515.55,9863.71
+6048,"Adams, Stone and Perez",Mendez,Heather,001-242-991-5087x45926,134 Redwood Dr,,Jacksonville,FL,32201,United States,4571,7230.01,5015.21
+7312,James-Davidson,Simpson,Scott,+1-286-368-0199x06047,159 Willow Ln,,Memphis,TN,38101,United States,5503,5965.76,8671.06
+5540,Sherman PLC,Elliott,Jeremiah,001-710-910-1541x0972,654 Redwood St,Unit 8,Colorado Springs,CO,80901,United States,3725,4464.27,1073.42
+7380,Boyd-Robertson,Walker,Lori,+1-333-832-7922x820,852 Cedar Ave,,Las Vegas,NV,89101,United States,6418,9354.39,6811.39
+1981,"Garcia, Howard and Lee",Gibbs,Jessica,+1-410-449-5907x16047,543 Beech Dr,Unit 6A,Charlotte,NC,28201,United States,3988,2220.3,3915.0
+9986,"Cooley, Mcmillan and Woods",Dixon,Rebecca,817-963-0540x49489,852 Cedar Ave,,Las Vegas,NV,89101,United States,8945,8034.75,3787.61
+9980,Lewis Inc,Cunningham,Tammy,669-742-5900x46641,460 Oak St,Apt 36,Milan,Piedmont,80100,Italy,6801,2125.88,2578.15
+5819,Turner PLC,Anderson,Laura,793.895.5429x3527,321 Spruce Dr,,Omaha,NE,68101,United States,6152,2852.97,6756.24
+7142,Thomas and Sons,Martinez,Pamela,706-705-1553x5835,159 Sycamore Ln,,Wichita,KS,67201,United States,4969,1201.72,6202.18
+3459,Fleming-Erickson,Collins,Kristen,(369)609-6415x25083,248 Maple Ct,,Baltimore,MD,21201,United States,7238,1007.7,7388.02
+3467,"Smith, Collins and Smith",Hansen,Pam,725.713.3171x77649,159 Willow Ln,,Memphis,TN,38101,United States,5486,8298.36,3334.81
+4476,Nelson Group,Phillips,Bethany,001-342-208-6409x8995,920 Oak St,Apt 11,Milan,Campania,30100,Italy,1862,6450.81,3327.87
+2231,"Nguyen, Hernandez and Ingram",Davidson,Lisa,637.227.4707x2683,596 Park Ave,Apt 41,Madrid,Catalonia,28001,Spain,4319,9205.34,9968.18
+7132,Evans-Thompson,Coffey,Courtney,001-468-988-6036,717 Oak St,Apt 11,Hamburg,Hesse,10115,Germany,2360,2960.62,9564.33
+7871,Rodriguez Inc,Mclean,Nicholas,423.755.3147x22290,321 Spruce Dr,,Omaha,NE,68101,United States,9836,4424.8,6555.31
+7541,Schultz PLC,Smith,Jerome,299.295.7799,467 Cedar St,,Anaheim,CA,92801,United States,6013,7918.67,9623.4
+6963,"Donovan, Williams and Olsen",Martinez,Walter,(936)643-0520x06865,966 Park Ave,Apt 32,Naples,Campania,30100,Italy,8981,4737.26,1619.37
+8362,Young-Johnson,Taylor,Nancy,749-751-3949x7652,321 Cypress Cir,,El Paso,TX,79901,United States,6800,8357.13,1274.66
+8348,West-Snow,Miller,Erik,(270)296-5486,543 Beech Dr,Unit 6A,Charlotte,NC,28201,United States,3226,4168.01,9103.96
+1876,Rodriguez-Wood,Rodriguez,Kimberly,(221)904-9246x947,123 Chestnut St,,Detroit,MI,48201,United States,1458,7451.31,1361.97
+5451,Smith-Mays,Lynch,Destiny,665.576.6524,822 Park Ave,Apt 17,Utrecht,Limburg,6211,Netherlands,5061,6211.23,2743.99
+4391,Vega-Hernandez,Juarez,Katherine,+1-237-369-2385x0771,358 Main St,Apt 25,Hamburg,Hamburg,60311,Germany,9190,3623.58,1929.22
+4484,"Jordan, Bowen and Bell",Molina,Carla,945.204.6236,775 Main St,Apt 48,Berlin,Hamburg,20095,Germany,3106,1258.24,1714.18
+4057,Smith-Evans,Wagner,Lisa,201-269-3072x57238,930 Main St,Apt 32,Utrecht,Utrecht,1012,Netherlands,9260,1486.66,9115.54
+5167,Parker Inc,Glass,Jesse,+1-966-477-5912x402,987 Juniper Rd,,Boston,MA,02101,United States,1311,2575.0,8210.63
+1829,"Petty, Vazquez and Salas",Raymond,Brent,+1-202-911-1127x361,990 Maple Ave,Apt 7,Milan,Veneto,20100,Italy,2449,9603.84,4141.88
+2326,Stanley Ltd,Cobb,John,403-423-5278x535,123 Cedar St,,Atlanta,GA,30301,United States,3055,9758.16,3844.94
+7245,Davis-Craig,Wagner,Monica,4659156976,753 Birch Cir,Suite 4,Portland,OR,97201,United States,7122,2902.71,2732.69
+3870,"Wolf, Roberson and Daniels",Lowery,Christopher,793-663-6344x213,596 Park Ave,Apt 41,Madrid,Catalonia,28001,Spain,5469,8541.84,7613.08
+8434,Watson Group,Fowler,Jennifer,(727)844-0396x47349,460 Oak St,Apt 36,Milan,Piedmont,80100,Italy,3500,3276.86,8610.37
+3615,"Mcgrath, Newton and Mcgrath",Salazar,Dustin,001-936-525-0500x634,123 Cedar St,,Atlanta,GA,30301,United States,9013,3654.54,7864.82
+9374,Harris-Miller,Simmons,Haley,842-604-2730x141,852 Palm Ave,,Dallas,TX,75201,United States,2677,4143.75,6197.45
+2041,Herrera Inc,Brooks,Charles,626-837-8777x059,907 Walnut St,,Fort Worth,TX,76101,United States,2376,7918.12,4932.67
+8197,"Flores, Brown and Gray",Hawkins,Danny,901.718.7114,617 Park Ave,Apt 34,Leipzig,Hesse,04103,Germany,5182,2496.41,7380.27
+6837,"Parrish, Bradley and Eaton",Johnson,Kyle,+1-562-323-7551x84891,133 Oak St,Apt 16,Venice,Campania,20100,Italy,1691,4140.2,2162.96
+8762,Lewis Group,Diaz,Alexander,279.946.3634x6874,203 Oak St,Apt 28,Munich,Hamburg,10115,Germany,6244,2572.83,3029.55
+8778,"Gonzalez, Lopez and Woods",Barber,Krystal,(326)712-8872,159 Willow Ln,,Memphis,TN,38101,United States,1715,7213.06,5027.28
+3011,"Smith, Watkins and Carroll",Holloway,Robert,(415)980-0682x03785,747 Main St,Apt 13,Barcelona,Andalusia,15001,Spain,4057,7747.53,4381.24
+1945,Smith Inc,Taylor,John,(481)536-8031x5939,123 Chestnut St,,Detroit,MI,48201,United States,6233,6324.75,2356.21
+9403,Armstrong-Strickland,Ho,Carolyn,989.219.6855x7974,852 Cedar Ave,,Las Vegas,NV,89101,United States,1599,6758.74,5560.07
+3574,Blake Ltd,Sims,Alex,(633)212-5000x07133,654 Elm St,Apt 4C,Phoenix,AZ,85001,United States,1101,9448.67,8764.72
+7419,Hernandez and Sons,Murphy,James,001-270-609-2653x7484,243 Maple Ave,Apt 13,Valencia,Valencia,28001,Spain,6078,4261.44,8222.21
+9035,"Butler, Rosales and Jordan",Pena,Kathleen,553-604-7082,133 Oak St,Apt 16,Venice,Campania,20100,Italy,4995,9823.17,8363.84
+6204,"Davis, Martinez and Charles",Gibson,Ashley,001-872-283-8702x4103,717 Oak St,Apt 11,Hamburg,Hesse,10115,Germany,6524,6244.17,4400.74
+4026,"Ali, Campbell and Coffey",Tapia,Michelle,001-536-799-5769x047,47 Main St,Apt 17,Frankfurt,Hamburg,10115,Germany,5073,9484.34,1618.8
+1355,Jones Group,Horn,Scott,720-569-8694x5105,753 Chestnut Cir,,New Orleans,LA,70112,United States,9669,3071.07,2347.4
+2762,Medina PLC,Manning,Stephanie,220.639.7877x5174,852 Palm Ave,,Dallas,TX,75201,United States,7650,6004.34,6799.6
+7360,"Reid, Kim and Schmidt",Reeves,Sandra,723-433-0595,679 Spruce Ln,,Santa Ana,CA,92701,United States,1657,6384.98,9959.58
+4239,Fowler-Ramsey,Martinez,Daniel,860.610.3623x188,966 Park Ave,Apt 32,Naples,Campania,30100,Italy,3207,9074.55,3343.24
+7610,"Mcintosh, Knight and Wilson",Mitchell,Destiny,2616731353,262 Oak St,Apt 12,Marseille,Occitanie,31000,France,5942,3117.12,4518.66
+7302,"Stewart, Hudson and Nelson",Turner,Kaitlin,574.568.2033x1690,407 Park Ave,Apt 15,Venice,Lombardy,80100,Italy,8113,7701.9,4046.4
+1644,Krueger-Gibbs,Miller,Brandon,719.293.1097,203 Oak St,Apt 28,Munich,Hamburg,10115,Germany,6206,6650.94,7779.38
+2755,Gonzalez-Herman,King,Kenneth,(693)245-9516x4856,654 Elm St,Apt 4C,Phoenix,AZ,85001,United States,5443,3683.93,1116.49
+2714,Foster Ltd,Robertson,Lisa,(476)507-9785,19 High St,Apt 21,Leipzig,Berlin,10115,Germany,6662,3064.28,2353.16
+4953,Ford-Benton,Mccarthy,Jesse,534-328-9964x17956,826 Oak St,Apt 49,Toulouse,Île-de-France,13000,France,4560,7352.65,3722.31
+1632,Griffin and Sons,Haynes,Julia,438-899-5929,543 Beech Dr,Unit 6A,Charlotte,NC,28201,United States,3837,9173.6,8371.31
+9602,Salas-Donaldson,Ross,Matthew,606.792.6136,753 Chestnut Cir,,New Orleans,LA,70112,United States,6924,9719.7,8608.38
+3768,Wang-Lee,Graham,Katherine,728-636-5869x80897,110 Oak St,Apt 6,Marseille,Île-de-France,75000,France,6093,4516.13,2095.69
+7951,Ellis and Sons,Woodward,Deborah,664.511.2687,543 Alder Dr,Suite 15,Kansas City,MO,64101,United States,9092,2970.88,2331.43
+6533,"Holland, Cook and Rodriguez",Daniel,Anna,(916)333-7082,789 Pine Dr,Unit 5B,Chicago,IL,60601,United States,5447,3968.76,2121.79
+4947,"Brooks, Miller and Rush",Jordan,Dana,817-291-0607x793,920 Oak St,Apt 11,Milan,Campania,30100,Italy,6868,9053.71,6906.13
+9097,Butler-Reed,Gonzalez,Gabriel,416.260.9194x165,775 Main St,Apt 48,Berlin,Hamburg,20095,Germany,6120,4560.55,1920.75
+3127,Perez and Sons,Harding,Abigail,227-501-4060,187 Oak St,Apt 39,Utrecht,Gelderland,6811,Netherlands,8005,5954.96,3755.12
+7469,Walters-Bullock,Reynolds,Nicole,001-814-522-8247x851,243 Maple Ave,Apt 13,Valencia,Valencia,28001,Spain,5587,9301.74,9137.81
+4090,Lambert and Sons,Brown,Nicholas,2516579557,248 Maple Ct,,Baltimore,MD,21201,United States,5336,6201.91,5634.89
+1283,"Anderson, Fuentes and Collins",Anderson,Craig,4139511564,321 Birch Blvd,,Houston,TX,77001,United States,9703,4243.63,4411.04
+1865,"Dixon, Ortega and Simpson",Wilson,Anthony,(920)725-4417,920 Oak St,Apt 11,Milan,Campania,30100,Italy,3387,9188.67,7779.55
+1111,Simmons-Jimenez,Moore,Cody,001-574-217-7750x520,775 Main St,Apt 48,Berlin,Hamburg,20095,Germany,8296,1986.48,9385.61
+4043,Hardy-Mendoza,Mejia,Shannon,001-578-665-2189x294,753 Birch Cir,Suite 4,Portland,OR,97201,United States,7637,1821.4,8614.77
+7792,King LLC,Coffey,William,260-953-3815x54158,652 High St,Apt 34,Bordeaux,Île-de-France,31000,France,2582,7076.15,8259.65
+3361,"Baldwin, White and Jimenez",Beck,David,+1-740-614-0575x4258,753 Birch Cir,Suite 4,Portland,OR,97201,United States,3501,8970.83,8932.96
+8010,Brown-Thornton,Browning,Elizabeth,(504)817-7383x604,890 Poplar Ave,Suite 20,Columbus,OH,43085,United States,5006,7343.11,4456.81
+5151,Boyle-Powell,Farley,Lisa,736-629-0035,890 Chestnut Ave,,Fresno,CA,93701,United States,4425,5572.59,9776.94
+4970,"Welch, Garza and Johnson",Arellano,Joshua,(741)672-7603x496,753 Chestnut Cir,,New Orleans,LA,70112,United States,4154,5982.67,4973.75
+1262,"Smith, Matthews and Diaz",Hancock,John,001-351-739-1503x83046,793 Oak St,Apt 22,A Coruña,Madrid,08001,Spain,9831,5300.36,2791.75
+5901,Walker-Cole,English,Jeffery,791.349.3839,920 Oak St,Apt 11,Milan,Campania,30100,Italy,6202,6367.94,7879.93
+9773,Martinez PLC,Tapia,Jerry,001-326-695-3375x162,951 Hickory St,Apt 7,San Jose,CA,95101,United States,3352,6266.41,6736.86
+5580,"Brennan, Crawford and Cole",Hansen,Calvin,7548031881,775 Main St,Apt 48,Berlin,Hamburg,20095,Germany,6036,1219.49,1645.2
+2198,Watson-Massey,Edwards,Eric,873.625.7930,262 Oak St,Apt 12,Marseille,Occitanie,31000,France,2396,2046.85,1145.81
+4994,"Fernandez, Blankenship and Greene",Jennings,Adam,437-826-2840x570,742 High St,Apt 30,Marseille,Occitanie,69000,France,2569,7500.76,3881.49
+9183,Jenkins-Moore,Reese,Austin,711.639.0948x554,951 Hickory St,Apt 7,San Jose,CA,95101,United States,1522,1047.41,7020.94
+6495,"Jackson, Collins and Hill",Hutchinson,Anthony,544-478-8976,395 Park Ave,Apt 43,Rome,Veneto,00100,Italy,6541,2814.48,3764.84
+2303,"Trujillo, Hamilton and White",Mccoy,Justin,528-818-3792,508 Maple Ave,Apt 35,Munich,Hamburg,04103,Germany,5899,3554.97,5294.42
+6853,Marsh-Walsh,Spencer,Latoya,703.671.8936x91083,508 Maple Ave,Apt 35,Munich,Hamburg,04103,Germany,7266,5981.0,1726.56
+3528,Rowland LLC,Thomas,Colleen,+1-701-231-3390x6866,134 Pine Ave,Suite 12,Bakersfield,CA,93301,United States,3255,1950.16,3945.67
+4219,Miller Ltd,Wyatt,Melissa,(316)356-9308x795,159 Sycamore Ln,,Wichita,KS,67201,United States,2219,2674.75,1409.21
+4260,Eaton-Smith,Rivera,Shannon,927-597-3443x5020,248 Magnolia Ct,,Austin,TX,73301,United States,8582,4839.54,6274.78
+5736,"Holland, Medina and Harvey",Johnson,Lonnie,287-250-2904x952,753 Birch Cir,Suite 4,Portland,OR,97201,United States,6561,4685.34,7776.79
+3264,Anderson LLC,Rodriguez,Robin,001-534-714-0300x0603,753 Birch Cir,Suite 4,Portland,OR,97201,United States,2346,7093.48,6687.91
+3715,Rhodes-Hodge,Bailey,Austin,(659)647-5991x3918,890 Chestnut Ave,,Fresno,CA,93701,United States,2022,7060.76,3099.12
+7855,"Archer, Pearson and Hall",Lewis,Sarah,984-299-2582,134 Pine Dr,,Milwaukee,WI,53201,United States,7854,1879.86,9103.97
+4405,Lang Group,Thomas,Destiny,+1-748-497-2427,14 Oak St,Apt 35,Venice,Piedmont,00100,Italy,3274,8735.18,9412.63
+7708,Ruiz LLC,Byrd,Michael,001-295-575-4153x067,134 Redwood Dr,,Jacksonville,FL,32201,United States,1930,8430.67,2836.06
+4410,Flores-Lam,Cooper,Jessica,737-615-3241x29185,617 Park Ave,Apt 34,Leipzig,Hesse,04103,Germany,4652,7864.99,1313.87
+5143,"Rodriguez, Lambert and Vang",King,Billy,(317)398-1682x103,56 Maple Ave,Apt 27,Frankfurt,Hamburg,80331,Germany,8221,8786.81,2405.71
+9330,"Reyes, Orozco and Glenn",Mathews,Joseph,(770)979-9087,159 Willow Ln,,Memphis,TN,38101,United States,7789,9866.76,8259.46
+3141,"Perez, Webb and Boyd",Sherman,Maxwell,224.473.0970,110 Oak St,Apt 6,Marseille,Île-de-France,75000,France,8785,8741.04,4339.9
+7425,"Robinson, Walker and Branch",Wallace,Lindsay,246-532-7067x4842,654 Fir St,,Nashville,TN,37201,United States,7738,9080.46,9281.51
+1523,"Jennings, Ellis and Carter",Gross,Alicia,(287)718-0324,456 Alder Ave,,Seattle,WA,98101,United States,4723,5356.76,6546.2
+5090,"Ramirez, Baker and Gonzalez",Clements,Kristine,001-934-995-7867x82920,893 Oak St,Apt 47,Naples,Lombardy,20100,Italy,6527,9104.09,7457.47
+1179,Strickland-Simpson,Mckay,Melissa,567.973.5549x734,56 Maple Ave,Apt 27,Frankfurt,Hamburg,80331,Germany,4930,8662.61,9499.49
+6160,"Lewis, Boyd and Petersen",Carter,Sara,+1-490-433-1936x5587,123 Maple St,Apt 2,New York,NY,10001,United States,2437,8627.68,3292.42
+3042,Baker Ltd,Robinson,Rachel,621-552-1197,237 Main St,Apt 35,Madrid,Valencia,15001,Spain,2545,3033.03,9380.37
+2496,"Wilson, Clay and George",Camacho,Renee,740-316-0679x895,72 Main St,Apt 24,Utrecht,North Holland,3011,Netherlands,2468,4839.79,4901.82
+1680,Lewis Group,Lambert,Austin,257-629-2558,890 Poplar Ave,Suite 20,Columbus,OH,43085,United States,3069,5943.98,6861.94
+2252,Page Inc,Matthews,Casey,372-290-4545,159 Willow Ln,,Memphis,TN,38101,United States,6468,6542.83,4138.01
+4054,Morgan-Friedman,Molina,Jesse,612.563.8760,98 Park Ave,Apt 35,Amsterdam,Gelderland,1012,Netherlands,4722,7751.9,6559.25
+2082,Gilbert-Mccormick,Howell,Karen,001-624-674-8588x387,49 Maple Ave,Apt 31,Milan,Piedmont,10100,Italy,2478,5174.45,4348.61
+1973,Thompson-Raymond,Santiago,Scott,001-379-662-0778x29413,addressLine1,addressLine2,city,state,postalCode,country,8201,4342.46,6410.4
+5038,Gross-West,Riddle,Tina,941-623-5715x53522,543 Alder Dr,Suite 15,Kansas City,MO,64101,United States,1720,4573.19,7453.5
+7429,Charles Ltd,Martinez,Michael,572.218.8826x0922,674 Park Ave,Apt 6,Leipzig,Hamburg,20095,Germany,6679,9597.34,5529.94
+1425,"Wade, Olson and Romero",Lucas,Paul,001-801-574-6743x1595,243 Maple Ave,Apt 13,Valencia,Valencia,28001,Spain,9381,7723.63,8835.98
+3148,Baker-Wilson,Williams,Ashley,639.790.6081,951 Oak St,,Louisville,KY,40201,United States,9671,7842.3,4120.69
+9638,"Dickerson, George and Fisher",Sandoval,Felicia,001-297-534-8656,456 Oak Ave,Suite 300,Los Angeles,CA,90001,United States,4098,6222.91,2228.49
+1294,Baker-Harvey,Ferrell,William,(466)508-5755,852 Maple Ave,,Cleveland,OH,44101,United States,9880,6480.77,5872.69
+3086,"Vang, Taylor and Higgins",Buckley,Michael,(261)807-9867x46720,467 Cedar St,,Anaheim,CA,92801,United States,5121,7421.08,3316.65
+4048,Murphy-Cox,Smith,Joe,(743)948-7267x1340,951 Oak St,Apt 7A,Tampa,FL,33601,United States,4316,4592.81,7739.47
+7977,Wright-Gilbert,Shaw,Thomas,501-387-0011x179,243 Maple Ave,Apt 13,Valencia,Valencia,28001,Spain,9910,4599.72,5678.28
+4712,Elliott-Haley,Cooley,Stephanie,944-284-0549,951 Oak St,,Louisville,KY,40201,United States,3052,7037.22,4112.61
+6641,"Reynolds, Perkins and Dixon",Elliott,Jennifer,594-821-3603x1242,654 Redwood St,Unit 8,Colorado Springs,CO,80901,United States,4667,6264.92,4884.9
+8823,Lee Group,Gilbert,Peter,570-454-9065,508 Maple Ave,Apt 35,Munich,Hamburg,04103,Germany,8099,1057.71,6446.94
+4669,"Collins, Martin and Anderson",Douglas,Larry,001-308-959-3917x12822,467 Sycamore St,Apt 12,San Francisco,CA,94101,United States,3287,8953.35,1031.88
+5272,"Hernandez, Torres and Patterson",Torres,Nicholas,+1-562-844-3543x610,456 Oak Ave,Suite 300,Los Angeles,CA,90001,United States,1579,6751.02,1432.22
+4623,Turner-Cortez,Bradley,Erin,384-431-6276,237 Main St,Apt 35,Madrid,Valencia,15001,Spain,3205,1894.56,5422.78
+5728,"Phillips, Sawyer and Golden",Rivas,William,001-910-295-8170,617 Park Ave,Apt 34,Leipzig,Hesse,04103,Germany,7722,9043.77,2067.93
+1057,Rivera PLC,Valenzuela,Manuel,001-537-835-2907x513,134 Pine Ave,Suite 12,Bakersfield,CA,93301,United States,3332,4002.56,4643.2
+2367,"Curtis, Dickerson and Gray",French,Sergio,289.684.2139x0223,753 Willow Cir,Suite 10,San Diego,CA,92101,United States,9951,6390.8,4943.16
+1092,Greene-Powers,Romero,Thomas,927.202.3679,134 Redwood Dr,,Jacksonville,FL,32201,United States,9557,1012.69,1503.21
+6213,Gray-Mccarty,Singleton,David,881-774-9321x3898,761 Maple Ave,Apt 19,Milan,Lombardy,00100,Italy,2973,6858.11,2389.51
+1815,Myers-Guzman,Patterson,Renee,+1-958-311-6454x7976,159 Spruce Ln,,San Antonio,TX,78201,United States,9824,2733.15,1384.16
+9109,Reynolds and Sons,Wright,Keith,(990)349-9374x28472,907 Walnut St,,Fort Worth,TX,76101,United States,4474,8720.81,1933.11
+4906,"Collins, Gonzales and Keith",Brown,Hannah,(641)695-8739,753 Chestnut Cir,,New Orleans,LA,70112,United States,7557,7576.25,6789.9
+6279,Mayer-Foster,Garcia,Edwin,(970)415-7570x81269,753 Willow Cir,Suite 10,San Diego,CA,92101,United States,1156,3377.88,8056.57
+2235,Smith-Peterson,Hoffman,Andrea,+1-213-996-9704x88373,123 Cedar St,,Atlanta,GA,30301,United States,8852,9115.1,2524.91
+9677,Myers Ltd,Stone,Tammy,+1-475-329-5458x49786,159 Willow Ln,,Memphis,TN,38101,United States,6825,2428.53,2646.96
+2016,Bennett LLC,Hess,Daniel,967-988-0610,226 Main St,Apt 1,Leipzig,Bavaria,10115,Germany,8263,3706.13,1721.08
+1456,Sims-Rodriguez,Williams,David,001-533-988-5720x528,187 Oak St,Apt 39,Utrecht,Gelderland,6811,Netherlands,9537,9290.07,4278.98
+7265,Williams-Smith,Sexton,Jacqueline,001-210-657-3992x686,467 Spruce St,Apt 5,Albuquerque,NM,87101,United States,9009,8138.39,8936.72
+2809,"Callahan, Rhodes and Hansen",Johnson,Michael,001-254-364-2375,321 Birch Blvd,,Houston,TX,77001,United States,2866,6341.48,6012.47
+1337,Taylor-Knight,Moore,Amber,001-581-926-6949x49547,456 Maple Ave,Apt 9B,Miami,FL,33101,United States,7020,1126.51,4444.63
+5817,Diaz-Watson,Sherman,Kathleen,371-686-9898x64890,456 Maple Ave,Apt 9B,Miami,FL,33101,United States,4876,7198.57,8674.59
+6005,"Osborn, Dunn and Melendez",Williams,Kelly,2024184756,987 Dogwood Rd,,Minneapolis,MN,55401,United States,3905,2351.77,8108.53
+5220,"Jones, Travis and Gilbert",Ortiz,Seth,310.784.9834,924 Main St,Apt 44,Frankfurt,Hamburg,20095,Germany,9321,8070.55,8413.24
+4810,"Coleman, Barnes and Stafford",Barrett,Sydney,240-219-0924x63454,951 Hickory St,Apt 7,San Jose,CA,95101,United States,4293,4431.78,4686.69
+9206,Perry Group,Odom,April,+1-990-440-7959x841,717 Oak St,Apt 11,Hamburg,Hesse,10115,Germany,6702,8929.27,4502.35
+3971,Kelly-Roberts,James,Charles,496-416-6090x9051,687 High St,Apt 38,Munich,Saxony,60311,Germany,8186,3009.44,9354.64
+6803,Barrett-Wong,Bradford,Ryan,(770)552-3094,753 Willow Cir,Suite 10,San Diego,CA,92101,United States,8726,8507.15,2489.14
+7834,Davis Ltd,Reyes,David,607.861.5611x417,775 Main St,Apt 48,Berlin,Hamburg,20095,Germany,1946,6444.01,4114.59
+1339,Johnson LLC,Buchanan,Cynthia,(459)750-9866,321 Spruce Dr,,Omaha,NE,68101,United States,6864,7914.15,8700.29
+7617,Nguyen-Cobb,Marks,Courtney,(634)445-1176x8369,49 Oak St,Apt 1,Amsterdam,North Holland,3011,Netherlands,3115,6459.84,1459.2
+1409,Hernandez and Sons,Pollard,Amber,(880)739-3203,321 Spruce Dr,,Omaha,NE,68101,United States,8140,6994.15,6751.89
+5289,Bell LLC,Hayes,Deborah,+1-220-697-9511x77526,789 Pine Cir,,Raleigh,NC,27601,United States,3391,7977.98,7913.1
+2175,"Mcknight, Cook and Ortiz",Hamilton,Patrick,(384)547-0262x8729,930 Main St,Apt 32,Utrecht,Utrecht,1012,Netherlands,9597,6306.73,3714.97
+6407,"Freeman, Carpenter and Valdez",Johnson,Melinda,428-266-9265,addressLine1,addressLine2,city,state,postalCode,country,9587,3581.56,4024.97
+4030,Hamilton-Moore,Sullivan,Kristy,+1-410-322-7603,226 Main St,Apt 1,Leipzig,Bavaria,10115,Germany,6613,2106.0,7225.74
+9344,"Doyle, Hoffman and Franklin",Mckenzie,Elizabeth,(547)848-1264,339 Oak St,Apt 40,Utrecht,Limburg,3511,Netherlands,9399,9975.05,1447.53
+6112,Webb Group,Kelly,Kevin,724-671-0458,679 Dogwood Ln,,Indianapolis,IN,46201,United States,3439,8693.61,3067.53
+4526,Mccoy Ltd,Sandoval,David,682-896-9562,543 Alder Dr,Suite 15,Kansas City,MO,64101,United States,2041,2013.21,5555.53
+9539,Sosa-Clark,Williams,Jacob,+1-270-672-7224x894,49 Maple Ave,Apt 31,Milan,Piedmont,10100,Italy,5722,7408.12,7732.37
+6682,Weaver-Molina,Smith,Kristen,452-375-2538x60170,19 High St,Apt 21,Leipzig,Berlin,10115,Germany,5405,5180.01,3728.55
+7503,Rodgers-Gentry,Moore,Leslie,888-437-4970,822 Park Ave,Apt 17,Utrecht,Limburg,6211,Netherlands,6030,5372.35,4265.78
+7688,"Cooper, Craig and Yates",Hughes,Brendan,001-447-730-9466x0469,890 Chestnut Ave,,Fresno,CA,93701,United States,1605,2719.68,6469.7
+1538,"Morgan, Moore and Irwin",Harris,Sherry,+1-560-552-0648x74208,72 Main St,Apt 24,Utrecht,North Holland,3011,Netherlands,6257,8330.08,2294.16
+8405,White-Thompson,Adams,Lance,001-842-371-7888x97011,56 Maple Ave,Apt 27,Frankfurt,Hamburg,80331,Germany,1845,3863.71,8420.47
+4956,"Galvan, Miller and Mills",Scott,Joshua,(237)367-7899x8188,262 Oak St,Apt 12,Marseille,Occitanie,31000,France,3431,5614.8,4659.92
+5345,"Wright, Patterson and Graham",Browning,Derek,+1-412-265-4731x6396,543 Alder Dr,Suite 15,Kansas City,MO,64101,United States,9167,2660.41,9251.44
+7764,Wilson-Lopez,Parker,Sarah,281-654-8921,822 Park Ave,Apt 17,Utrecht,Limburg,6211,Netherlands,3031,7632.31,1870.69
+5276,Fry Ltd,Owens,Julie,(902)229-2115x1466,753 Birch Cir,Suite 4,Portland,OR,97201,United States,8174,6827.06,4485.65
+7432,Gallagher-Murphy,Rivera,Nicole,5112975498,654 Fir St,,Nashville,TN,37201,United States,1556,7156.28,7695.72
+7060,"Lawson, Davis and Barrett",Chapman,Emily,914.766.7837x4071,134 Pine Ave,Suite 12,Bakersfield,CA,93301,United States,9162,6875.01,9582.79
+2112,"Lee, Alexander and Myers",Barnes,Mary,(795)231-4395,789 Pine Dr,Unit 5B,Chicago,IL,60601,United States,1276,5523.61,8218.11
+6217,"Finley, Lynch and Horn",Morgan,Jason,749-761-1330x71587,72 Main St,Apt 24,Utrecht,North Holland,3011,Netherlands,3048,8581.61,1091.32
+1724,"Andrews, Sawyer and Ramos",Robinson,Ronald,375.993.3305x59771,439 Maple Ave,Apt 17,Turin,Lazio,20100,Italy,9218,1608.76,3967.53
+3733,"Baker, Castillo and Howell",Howell,Mary,001-339-391-5669x7428,654 Fir St,,Nashville,TN,37201,United States,3849,1864.95,5537.41
+9704,Vazquez Ltd,Young,Lauren,001-872-674-8692,407 Park Ave,Apt 15,Venice,Lombardy,80100,Italy,7345,7481.78,9850.31
+9347,Caldwell-Phillips,Key,James,698.447.7899x83704,789 Maple Dr,Apt 3B,Denver,CO,80201,United States,2644,3009.4,3308.95
+6732,Garcia-Gay,Jimenez,Matthew,3916194117,890 Poplar Ave,Suite 20,Columbus,OH,43085,United States,9277,3094.78,4960.73
+8287,Pace-Taylor,Rush,Guy,+1-650-813-3707x04587,395 Park Ave,Apt 43,Rome,Veneto,00100,Italy,5884,5189.88,8384.14
+6502,"Matthews, Santos and Richardson",Ramos,Brian,(860)921-3593x93374,679 Dogwood Ln,,Indianapolis,IN,46201,United States,3911,3388.97,7173.99
+2994,Harrison-Blair,Green,Rachel,001-474-693-1474,652 High St,Apt 34,Bordeaux,Île-de-France,31000,France,2234,6904.52,8135.51
+5291,Williams-Hughes,Jones,Deborah,+1-688-995-9210x46710,543 Alder Dr,Suite 15,Kansas City,MO,64101,United States,4448,1630.62,9213.15
+8761,Brown-Williams,Rodriguez,Kyle,001-522-665-6830x75226,687 High St,Apt 38,Munich,Saxony,60311,Germany,3821,5451.64,9976.22
+9258,Thompson-Bush,Mcintyre,Ryan,230-980-2079x404,248 Birch Blvd,,Arlington,TX,76001,United States,5716,1747.95,1900.15
+8317,Cook Group,Hunt,Zachary,731-692-0724x6403,134 Pine Ave,Suite 12,Bakersfield,CA,93301,United States,8479,2371.54,1465.63
+6067,Williams-Williams,Jones,Pamela,(203)707-0451x5946,951 Oak St,,Louisville,KY,40201,United States,7901,2763.12,3269.01
+4200,Garza-Howard,Santiago,Shawn,+1-986-492-3328x316,296 Maple Ave,Apt 6,Seville,Catalonia,41001,Spain,2362,6105.51,7227.72
+2271,Harris Ltd,Fernandez,Brian,532-710-5042x383,654 Redwood St,Unit 8,Colorado Springs,CO,80901,United States,7219,1933.64,4685.33
+6578,Collins-Davis,Thompson,Kimberly,2649454741,775 Main St,Apt 48,Berlin,Hamburg,20095,Germany,5957,1323.34,8939.84
+1129,"Hill, Brown and Johnson",Scott,James,(449)671-5740x82227,747 Main St,Apt 13,Barcelona,Andalusia,15001,Spain,4870,1277.12,6688.86
+7172,Griffith Group,Morris,Kimberly,537.816.8624x9557,652 High St,Apt 34,Bordeaux,Île-de-France,31000,France,5094,9312.97,8325.64
+9936,Crawford PLC,Rush,David,9155800378,339 Oak St,Apt 40,Utrecht,Limburg,3511,Netherlands,6442,3407.21,4405.24
+3448,Giles-Norris,Jackson,Amanda,(852)945-6308,543 Beech Dr,Unit 6A,Charlotte,NC,28201,United States,3258,1260.71,8117.32
+7085,Campbell-Aguilar,Lynch,Gabrielle,371-604-8595,654 Fir St,,Nashville,TN,37201,United States,6084,5330.6,5109.91
+4773,Morris-Hernandez,Mejia,Regina,9027386406,987 Dogwood Rd,,Minneapolis,MN,55401,United States,3358,3494.06,8314.65
+9107,"Reyes, Cross and Middleton",Hodges,Michael,+1-365-404-6481x05986,608 Park Ave,Apt 2,Venice,Lombardy,00100,Italy,1135,5192.21,5635.61
+3369,Higgins LLC,Davis,Sharon,419-953-2576,123 Maple St,Apt 2,New York,NY,10001,United States,7843,1881.56,2233.28
+4684,Mcgrath-Cunningham,Martinez,Ricardo,543-497-8632x126,951 Oak St,,Louisville,KY,40201,United States,5418,4928.4,8017.07
+7371,Shaw Inc,Graham,Tiffany,858.242.2028,852 Palm Ave,,Dallas,TX,75201,United States,3005,6867.42,2692.38
+7877,Robinson-Robinson,Martin,Thomas,449-961-9344x585,159 Willow Ln,,Memphis,TN,38101,United States,6931,8818.46,8579.8
+8864,Henson-Morgan,Rodriguez,Ashlee,681-382-6670x77576,543 Beech Dr,Unit 6A,Charlotte,NC,28201,United States,9158,7103.23,2549.64
+1292,Powell PLC,Howell,David,7628057579,654 Redwood St,Unit 8,Colorado Springs,CO,80901,United States,4613,3690.45,8651.22
+1873,"Marshall, Gibson and Morales",Torres,Heidi,872.423.0055x3585,687 High St,Apt 38,Munich,Saxony,60311,Germany,8903,5312.96,8628.77
+8245,"Kelly, Montgomery and Allen",Anderson,Stephanie,001-759-655-3332x836,467 Spruce St,Apt 5,Albuquerque,NM,87101,United States,2290,1099.1,4114.55
+3781,"Carlson, Wilson and Jones",Robinson,Justin,227.353.3829,203 Oak St,Apt 28,Munich,Hamburg,10115,Germany,6938,9468.71,9740.15
+2899,Davidson-Phillips,Roy,Robert,+1-249-727-7102,159 Sycamore Ln,,Wichita,KS,67201,United States,9433,5771.4,6531.01
+5685,Avery Group,Joseph,Douglas,(354)331-0183,456 Oak Ave,Suite 300,Los Angeles,CA,90001,United States,5074,1921.59,2485.81
+5223,Hamilton Inc,Jenkins,Danny,6259762205,674 Park Ave,Apt 6,Leipzig,Hamburg,20095,Germany,8275,3290.95,1179.66
+5496,"Cummings, Foster and Davis",Robertson,Krista,861.849.0124,852 Maple Ave,,Cleveland,OH,44101,United States,8209,6508.37,5907.72
+5171,Lambert-Wilson,Reid,Chloe,9187335227,508 Maple Ave,Apt 35,Munich,Hamburg,04103,Germany,5490,5414.37,4613.24
+4335,"Moon, Sampson and Woods",Johnson,Amanda,337-939-3712x1480,296 Maple Ave,Apt 6,Seville,Catalonia,41001,Spain,3558,1131.85,4212.25
+1659,Taylor-Dickerson,Berg,Isaac,635.314.3760x0548,456 Oak Ave,Suite 300,Los Angeles,CA,90001,United States,4750,3372.72,6947.87
+7405,Garcia and Sons,Barker,Julie,001-282-526-9309x6033,679 Redwood Ln,Unit 2C,Tucson,AZ,85701,United States,8410,9683.46,6651.17
+2855,Clark Group,Bell,Jennifer,001-209-657-2480x1023,890 Chestnut Ave,,Fresno,CA,93701,United States,3148,7494.1,6877.66
+4958,Davis LLC,Howard,Elizabeth,919-843-7546,98 Park Ave,Apt 35,Amsterdam,Gelderland,1012,Netherlands,3837,3599.93,3881.36
+1826,Parsons-George,Owen,Patrick,+1-717-783-2943x8341,951 Hickory St,Apt 7,San Jose,CA,95101,United States,4391,4938.81,7952.03
+9693,Torres-Garcia,Orr,Valerie,(386)990-2065,110 Oak St,Apt 6,Marseille,Île-de-France,75000,France,8379,9218.52,3288.9
+6943,Anderson Ltd,Rodriguez,Joseph,(621)591-8755,793 Oak St,Apt 22,A Coruña,Madrid,08001,Spain,4327,9818.52,8745.4
+4611,"Wilkinson, Sanchez and Miller",Simpson,Kevin,+1-676-660-1228x44504,321 Spruce Dr,,Omaha,NE,68101,United States,3182,9437.35,2585.9
+8714,Wiley-Brown,Dawson,Pamela,+1-524-984-3732x57163,123 Maple St,Apt 2,New York,NY,10001,United States,2358,7152.22,6461.64
+5377,"Ross, Franklin and Benson",Conway,Mary,001-605-741-6019,679 Redwood Ln,Unit 2C,Tucson,AZ,85701,United States,7654,3810.55,1867.47
+3698,"Valentine, Richardson and Jefferson",Mitchell,Mariah,(326)823-1826,159 Willow Ln,,Memphis,TN,38101,United States,4185,6107.6,9517.74
+6460,Myers-Martinez,Robinson,James,817.805.2961,321 Spruce Dr,,Omaha,NE,68101,United States,6024,7045.66,6712.18
+8491,Howard-House,Fuentes,Jessica,500-799-1737x373,321 Birch Blvd,,Houston,TX,77001,United States,6292,8130.97,3315.18
+8744,"Norton, Gross and Pham",Roman,Monica,001-582-322-8644x776,687 High St,Apt 38,Munich,Saxony,60311,Germany,1511,4983.01,4931.03
+9034,"Hill, York and Peters",Carter,Brooke,+1-344-983-4458,123 Cedar St,,Atlanta,GA,30301,United States,7643,5672.11,9389.08
+7555,Bonilla Group,Yates,Amanda,(364)629-2721x0264,134 Redwood Dr,,Jacksonville,FL,32201,United States,9513,9074.78,7283.19
+2911,Gray-Shelton,Martinez,Jay,547-498-8596x683,addressLine1,addressLine2,city,state,postalCode,country,1553,2323.44,4742.81
+9154,Gonzalez Ltd,Boyd,Dale,+1-792-731-0946x0242,654 Elm St,Apt 4C,Phoenix,AZ,85001,United States,9255,1192.36,6661.0
+2837,Thompson PLC,Jackson,Adrian,9034681667,159 Willow Ln,,Memphis,TN,38101,United States,3466,1636.31,9342.2
+1065,Blanchard LLC,Campos,Eric,001-392-222-1771x6538,687 High St,Apt 38,Munich,Saxony,60311,Germany,3902,4067.49,8019.92
+8492,Diaz-Cunningham,Olsen,Nicholas,+1-688-510-8295x2376,775 Main St,Apt 48,Berlin,Hamburg,20095,Germany,1124,5347.38,1166.26
+6923,Blankenship LLC,Rios,Justin,+1-735-940-4713,924 Main St,Apt 44,Frankfurt,Hamburg,20095,Germany,7437,8611.22,6266.83
+4590,Stewart LLC,Fowler,Christina,(302)851-2913x780,243 Maple Ave,Apt 13,Valencia,Valencia,28001,Spain,8591,7282.31,9785.1
+7144,Wu Ltd,Rodriguez,Crystal,974.976.5729x5530,321 Cypress Cir,,El Paso,TX,79901,United States,7913,5865.46,6420.7
+7292,Melton PLC,Gray,Lisa,001-890-932-2051,687 High St,Apt 38,Munich,Saxony,60311,Germany,4600,4887.35,5624.54
+3618,"Grant, Hammond and Anderson",Winters,Daniel,995-214-4791x2093,951 Oak St,,Louisville,KY,40201,United States,8760,9096.68,8809.87
+8386,Williams Group,Torres,Pamela,366.279.1296x643,321 Birch Blvd,,Houston,TX,77001,United States,1977,1754.22,8602.91
+5355,"Willis, Merritt and Thomas",Clayton,Steven,(572)318-9053,133 Oak St,Apt 16,Venice,Campania,20100,Italy,6709,2941.5,3371.63
+9251,"Lucas, Gallagher and Delgado",Baldwin,William,001-824-332-7080,460 Oak St,Apt 36,Milan,Piedmont,80100,Italy,3614,4578.16,6621.89
+8409,"Richardson, Johnson and Vaughn",Lee,Shannon,484.640.5186,679 Dogwood Ln,,Indianapolis,IN,46201,United States,5937,3487.98,3233.17
+6567,Stewart-Marquez,Rice,Christina,+1-503-924-8944x4353,789 Maple Dr,Apt 3B,Denver,CO,80201,United States,5923,6600.42,7519.62
+5797,Kemp Group,Reyes,Joel,001-680-699-0521x860,395 Park Ave,Apt 43,Rome,Veneto,00100,Italy,8995,7523.88,8097.03
+8721,Cunningham and Sons,Murray,Lee,(801)319-0621x81393,652 High St,Apt 34,Bordeaux,Île-de-France,31000,France,2804,5530.96,5469.33
+8120,Mendoza-Johns,Ashley,Amanda,231-403-0073x98228,19 High St,Apt 21,Leipzig,Berlin,10115,Germany,5733,4181.5,1397.44
+7101,Taylor-Zuniga,Morgan,Thomas,741.957.5274x21801,395 Park Ave,Apt 43,Rome,Veneto,00100,Italy,3670,4340.36,6369.83
+1893,"Hamilton, Lamb and Miller",Wang,Larry,287-805-2023,987 Juniper Rd,,Boston,MA,02101,United States,1092,6192.52,7473.65
+1880,Schroeder-Romero,Brown,Erica,+1-644-377-2925,467 Sycamore St,Apt 12,San Francisco,CA,94101,United States,9101,3734.58,5652.9
+2333,Herrera LLC,Figueroa,Monica,642.553.5403x663,123 Chestnut St,,Detroit,MI,48201,United States,6423,9173.26,3660.41
+5493,Rodriguez LLC,Ramsey,Rita,(733)475-9638,679 Dogwood Ln,,Indianapolis,IN,46201,United States,6652,1402.37,1320.28
+6782,"Burton, Clayton and Lee",Camacho,Charles,(587)511-9359x5623,72 Main St,Apt 24,Utrecht,North Holland,3011,Netherlands,8844,7159.85,8106.32
+3378,"Valencia, Sanchez and Jones",Barnett,Christopher,458-419-0173,110 Oak St,Apt 6,Marseille,Île-de-France,75000,France,5656,6073.4,4595.8
+5561,Wu PLC,Hudson,Dylan,2007406056,789 Maple Dr,Apt 3B,Denver,CO,80201,United States,7615,8522.86,7704.67
+8198,"Russell, Burnett and Yang",Rodriguez,Tina,3075841604,907 Oak St,,Sacramento,CA,94203,United States,4884,4240.35,1724.71
+4728,Schmidt and Sons,Manning,Veronica,(886)465-3441x407,907 Oak St,,Sacramento,CA,94203,United States,4919,9884.68,2058.06
+2937,Carpenter-Green,Brown,Cory,+1-229-480-3893x73096,617 Park Ave,Apt 34,Leipzig,Hesse,04103,Germany,9321,2002.01,3156.16
+2009,Patel Inc,Cardenas,Mary,631-976-9374x7371,789 Pine Cir,,Raleigh,NC,27601,United States,5682,6667.77,9109.56
+6463,Velasquez Group,Adams,Holly,(356)201-4789,110 Oak St,Apt 6,Marseille,Île-de-France,75000,France,1589,1798.92,4653.2
+1858,"Palmer, Oconnell and Little",Schultz,Thomas,001-393-831-0865x214,924 Main St,Apt 44,Frankfurt,Hamburg,20095,Germany,6097,7902.36,5858.87
+2513,"Murray, Vincent and Brown",Scott,Kristina,(955)355-5294x9992,717 Oak St,Apt 11,Hamburg,Hesse,10115,Germany,4651,8637.47,5728.58
+1453,"Harvey, Grant and Carlson",Smith,Thomas,929-307-3361,47 Main St,Apt 17,Frankfurt,Hamburg,10115,Germany,6624,9390.76,3865.39
+3071,"Booth, Rangel and Ayala",Castillo,David,(725)868-6020x37985,852 Maple Ave,,Cleveland,OH,44101,United States,9699,6876.44,8836.46
+6094,Melton Inc,Mcguire,Aaron,670.535.8763,826 Oak St,Apt 49,Toulouse,Île-de-France,13000,France,3108,2287.42,7758.38
+9070,"Serrano, Thomas and Ortiz",Donaldson,Joseph,001-299-270-6869,753 Willow Cir,Suite 10,San Diego,CA,92101,United States,8556,5502.56,9195.1
+5780,Thomas-Reid,Kelly,Miguel,+1-856-571-8149,596 Park Ave,Apt 41,Madrid,Catalonia,28001,Spain,2735,3102.55,8814.57
+4681,"Smith, Hunt and Lucas",Cunningham,James,(421)223-1174,439 Maple Ave,Apt 17,Turin,Lazio,20100,Italy,4019,6775.91,1278.99
+1754,Torres-Smith,Moore,Shane,001-440-969-3824x213,addressLine1,addressLine2,city,state,postalCode,country,8299,1864.93,3399.88
+5696,Moore-Johnson,Gibson,Gerald,837-772-0122,852 Maple Ave,,Cleveland,OH,44101,United States,9108,9832.69,9108.2
+4463,Hill and Sons,Mason,Catherine,(434)244-4744x911,98 Park Ave,Apt 35,Amsterdam,Gelderland,1012,Netherlands,5497,5723.51,3846.18
+2401,Jones PLC,Christensen,John,642-652-6925,187 Oak St,Apt 39,Utrecht,Gelderland,6811,Netherlands,3069,2233.2,9176.99
+6832,Shaw-Snyder,James,Megan,899-383-0231,674 Park Ave,Apt 6,Leipzig,Hamburg,20095,Germany,1157,1990.26,6218.64
+6079,Wilson and Sons,Rivera,Jonathan,954-501-4170x3916,951 Oak St,Apt 7A,Tampa,FL,33601,United States,1743,6016.41,3843.07
+1120,Figueroa-Johnson,Crawford,Charlotte,9596838217,687 High St,Apt 38,Munich,Saxony,60311,Germany,9823,9969.0,5551.21
+3408,"Huynh, Ford and Davidson",Miller,Carla,(417)778-1463,467 Spruce St,Apt 5,Albuquerque,NM,87101,United States,2596,9127.86,7690.49
+3456,"Barry, Goodman and Fields",Sanchez,Diana,935-475-5461,543 Alder Dr,Suite 15,Kansas City,MO,64101,United States,1354,6929.18,4455.22
+8529,Murphy-Washington,Guerrero,Robert,(266)816-3130x0286,395 Park Ave,Apt 43,Rome,Veneto,00100,Italy,9025,7749.64,5369.53
+1055,Reed Ltd,Diaz,Maurice,001-777-513-5070x358,460 Oak St,Apt 36,Milan,Piedmont,80100,Italy,1873,1193.73,9515.96
+8169,"Kemp, Sanchez and Hale",Chang,Brett,001-969-910-8662x871,966 Park Ave,Apt 32,Naples,Campania,30100,Italy,3362,7408.82,3137.52
+4435,"Richardson, Sanders and Olson",Alvarez,Thomas,(346)954-7873x03050,753 Birch Cir,Suite 4,Portland,OR,97201,United States,7569,8013.11,5134.55
+7448,Martinez and Sons,Baker,Rhonda,5403818613,159 Sycamore Ln,,Wichita,KS,67201,United States,8807,9546.61,3362.7
+9423,Ward-Clark,Dawson,Tammy,+1-996-749-6559x28219,321 Birch Blvd,,Houston,TX,77001,United States,8620,7093.61,6589.76
+5990,Coleman-Marshall,Hudson,Joshua,599-719-1097,674 Park Ave,Apt 6,Leipzig,Hamburg,20095,Germany,6201,5238.12,2743.73
+9774,Carson-Scott,Le,Scott,(844)531-2326,19 High St,Apt 21,Leipzig,Berlin,10115,Germany,4157,2841.41,1070.28
+5831,"Grant, Ferguson and Powell",Small,Lauren,353-350-5972x326,511 Main St,Apt 50,Marseille,Provence-Alpes-Côte d'Azur,31000,France,3184,5062.08,5539.7
+9443,Vargas Group,Hopkins,Erin,(807)297-6863x0766,511 Main St,Apt 50,Marseille,Provence-Alpes-Côte d'Azur,31000,France,1589,3977.61,8320.47
+3969,King PLC,Patel,Nicholas,6869248202,761 Maple Ave,Apt 19,Milan,Lombardy,00100,Italy,9365,6432.27,2419.52
+5893,Gutierrez-Reynolds,Mejia,Mark,001-854-553-1565x89448,321 Birch Blvd,,Houston,TX,77001,United States,3232,6575.02,6337.48
