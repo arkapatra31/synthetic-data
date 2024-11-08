@@ -1,0 +1,100 @@
+addressLine1,addressLine2,city,state,postalCode,country
+652 High St,Apt 34,Bordeaux,Île-de-France,31000,France
+460 Oak St,Apt 36,Milan,Piedmont,80100,Italy
+966 Park Ave,Apt 32,Naples,Campania,30100,Italy
+49 Oak St,Apt 1,Amsterdam,North Holland,3011,Netherlands
+19 High St,Apt 21,Leipzig,Berlin,10115,Germany
+608 Park Ave,Apt 2,Venice,Lombardy,00100,Italy
+110 Oak St,Apt 6,Marseille,Île-de-France,75000,France
+243 Maple Ave,Apt 13,Valencia,Valencia,28001,Spain
+617 Park Ave,Apt 34,Leipzig,Hesse,04103,Germany
+269 Maple Ave,Apt 21,Turin,Campania,80100,Italy
+687 High St,Apt 38,Munich,Saxony,60311,Germany
+775 Main St,Apt 48,Berlin,Hamburg,20095,Germany
+187 Oak St,Apt 39,Utrecht,Gelderland,6811,Netherlands
+72 Main St,Apt 24,Utrecht,North Holland,3011,Netherlands
+187 Park Ave,Apt 42,Munich,Saxony,80331,Germany
+339 Oak St,Apt 40,Utrecht,Limburg,3511,Netherlands
+600 Park Ave,Apt 2,Rotterdam,North Holland,3011,Netherlands
+822 Park Ave,Apt 17,Utrecht,Limburg,6211,Netherlands
+358 Main St,Apt 25,Hamburg,Hamburg,60311,Germany
+407 Park Ave,Apt 15,Venice,Lombardy,80100,Italy
+990 Maple Ave,Apt 7,Milan,Veneto,20100,Italy
+742 High St,Apt 30,Marseille,Occitanie,69000,France
+47 Main St,Apt 17,Frankfurt,Hamburg,10115,Germany
+826 Oak St,Apt 49,Toulouse,Île-de-France,13000,France
+133 Oak St,Apt 16,Venice,Campania,20100,Italy
+924 Main St,Apt 44,Frankfurt,Hamburg,20095,Germany
+508 Maple Ave,Apt 35,Munich,Hamburg,04103,Germany
+790 Maple Ave,Apt 34,Seville,Catalonia,41001,Spain
+747 Main St,Apt 13,Barcelona,Andalusia,15001,Spain
+262 Oak St,Apt 12,Marseille,Occitanie,31000,France
+203 Oak St,Apt 28,Munich,Hamburg,10115,Germany
+395 Park Ave,Apt 43,Rome,Veneto,00100,Italy
+14 Oak St,Apt 35,Venice,Piedmont,00100,Italy
+930 Main St,Apt 32,Utrecht,Utrecht,1012,Netherlands
+56 Maple Ave,Apt 27,Frankfurt,Hamburg,80331,Germany
+49 Maple Ave,Apt 31,Milan,Piedmont,10100,Italy
+237 Main St,Apt 35,Madrid,Valencia,15001,Spain
+893 Oak St,Apt 47,Naples,Lombardy,20100,Italy
+674 Park Ave,Apt 6,Leipzig,Hamburg,20095,Germany
+98 Park Ave,Apt 35,Amsterdam,Gelderland,1012,Netherlands
+511 Main St,Apt 50,Marseille,Provence-Alpes-Côte d'Azur,31000,France
+793 Oak St,Apt 22,A Coruña,Madrid,08001,Spain
+296 Maple Ave,Apt 6,Seville,Catalonia,41001,Spain
+439 Maple Ave,Apt 17,Turin,Lazio,20100,Italy
+343 Maple Ave,Apt 9,Berlin,Saxony,20095,Germany
+596 Park Ave,Apt 41,Madrid,Catalonia,28001,Spain
+761 Maple Ave,Apt 19,Milan,Lombardy,00100,Italy
+226 Main St,Apt 1,Leipzig,Bavaria,10115,Germany
+717 Oak St,Apt 11,Hamburg,Hesse,10115,Germany
+920 Oak St,Apt 11,Milan,Campania,30100,Italy
+addressLine1,addressLine2,city,state,postalCode,country
+123 Maple St,Apt 2,New York,NY,10001,United States
+456 Oak Ave,Suite 300,Los Angeles,CA,90001,United States
+789 Pine Dr,Unit 5B,Chicago,IL,60601,United States
+321 Birch Blvd,,Houston,TX,77001,United States
+654 Elm St,Apt 4C,Phoenix,AZ,85001,United States
+987 Cedar Rd,,Philadelphia,PA,19101,United States
+159 Spruce Ln,,San Antonio,TX,78201,United States
+753 Willow Cir,Suite 10,San Diego,CA,92101,United States
+852 Palm Ave,,Dallas,TX,75201,United States
+951 Hickory St,Apt 7,San Jose,CA,95101,United States
+248 Magnolia Ct,,Austin,TX,73301,United States
+134 Redwood Dr,,Jacksonville,FL,32201,United States
+467 Sycamore St,Apt 12,San Francisco,CA,94101,United States
+679 Dogwood Ln,,Indianapolis,IN,46201,United States
+890 Poplar Ave,Suite 20,Columbus,OH,43085,United States
+907 Walnut St,,Fort Worth,TX,76101,United States
+543 Beech Dr,Unit 6A,Charlotte,NC,28201,United States
+123 Chestnut St,,Detroit,MI,48201,United States
+456 Alder Ave,,Seattle,WA,98101,United States
+789 Maple Dr,Apt 3B,Denver,CO,80201,United States
+321 Cypress Cir,,El Paso,TX,79901,United States
+654 Fir St,,Nashville,TN,37201,United States
+987 Juniper Rd,,Boston,MA,02101,United States
+159 Willow Ln,,Memphis,TN,38101,United States
+753 Birch Cir,Suite 4,Portland,OR,97201,United States
+852 Cedar Ave,,Las Vegas,NV,89101,United States
+951 Oak St,,Louisville,KY,40201,United States
+248 Maple Ct,,Baltimore,MD,21201,United States
+134 Pine Dr,,Milwaukee,WI,53201,United States
+467 Spruce St,Apt 5,Albuquerque,NM,87101,United States
+679 Redwood Ln,Unit 2C,Tucson,AZ,85701,United States
+890 Chestnut Ave,,Fresno,CA,93701,United States
+907 Oak St,,Sacramento,CA,94203,United States
+543 Alder Dr,Suite 15,Kansas City,MO,64101,United States
+123 Cedar St,,Atlanta,GA,30301,United States
+456 Maple Ave,Apt 9B,Miami,FL,33101,United States
+789 Pine Cir,,Raleigh,NC,27601,United States
+321 Spruce Dr,,Omaha,NE,68101,United States
+654 Redwood St,Unit 8,Colorado Springs,CO,80901,United States
+987 Dogwood Rd,,Minneapolis,MN,55401,United States
+159 Sycamore Ln,,Wichita,KS,67201,United States
+753 Chestnut Cir,,New Orleans,LA,70112,United States
+852 Maple Ave,,Cleveland,OH,44101,United States
+951 Oak St,Apt 7A,Tampa,FL,33601,United States
+248 Birch Blvd,,Arlington,TX,76001,United States
+134 Pine Ave,Suite 12,Bakersfield,CA,93301,United States
+467 Cedar St,,Anaheim,CA,92801,United States
+679 Spruce Ln,,Santa Ana,CA,92701,United States
